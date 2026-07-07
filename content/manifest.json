@@ -78,6 +78,15 @@
       "tags": ["agentic-tool", "adoption", "playbook"]
     }
   ],
+  "digest": [
+    {
+      "file": "digest/2026-W28.md",
+      "title": "Week 28 — Job architecture breaks first · the HRIS layer goes agentic · AI is now a default RFP line",
+      "date": "2026-07-07",
+      "status": "done",
+      "tags": ["digest", "job-architecture", "hris", "client-demand"]
+    }
+  ],
   "linkedin": [
     {
       "file": "linkedin/2026-07-08-cisco-sequencing.md",

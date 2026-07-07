@@ -4,6 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Shibu Singh · AI Transformation Studio</title>
+<meta name="description" content="Change management for the agent era. Daily AI transformation intelligence, worked scenarios, a global signals map, and working consulting tools — built and operated by Shibu Singh.">
+<meta property="og:title" content="Shibu Singh · AI Transformation Studio">
+<meta property="og:description" content="Change management for the agent era — daily intelligence radar, global signals map, end-to-end transformation scenarios, and a working consulting toolkit.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://shibusinghh.github.io/ai-transformation-studio/">
+<meta name="twitter:card" content="summary">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css">
@@ -35,6 +41,15 @@
       </button>
       <button class="nav-item" data-section="toolkit">
         <span class="nav-icon">⚒</span> Toolkit <span class="nav-count" id="count-toolkit"></span>
+      </button>
+      <button class="nav-item" data-section="map">
+        <span class="nav-icon">◐</span> Signals Map
+      </button>
+      <button class="nav-item" data-section="digest">
+        <span class="nav-icon">≣</span> Field Digest <span class="nav-count" id="count-digest"></span>
+      </button>
+      <button class="nav-item" data-section="builder">
+        <span class="nav-icon">⌗</span> Scenario Builder
       </button>
       <button class="nav-item" data-section="linkedin">
         <span class="nav-icon">✎</span> LinkedIn Queue <span class="nav-count" id="count-linkedin"></span>
@@ -123,6 +138,111 @@
       <div class="item-list" id="list-portfolio"></div>
     </section>
 
+    <!-- SIGNALS MAP -->
+    <section class="section" id="section-map">
+      <header class="section-head">
+        <h1>Signals Map</h1>
+        <p>Where the developments that matter to People Advisory are happening — org redesign, job architecture, HRIS integration, AI transformation, workforce shifts, and regulation. Click a point for the story. Updated weekly with the digest; coverage follows sourced news.</p>
+      </header>
+      <div class="map-legend" id="map-legend"></div>
+      <div class="globe-wrap">
+        <div id="globe-container"></div>
+        <div class="map-detail" id="map-detail"><div class="empty">Select a point on the globe.</div></div>
+      </div>
+      <div class="item-list" id="map-fallback" hidden></div>
+    </section>
+
+    <!-- FIELD DIGEST -->
+    <section class="section" id="section-digest">
+      <header class="section-head">
+        <h1>Field Digest</h1>
+        <p>The weekly synthesis: which field is being disrupted, what clients are asking for now, how AI shows up in project scopes, and how organizations need to adapt. Generated with <code>/weekly-digest</code>, which also refreshes the Signals Map.</p>
+      </header>
+      <input class="search" data-filter="digest" type="search" placeholder="Search digests…">
+      <div class="item-list" id="list-digest"></div>
+    </section>
+
+    <!-- SCENARIO BUILDER -->
+    <section class="section" id="section-builder">
+      <header class="section-head">
+        <h1>Scenario Builder</h1>
+        <p>Describe the organization and the problem; get a tailored change-management plan skeleton instantly, plus a ready-to-run brief that generates the full end-to-end deck. Built on the six-move sequence from the Playbook.</p>
+      </header>
+
+      <form id="builder-form" class="builder-form">
+        <div class="form-grid">
+          <label>Organization (optional)
+            <input type="text" id="b-org" placeholder="e.g. a European retail bank">
+          </label>
+          <label>Employees
+            <select id="b-size">
+              <option value="s">Under 500</option>
+              <option value="m">500 – 2,000</option>
+              <option value="l" selected>2,000 – 10,000</option>
+              <option value="xl">10,000 – 50,000</option>
+              <option value="xxl">50,000+</option>
+            </select>
+          </label>
+          <label>Industry
+            <select id="b-industry">
+              <option>Banking &amp; insurance</option><option>Healthcare &amp; pharma</option>
+              <option>Manufacturing</option><option>Energy &amp; utilities</option>
+              <option>Technology &amp; software</option><option>Retail &amp; consumer</option>
+              <option>Public sector</option><option>Professional services</option>
+              <option>Telecom</option><option>Other</option>
+            </select>
+          </label>
+          <label>Sector
+            <select id="b-sector"><option>Private</option><option>Public</option><option>NGO / non-profit</option></select>
+          </label>
+          <label>Primary region
+            <select id="b-region">
+              <option value="eu">EU</option><option value="uk">UK</option><option value="us">US</option>
+              <option value="apac">APAC</option><option value="me">Middle East</option><option value="global">Global</option>
+            </select>
+          </label>
+          <label>Deploying
+            <select id="b-deploy">
+              <option>Copilot-class assistant (all staff)</option>
+              <option>Task-specific agents (selected workflows)</option>
+              <option selected>Both: assistant + task agents</option>
+              <option>Custom AI platform</option>
+            </select>
+          </label>
+          <label>Timeline
+            <select id="b-timeline"><option value="6">6 months</option><option value="12" selected>12 months</option><option value="18">18 months</option><option value="24">24 months</option></select>
+          </label>
+        </div>
+
+        <div class="check-row">
+          <label class="check"><input type="checkbox" id="b-wc"> Works councils / unions</label>
+          <label class="check"><input type="checkbox" id="b-restructure"> Restructuring in last 24 months</label>
+          <label class="check"><input type="checkbox" id="b-failed"> Prior AI pilots failed / abandoned</label>
+          <label class="check"><input type="checkbox" id="b-pressure"> Hard board deadline</label>
+          <label class="check"><input type="checkbox" id="b-regulated"> Heavily regulated industry</label>
+        </div>
+
+        <label class="full">Problem statement
+          <textarea id="b-problem" rows="3" placeholder="e.g. Claims processing costs are 30% above peers; the board wants agents in the workflow but the operations teams don't trust the program after last year's outsourcing."></textarea>
+        </label>
+        <label class="full">Main goal to achieve
+          <input type="text" id="b-goal" placeholder="e.g. Six agent-supported workflows in production with adoption above 70% within a year">
+        </label>
+
+        <button type="submit" class="primary-btn">Generate the plan</button>
+      </form>
+
+      <div id="builder-output" hidden>
+        <div class="panel builder-result">
+          <div class="panel-head"><h2>Your plan skeleton</h2>
+            <button class="copy-btn" id="copy-brief">Copy full-deck brief</button>
+          </div>
+          <div id="builder-plan" class="reader-body"></div>
+        </div>
+        <p class="builder-note">This skeleton is generated by the site's rules engine. For the complete deck — full risk register, comms calendar, stakeholder plays, slide-ready structure — copy the brief above, open Claude Code in this repo, and run <code>/deck-builder</code> with it. That's the human+AI workflow this studio is built on.</p>
+      </div>
+    </section>
+
     <!-- TOOLKIT -->
     <section class="section" id="section-toolkit">
       <header class="section-head">
@@ -152,6 +272,20 @@
         <p>The 2026 enterprise reality: roughly 79% of companies say they've adopted AI agents; about 11% run them in production. That gap is not a model problem. It is trust, governance, work design, and sequencing — the discipline I come from, applied to the technology I build with.</p>
         <p class="about-tags">
           <span>AI transformation</span><span>Agentic AI adoption</span><span>Change management</span><span>People advisory</span><span>Operating model design</span><span>AI governance</span>
+        </p>
+      </div>
+
+      <div class="about-card recruiter-card">
+        <h2>Visiting as a recruiter or hiring manager? Start here.</h2>
+        <p>Everything on this site is <strong>built and operated by me, with AI agents I direct</strong> — that workflow is the point. Three things to look at, in order:</p>
+        <p>1. <strong>Scenario Lab</strong> → the deep-mode transformation plan (an agentic rollout under the EU AI Act clock): how I structure an end-to-end change program — assumptions, tripwires, guardrails, and the honest parts most plans omit.</p>
+        <p>2. <strong>Toolkit</strong> → three working consulting tools I built, including a readiness diagnostic that refuses to score dimensions without evidence — my research discipline, productized.</p>
+        <p>3. <strong>Scenario Builder</strong> → try it live: describe an organization and watch the tailored plan skeleton appear.</p>
+        <p>The pulse, map, and digest update on a daily/weekly rhythm — check the timestamps. This is a practice, not a brochure.</p>
+        <p class="contact-row">
+          <a href="https://github.com/shibusinghh/ai-transformation-studio" target="_blank" rel="noopener">GitHub: how it's built ↗</a>
+          <a href="mailto:shibusingh33328@gmail.com">Email me</a>
+          <a href="https://www.linkedin.com/" target="_blank" rel="noopener">LinkedIn ↗</a>
         </p>
       </div>
     </section>

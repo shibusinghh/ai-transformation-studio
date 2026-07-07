@@ -1,0 +1,139 @@
+{
+  "updated": "2026-07-07",
+  "categories": {
+    "org-design": { "label": "Org development / reorganisation", "color": "#f0abfc" },
+    "job-architecture": { "label": "Job architecture & skills", "color": "#fbbf24" },
+    "hris": { "label": "HRIS & HR tech integration", "color": "#818cf8" },
+    "ai-transformation": { "label": "AI transformation programs", "color": "#5eead4" },
+    "workforce": { "label": "Workforce & future of work", "color": "#a3e635" },
+    "regulation": { "label": "AI regulation & compliance", "color": "#f87171" }
+  },
+  "signals": [
+    {
+      "id": "deloitte-titles",
+      "lat": 40.71, "lng": -74.01, "country": "United States", "city": "New York",
+      "category": "job-architecture",
+      "title": "Deloitte US eliminates traditional job titles",
+      "summary": "Effective June 1, 2026, Deloitte's US divisions dropped traditional job titles — explicitly framed as a response to AI absorbing junior consulting work. The most visible job-architecture rebuild in professional services so far.",
+      "date": "2026-06", "verified": true,
+      "source": "https://futureofconsulting.ai/ai-leadership/2026-consultings-ai-revolution-update/"
+    },
+    {
+      "id": "sap-successfactors",
+      "lat": 49.30, "lng": 8.64, "country": "Germany", "city": "Walldorf",
+      "category": "hris",
+      "title": "SAP ships suite-wide agentic AI in SuccessFactors",
+      "summary": "The 1H 2026 release rolls out 15 assistants and 62 agents across the SuccessFactors suite; SmartRecruiters' Winston and SAP Joule begin operating as connected agents. The HRIS layer itself is becoming agentic.",
+      "date": "2026-04", "verified": true,
+      "source": "https://news.sap.com/2026/04/sap-successfactors-1h-2026-release/"
+    },
+    {
+      "id": "servicenow-hr-agents",
+      "lat": 37.35, "lng": -121.95, "country": "United States", "city": "Santa Clara",
+      "category": "hris",
+      "title": "ServiceNow's role-scoped HR agents force an HRIS strategy response",
+      "summary": "ServiceNow's 'autonomous workforce' positioning — agents operating across IT, HR, and security on one platform — pressures Workday, SAP, and Oracle HCM and reopens every HRIS integration roadmap.",
+      "date": "2026-06", "verified": false,
+      "source": "https://www.aihr-institute.com/servicenows-autonomous-workforce-what-role-scoped-hr-agents-mean-for-your-hris-strategy"
+    },
+    {
+      "id": "workday-agent-governance",
+      "lat": 37.66, "lng": -121.87, "country": "United States", "city": "Pleasanton",
+      "category": "hris",
+      "title": "Workday adds build/connect/monitor tooling for AI agents",
+      "summary": "June 2026: tools for governing agents that touch employee records, benefits, payroll, and approvals — wired into existing security rules and audit trails. Agent governance is becoming an HRIS feature, not a policy document.",
+      "date": "2026-06", "verified": false,
+      "source": "https://www.techtarget.com/searchhrsoftware/news/366643078/How-SAP-sees-the-future-of-HR-in-the-age-of-AI"
+    },
+    {
+      "id": "cisco-sequencing",
+      "lat": 37.34, "lng": -121.89, "country": "United States", "city": "San Jose",
+      "category": "org-design",
+      "title": "Cisco: agent rollout lands two weeks after layoffs begin",
+      "summary": "Under 4,000 roles cut from July 13; the company-wide AI agent reaches remaining employees about two weeks later. The textbook sequencing collision between restructuring and adoption.",
+      "date": "2026-07", "verified": true,
+      "source": "https://cxm.world/employee-experience/cisco-ai-agent-rollout-layoffs-employee-trust/"
+    },
+    {
+      "id": "eu-ai-act",
+      "lat": 50.85, "lng": 4.35, "country": "Belgium", "city": "Brussels",
+      "category": "regulation",
+      "title": "EU AI Act: main enforcement wave begins 2 August 2026",
+      "summary": "Most provisions enforceable from 2 Aug 2026; fines to €35M or 7% of turnover. The Article 4 AI-literacy duty (in force since Feb 2025) makes workforce training a compliance line item across the EU.",
+      "date": "2026-08", "verified": true,
+      "source": "https://www.is4.ai/blog/our-blog-1/eu-ai-act-compliance-guide-2026-345"
+    },
+    {
+      "id": "kpmg-malta",
+      "lat": 35.90, "lng": 14.51, "country": "Malta", "city": "Valletta",
+      "category": "regulation",
+      "title": "KPMG Malta: local BCM practice with AI tied to EU transparency law",
+      "summary": "Member-firm pattern: KPMG Malta runs its own business continuity management practice with AI capabilities aligned to EU transparency requirements — small-market member firms turning regulation into productized method. LEAD — needs source verification.",
+      "date": "2026", "verified": false,
+      "source": ""
+    },
+    {
+      "id": "chatpwc",
+      "lat": 51.51, "lng": -0.13, "country": "United Kingdom", "city": "London",
+      "category": "ai-transformation",
+      "title": "ChatPwC at ~200,000 seats — the largest consulting GenAI deployment",
+      "summary": "PwC's internal platform reported as OpenAI's largest enterprise customer. The firm's own transformation is the sales credential.",
+      "date": "2026", "verified": false,
+      "source": "https://futureofconsulting.ai/ai-leadership/2026-consultings-ai-revolution-update/"
+    },
+    {
+      "id": "mckinsey-lilli",
+      "lat": 40.76, "lng": -73.98, "country": "United States", "city": "New York",
+      "category": "ai-transformation",
+      "title": "McKinsey's Lilli orchestrates ~20,000 agents alongside 40,000 consultants",
+      "summary": "From 2023 chatbot to multi-model agentic orchestrator powering engagements — an internal agent workforce roughly half the size of the human one.",
+      "date": "2026", "verified": false,
+      "source": "https://futureofconsulting.ai/ai-leadership/2026-consultings-ai-revolution-update/"
+    },
+    {
+      "id": "accenture-fde",
+      "lat": 53.35, "lng": -6.26, "country": "Ireland", "city": "Dublin",
+      "category": "ai-transformation",
+      "title": "ServiceNow + Accenture launch forward-deployed engineering for agentic AI",
+      "summary": "Joint program placing forward-deployed engineers inside enterprises to push agents past the pilot phase — the market pricing the pilot-to-production gap as a people-and-deployment problem.",
+      "date": "2026-06", "verified": true,
+      "source": "https://newsroom.accenture.com/news/2026/servicenow-and-accenture-launch-forward-deployed-engineering-program-to-scale-agentic-ai-across-the-enterprise"
+    },
+    {
+      "id": "microsoft-wti",
+      "lat": 47.67, "lng": -122.12, "country": "United States", "city": "Redmond",
+      "category": "workforce",
+      "title": "Microsoft 2026 Work Trend Index: 'human agency' as the design principle",
+      "summary": "Microsoft's framing for agent-era work design centers human agency — the vendor-side acknowledgment that adoption is a work-design problem, not a licensing one.",
+      "date": "2026", "verified": true,
+      "source": "https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization"
+    },
+    {
+      "id": "cleveland-clinic",
+      "lat": 41.50, "lng": -81.69, "country": "United States", "city": "Cleveland",
+      "category": "job-architecture",
+      "title": "Cleveland Clinic: task-based redesign with skills ontologies",
+      "summary": "Cited in Deloitte's 2026 Human Capital Trends as the emerging practice: couple skills ontologies with task analysis to rebuild roles — not adjust them — around AI.",
+      "date": "2026", "verified": false,
+      "source": "https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends.html"
+    },
+    {
+      "id": "pwc-jobs-barometer",
+      "lat": 51.50, "lng": -0.12, "country": "United Kingdom", "city": "London",
+      "category": "workforce",
+      "title": "PwC AI Jobs Barometer: AI-exposed roles skew human",
+      "summary": "New tasks added to AI-exposed roles are 2.5x more likely to rely on empathy, judgement, and creativity; social-emotional skill demand projected +26% (US) and +22% (Europe) by 2030.",
+      "date": "2026", "verified": true,
+      "source": "https://www.pwc.com/gx/en/services/ai/ai-jobs-barometer.html"
+    },
+    {
+      "id": "gartner-arbitrage",
+      "lat": 41.05, "lng": -73.54, "country": "United States", "city": "Stamford",
+      "category": "ai-transformation",
+      "title": "Gartner: $234B of enterprise app spend at risk from agentic AI",
+      "summary": "Roughly 20% of enterprise SaaS spend exposed to 'agentic arbitrage' by 2030 — the macro case behind every operating-model conversation this year.",
+      "date": "2026-07", "verified": true,
+      "source": "https://www.gartner.com/en/newsroom/press-releases/2026-07-01-gartner-says-us-dollars-234-billion-in-enterprise-application-software-spend-is-at-risk-from-agentic-artificial-intelligence"
+    }
+  ]
+}

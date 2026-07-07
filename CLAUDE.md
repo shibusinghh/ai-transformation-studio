@@ -7,9 +7,14 @@ Deloitte/EY) extended into AI transformation and agentic AI adoption (EDHEC MBA,
 ## The operating rhythm
 
 - **Daily:** `/daily-radar` — tailored brief into `content/radar/`. Read it in the site's Radar tab.
+- **Weekly (Monday):** `/weekly-digest` — Field Digest into `content/digest/` + Signals Map
+  (`content/map.json`) refreshed in the same run.
 - **~3x per week:** `/scenario-lab` — turn one radar item into a worked scenario in `content/lab/`.
 - **2x per week (Tue/Thu):** `/linkedin-drafts` — distill a lab note into a post in `content/linkedin/`.
+- **On demand:** `/deck-builder` — full CM deck from a Scenario Builder brief (site → Scenario
+  Builder tab → "Copy full-deck brief").
 - **Ongoing:** add sanitized case studies to `content/portfolio/` using `_TEMPLATE-case-study.md`.
+- **After each session:** `git push` — the public site updates in about a minute.
 
 ## How the site works
 
