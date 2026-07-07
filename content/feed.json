@@ -1,6 +1,39 @@
 {
-  "updated": "2026-07-07T16:03:42.252852+00:00",
+  "updated": "2026-07-07T16:46:35.808854+00:00",
   "items": [
+    {
+      "title": "The AI architecture that let Liberty Mutual shrug off the Fable 5 outage",
+      "link": "https://venturebeat.com/orchestration/the-ai-architecture-that-let-liberty-mutual-shrug-off-the-fable-5-outage",
+      "source": "VentureBeat AI",
+      "published": "2026-07-07T16:37:48+00:00",
+      "score": 2,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Claude Cowork expands to mobile and web",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-07T16:27:18+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "Box survey: Why enterprise AI leaders are outperforming their peers",
+      "link": "https://venturebeat.com/orchestration/box-survey-why-enterprise-ai-leaders-are-outperforming-their-peers",
+      "source": "VentureBeat AI",
+      "published": "2026-07-07T16:25:51+00:00",
+      "score": 7,
+      "matched": [
+        "enterprise ai",
+        "enterprise",
+        "governance"
+      ]
+    },
     {
       "title": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren’t coding",
       "link": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding",
@@ -192,20 +225,6 @@
       ]
     },
     {
-      "title": "Build for the new AI era with Microsoft and NVIDIA",
-      "link": "https://venturebeat.com/orchestration/build-for-the-new-ai-era-with-microsoft-and-nvidia",
-      "source": "VentureBeat AI",
-      "published": "2026-07-06T07:00:00+00:00",
-      "score": 8,
-      "matched": [
-        "enterprise ai",
-        "ai adoption",
-        "enterprise",
-        "adoption",
-        "microsoft"
-      ]
-    },
-    {
       "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
       "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
       "source": "The Verge AI",
@@ -247,21 +266,7 @@
       "matched": [
         "openai"
       ]
-    },
-    {
-      "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-      "link": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-      "source": "Wired AI",
-      "published": "2026-07-03T16:30:00+00:00",
-      "score": 3,
-      "matched": [
-        "employees",
-        "google"
-      ]
     }
   ],
-  "errors": [
-    "Consultancy.eu: ValueError: empty response (urllib and curl)",
-    "Consultancy.uk: ValueError: empty response (urllib and curl)"
-  ]
+  "errors": []
 }
