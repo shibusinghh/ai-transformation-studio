@@ -1,0 +1,182 @@
+{
+  "updated": "2026-07-07T15:42:27.007816+00:00",
+  "items": [
+    {
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-07T12:10:00+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-07T11:10:52+00:00",
+      "score": 2,
+      "matched": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-06T23:56:14+00:00",
+      "score": 2,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-06T19:49:10+00:00",
+      "score": 2,
+      "matched": [
+        "agents"
+      ]
+    },
+    {
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-06T18:35:00+00:00",
+      "score": 6,
+      "matched": [
+        "layoff",
+        "layoffs"
+      ]
+    },
+    {
+      "title": "Your family’s $300 stake in OpenAI",
+      "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-06T18:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-06T17:04:58+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+      "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "source": "Ars Technica",
+      "published": "2026-07-06T16:44:18+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "The incredible shrinking Xbox: Five studios, 3,200 employees let go",
+      "link": "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/",
+      "source": "Ars Technica",
+      "published": "2026-07-06T16:01:54+00:00",
+      "score": 2,
+      "matched": [
+        "employees"
+      ]
+    },
+    {
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-06T15:32:43+00:00",
+      "score": 11,
+      "matched": [
+        "workforce",
+        "layoff",
+        "layoffs",
+        "jobs",
+        "employees"
+      ]
+    },
+    {
+      "title": "Microsoft is laying off 4,800 employees",
+      "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "source": "The Verge AI",
+      "published": "2026-07-06T09:30:00-04:00",
+      "score": 10,
+      "matched": [
+        "workforce",
+        "layoff",
+        "layoffs",
+        "employees",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "source": "The Verge AI",
+      "published": "2026-07-05T10:23:11-04:00",
+      "score": 5,
+      "matched": [
+        "gemini",
+        "microsoft",
+        "google"
+      ]
+    },
+    {
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-04T20:55:25+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-04T16:32:08+00:00",
+      "score": 6,
+      "matched": [
+        "claude",
+        "employees"
+      ]
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-04T15:51:32+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+      "link": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+      "source": "Wired AI",
+      "published": "2026-07-03T16:30:00+00:00",
+      "score": 3,
+      "matched": [
+        "employees",
+        "google"
+      ]
+    }
+  ],
+  "errors": [
+    "VentureBeat AI: HTTPError: HTTP Error 308: Permanent Redirect"
+  ]
+}

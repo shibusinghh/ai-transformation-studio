@@ -1,0 +1,26 @@
+name: Daily feed update
+
+on:
+  schedule:
+    - cron: "30 5 * * *"   # 05:30 UTC daily (~07:30 CET)
+  workflow_dispatch: {}     # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update live feed
+        run: python3 scripts/update_feed.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "studio-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add content/feed.json
+          git diff --cached --quiet || git commit -m "Daily feed update $(date -u +%F)"
+          git push

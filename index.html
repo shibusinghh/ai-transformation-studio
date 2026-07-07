@@ -21,7 +21,10 @@
     </div>
 
     <nav id="nav">
-      <button class="nav-item active" data-section="radar">
+      <button class="nav-item active" data-section="today">
+        <span class="nav-icon">☀</span> Today
+      </button>
+      <button class="nav-item" data-section="radar">
         <span class="nav-icon">◉</span> Radar <span class="nav-count" id="count-radar"></span>
       </button>
       <button class="nav-item" data-section="lab">
@@ -41,7 +44,7 @@
     <div class="sidebar-foot">
       <div class="rhythm">
         <div class="rhythm-title">Operating rhythm</div>
-        <div class="rhythm-row"><span class="dot d1"></span> Daily: read the Radar</div>
+        <div class="rhythm-row"><span class="dot d1"></span> Daily: read the pulse + radar</div>
         <div class="rhythm-row"><span class="dot d2"></span> 3×/wk: work one Lab scenario</div>
         <div class="rhythm-row"><span class="dot d3"></span> 2×/wk: ship a LinkedIn post</div>
       </div>
@@ -51,42 +54,85 @@
 
   <main class="main">
 
-    <section class="section active" id="section-radar">
+    <!-- TODAY -->
+    <section class="section active" id="section-today">
+      <header class="section-head">
+        <h1 id="today-title">Today</h1>
+        <p>The live pulse refreshes itself daily from curated sources. Radar briefs add the analysis on top.</p>
+      </header>
+
+      <div class="stats-row" id="stats-row"></div>
+
+      <div class="today-grid">
+        <div class="panel">
+          <div class="panel-head">
+            <h2>Live pulse</h2>
+            <span class="panel-meta" id="pulse-meta"></span>
+          </div>
+          <input class="search" id="pulse-search" type="search" placeholder="Filter the pulse… (e.g. agentic, layoffs, anthropic)">
+          <div id="pulse-list" class="pulse-list"></div>
+        </div>
+
+        <div class="side-col">
+          <div class="panel">
+            <div class="panel-head"><h2>Latest brief</h2></div>
+            <div id="latest-brief"></div>
+          </div>
+          <div class="panel">
+            <div class="panel-head"><h2>Pulse volume · 7 days</h2></div>
+            <div class="chart" id="pulse-chart"></div>
+          </div>
+          <div class="panel">
+            <div class="panel-head"><h2>Publishing pipeline</h2></div>
+            <div id="pipeline"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- RADAR -->
+    <section class="section" id="section-radar">
       <header class="section-head">
         <h1>Radar</h1>
-        <p>Tailored intelligence on agentic AI, enterprise adoption, and the consulting market. Generated daily by the <code>/daily-radar</code> skill.</p>
+        <p>Daily analysis briefs: what happened, why it matters through a change-management lens, and the angle worth working. Generated with <code>/daily-radar</code>.</p>
       </header>
+      <input class="search" data-filter="radar" type="search" placeholder="Search briefs…">
       <div class="item-list" id="list-radar"></div>
     </section>
 
+    <!-- LAB -->
     <section class="section" id="section-lab">
       <header class="section-head">
         <h1>Scenario Lab</h1>
-        <p>Where radar signals become worked scenarios: a real event, the change-management read, and what I'd tell a client. Run <code>/scenario-lab</code> on any radar item.</p>
+        <p>Radar signals worked into scenarios: a real event, the mechanism of failure or success, and what I'd tell a client. Run <code>/scenario-lab</code>.</p>
       </header>
+      <input class="search" data-filter="lab" type="search" placeholder="Search lab notes…">
       <div class="item-list" id="list-lab"></div>
     </section>
 
+    <!-- PORTFOLIO -->
     <section class="section" id="section-portfolio">
       <header class="section-head">
         <h1>Portfolio</h1>
-        <p>Selected work: AI-augmented delivery systems and transformation engagements. Client material is sanitized; methods are mine.</p>
+        <p>Selected work: AI-augmented delivery systems and transformation engagements. Client material sanitized; methods are mine.</p>
       </header>
+      <input class="search" data-filter="portfolio" type="search" placeholder="Search case studies…">
       <div class="item-list" id="list-portfolio"></div>
     </section>
 
+    <!-- LINKEDIN -->
     <section class="section" id="section-linkedin">
       <header class="section-head">
         <h1>LinkedIn Queue</h1>
-        <p>Drafts distilled from lab notes, two per week. Run <code>/linkedin-drafts</code> to generate; publish manually after a human read.</p>
+        <p>Drafts distilled from lab notes, two per week. Generated with <code>/linkedin-drafts</code>; a human always publishes.</p>
       </header>
+      <input class="search" data-filter="linkedin" type="search" placeholder="Search drafts…">
       <div class="item-list" id="list-linkedin"></div>
     </section>
 
+    <!-- ABOUT -->
     <section class="section" id="section-about">
-      <header class="section-head">
-        <h1>About</h1>
-      </header>
+      <header class="section-head"><h1>About</h1></header>
       <div class="about-card">
         <h2>Change management, rebuilt for the agent era.</h2>
         <p>I spent six years at Deloitte and EY leading people advisory, change management, and transformation programs across industries. Then I did an MBA in AI &amp; Strategy at EDHEC and started building with AI agents directly — research pipelines with hard guardrails, adoption playbooks, governance gates.</p>
@@ -97,6 +143,7 @@
       </div>
     </section>
 
+    <!-- READER -->
     <article class="reader" id="reader" hidden>
       <button class="back-btn" id="back-btn">← Back</button>
       <div class="reader-body" id="reader-body"></div>

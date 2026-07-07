@@ -126,6 +126,87 @@ body {
 
 .empty { color: var(--text-dim); font-style: italic; padding: 20px 0; }
 
+/* ---------- today dashboard ---------- */
+.stats-row {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 22px;
+}
+.stat {
+  background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px;
+  padding: 16px 18px; position: relative; overflow: hidden;
+}
+.stat::before {
+  content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
+}
+.stat.t1::before { background: var(--accent); }
+.stat.t2::before { background: var(--accent-2); }
+.stat.t3::before { background: var(--accent-3); }
+.stat.t4::before { background: var(--danger); }
+.stat-n { font-size: 26px; font-weight: 800; font-family: var(--mono); letter-spacing: -.02em; }
+.stat-label { font-size: 12.5px; color: var(--text-dim); margin-top: 2px; }
+.stat-sub { font-size: 11px; color: var(--text-dim); font-family: var(--mono); margin-top: 6px; opacity: .8; }
+
+.today-grid { display: grid; grid-template-columns: 1.6fr 1fr; gap: 14px; align-items: start; }
+.side-col { display: flex; flex-direction: column; gap: 14px; }
+
+.panel {
+  background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 18px;
+}
+.panel-head { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 12px; }
+.panel-head h2 { font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: .07em; color: var(--text-dim); }
+.panel-meta { font-family: var(--mono); font-size: 11px; color: var(--accent); }
+
+.search {
+  width: 100%; background: var(--bg-raise); border: 1px solid var(--border); border-radius: 8px;
+  color: var(--text); font-family: var(--sans); font-size: 13.5px; padding: 9px 12px;
+  margin-bottom: 14px; outline: none;
+}
+.search:focus { border-color: var(--accent); }
+.search::placeholder { color: var(--text-dim); }
+
+.pulse-list { display: flex; flex-direction: column; max-height: 640px; overflow-y: auto; }
+.pulse-item {
+  display: block; text-decoration: none; color: inherit; padding: 12px 10px;
+  border-bottom: 1px solid var(--border); border-radius: 8px; transition: background .12s;
+}
+.pulse-item:last-child { border-bottom: none; }
+.pulse-item:hover { background: var(--bg-raise); }
+.pulse-top { display: flex; align-items: center; gap: 10px; margin-bottom: 4px; }
+.pulse-source {
+  font-family: var(--mono); font-size: 10.5px; text-transform: uppercase; letter-spacing: .06em;
+  color: var(--accent-2); background: rgba(129,140,248,.1); padding: 1px 8px; border-radius: 10px;
+}
+.pulse-time { font-family: var(--mono); font-size: 11px; color: var(--text-dim); }
+.pulse-score { margin-left: auto; color: var(--accent); font-size: 9px; letter-spacing: 2px; }
+.pulse-title { font-size: 14px; font-weight: 550; line-height: 1.45; color: #d6dce6; }
+.pulse-item:hover .pulse-title { color: var(--text); }
+
+.brief-card { cursor: pointer; }
+.brief-card .item-title { margin-top: 4px; }
+.brief-card:hover .item-title { color: var(--accent); }
+
+.chart { display: flex; align-items: flex-end; gap: 8px; height: 92px; padding-top: 4px; }
+.bar-col { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 5px; justify-content: flex-end; }
+.bar {
+  width: 100%; border-radius: 4px 4px 2px 2px;
+  background: linear-gradient(180deg, var(--accent) 0%, rgba(94,234,212,.25) 100%);
+  min-height: 4px;
+}
+.bar-label { font-family: var(--mono); font-size: 10px; color: var(--text-dim); }
+
+.pipe-row {
+  display: flex; align-items: center; gap: 10px; padding: 9px 6px;
+  border-bottom: 1px solid var(--border); cursor: pointer; border-radius: 6px;
+}
+.pipe-row:last-child { border-bottom: none; }
+.pipe-row:hover { background: var(--bg-raise); }
+.pipe-title { font-size: 13px; font-weight: 500; flex: 1; }
+.pipe-row .item-date { margin-left: auto; }
+
+@media (max-width: 1080px) {
+  .today-grid { grid-template-columns: 1fr; }
+  .stats-row { grid-template-columns: repeat(2, 1fr); }
+}
+
 /* ---------- reader ---------- */
 .reader { max-width: 760px; }
 .back-btn {
