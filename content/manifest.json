@@ -1,0 +1,46 @@
+{
+  "updated": "2026-07-07",
+  "radar": [
+    {
+      "file": "radar/2026-07-07.md",
+      "title": "Gartner's $234B agentic warning · Deloitte kills job titles · Cisco's trust collision",
+      "date": "2026-07-07",
+      "status": "unread",
+      "tags": ["agentic-ai", "consulting", "workforce"]
+    }
+  ],
+  "lab": [
+    {
+      "file": "lab/2026-07-07-cisco-agent-rollout.md",
+      "title": "The Cisco Problem: Rolling Out Agents to a Workforce You Just Cut",
+      "date": "2026-07-07",
+      "status": "done",
+      "tags": ["change-management", "rollout-sequencing", "trust"]
+    }
+  ],
+  "portfolio": [
+    {
+      "file": "portfolio/ai-intelligence-factory.md",
+      "title": "An AI-Augmented Competitive Intelligence Factory",
+      "date": "2026-07-07",
+      "status": "draft",
+      "tags": ["agentic-ai", "governance", "methodology"]
+    },
+    {
+      "file": "portfolio/_TEMPLATE-case-study.md",
+      "title": "Template — Add a legacy case study (Deloitte / EY)",
+      "date": "2026-07-07",
+      "status": "template",
+      "tags": ["template"]
+    }
+  ],
+  "linkedin": [
+    {
+      "file": "linkedin/2026-07-08-cisco-sequencing.md",
+      "title": "Cisco and the sequencing problem",
+      "date": "2026-07-08",
+      "status": "draft",
+      "tags": ["change-management", "agentic-ai"]
+    }
+  ]
+}

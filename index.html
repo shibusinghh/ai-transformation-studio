@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shibu Singh · AI Transformation Studio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="layout">
+
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="brand-mark">SS</div>
+      <div>
+        <div class="brand-name">Shibu Singh</div>
+        <div class="brand-sub">AI Transformation Studio</div>
+      </div>
+    </div>
+
+    <nav id="nav">
+      <button class="nav-item active" data-section="radar">
+        <span class="nav-icon">◉</span> Radar <span class="nav-count" id="count-radar"></span>
+      </button>
+      <button class="nav-item" data-section="lab">
+        <span class="nav-icon">⚗</span> Scenario Lab <span class="nav-count" id="count-lab"></span>
+      </button>
+      <button class="nav-item" data-section="portfolio">
+        <span class="nav-icon">▣</span> Portfolio <span class="nav-count" id="count-portfolio"></span>
+      </button>
+      <button class="nav-item" data-section="linkedin">
+        <span class="nav-icon">✎</span> LinkedIn Queue <span class="nav-count" id="count-linkedin"></span>
+      </button>
+      <button class="nav-item" data-section="about">
+        <span class="nav-icon">◆</span> About
+      </button>
+    </nav>
+
+    <div class="sidebar-foot">
+      <div class="rhythm">
+        <div class="rhythm-title">Operating rhythm</div>
+        <div class="rhythm-row"><span class="dot d1"></span> Daily: read the Radar</div>
+        <div class="rhythm-row"><span class="dot d2"></span> 3×/wk: work one Lab scenario</div>
+        <div class="rhythm-row"><span class="dot d3"></span> 2×/wk: ship a LinkedIn post</div>
+      </div>
+      <div class="updated" id="last-updated"></div>
+    </div>
+  </aside>
+
+  <main class="main">
+
+    <section class="section active" id="section-radar">
+      <header class="section-head">
+        <h1>Radar</h1>
+        <p>Tailored intelligence on agentic AI, enterprise adoption, and the consulting market. Generated daily by the <code>/daily-radar</code> skill.</p>
+      </header>
+      <div class="item-list" id="list-radar"></div>
+    </section>
+
+    <section class="section" id="section-lab">
+      <header class="section-head">
+        <h1>Scenario Lab</h1>
+        <p>Where radar signals become worked scenarios: a real event, the change-management read, and what I'd tell a client. Run <code>/scenario-lab</code> on any radar item.</p>
+      </header>
+      <div class="item-list" id="list-lab"></div>
+    </section>
+
+    <section class="section" id="section-portfolio">
+      <header class="section-head">
+        <h1>Portfolio</h1>
+        <p>Selected work: AI-augmented delivery systems and transformation engagements. Client material is sanitized; methods are mine.</p>
+      </header>
+      <div class="item-list" id="list-portfolio"></div>
+    </section>
+
+    <section class="section" id="section-linkedin">
+      <header class="section-head">
+        <h1>LinkedIn Queue</h1>
+        <p>Drafts distilled from lab notes, two per week. Run <code>/linkedin-drafts</code> to generate; publish manually after a human read.</p>
+      </header>
+      <div class="item-list" id="list-linkedin"></div>
+    </section>
+
+    <section class="section" id="section-about">
+      <header class="section-head">
+        <h1>About</h1>
+      </header>
+      <div class="about-card">
+        <h2>Change management, rebuilt for the agent era.</h2>
+        <p>I spent six years at Deloitte and EY leading people advisory, change management, and transformation programs across industries. Then I did an MBA in AI &amp; Strategy at EDHEC and started building with AI agents directly — research pipelines with hard guardrails, adoption playbooks, governance gates.</p>
+        <p>The 2026 enterprise reality: roughly 79% of companies say they've adopted AI agents; about 11% run them in production. That gap is not a model problem. It is trust, governance, work design, and sequencing — the discipline I come from, applied to the technology I build with.</p>
+        <p class="about-tags">
+          <span>AI transformation</span><span>Agentic AI adoption</span><span>Change management</span><span>People advisory</span><span>Operating model design</span><span>AI governance</span>
+        </p>
+      </div>
+    </section>
+
+    <article class="reader" id="reader" hidden>
+      <button class="back-btn" id="back-btn">← Back</button>
+      <div class="reader-body" id="reader-body"></div>
+    </article>
+
+  </main>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
