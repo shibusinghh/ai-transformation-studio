@@ -3,13 +3,20 @@
   "radar": [
     {
       "file": "radar/2026-07-07.md",
-      "title": "Gartner's $234B agentic warning · Deloitte kills job titles · Cisco's trust collision",
+      "title": "Gartner's $234B agentic warning · Cisco's trust collision · Firm Watch: methods, benchmarks, EU AI Act clock",
       "date": "2026-07-07",
-      "status": "unread",
-      "tags": ["agentic-ai", "consulting", "workforce"]
+      "status": "read",
+      "tags": ["agentic-ai", "consulting", "firm-watch", "eu-ai-act"]
     }
   ],
   "lab": [
+    {
+      "file": "lab/2026-07-07-agentic-rollout-transformation-plan.md",
+      "title": "Deep Mode — Agentic Rollout Under the EU AI Act Clock: Full End-to-End Transformation Plan",
+      "date": "2026-07-07",
+      "status": "done",
+      "tags": ["deep-mode", "transformation-plan", "eu-ai-act", "guardrails", "risk-register"]
+    },
     {
       "file": "lab/2026-07-07-cisco-agent-rollout.md",
       "title": "The Cisco Problem: Rolling Out Agents to a Workforce You Just Cut",
@@ -19,6 +26,13 @@
     }
   ],
   "portfolio": [
+    {
+      "file": "portfolio/agentic-cm-playbook.md",
+      "title": "The Change Management Playbook for Agentic AI (flagship, v1.0)",
+      "date": "2026-07-07",
+      "status": "draft",
+      "tags": ["flagship", "playbook", "agentic-ai", "methodology"]
+    },
     {
       "file": "portfolio/ai-intelligence-factory.md",
       "title": "An AI-Augmented Competitive Intelligence Factory",
@@ -32,6 +46,36 @@
       "date": "2026-07-07",
       "status": "template",
       "tags": ["template"]
+    }
+  ],
+  "toolkit": [
+    {
+      "file": "toolkit/readiness-diagnostic.md",
+      "title": "Change-Readiness Diagnostic Agent — scored assessment + risk register from survey/interview data",
+      "date": "2026-07-07",
+      "status": "live",
+      "tags": ["agentic-tool", "readiness", "risk-register"]
+    },
+    {
+      "file": "toolkit/demo-readiness-report.md",
+      "title": "Demo Run — Readiness Diagnostic on sample survey (incl. a dimension it refused to score)",
+      "date": "2026-07-07",
+      "status": "demo",
+      "tags": ["demo", "readiness"]
+    },
+    {
+      "file": "toolkit/stakeholder-mapper.md",
+      "title": "Stakeholder Alignment Mapper — messy notes to influence map + pre-wire plan",
+      "date": "2026-07-07",
+      "status": "live",
+      "tags": ["agentic-tool", "stakeholders", "pre-wire"]
+    },
+    {
+      "file": "toolkit/playbook-generator.md",
+      "title": "AI Adoption Playbook Generator — tailored Copilot/Claude rollout playbooks",
+      "date": "2026-07-07",
+      "status": "live",
+      "tags": ["agentic-tool", "adoption", "playbook"]
     }
   ],
   "linkedin": [

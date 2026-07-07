@@ -42,10 +42,14 @@ content/manifest.json        single source of truth for Shibu's content
 content/feed.json            live pulse (machine-generated, never hand-edited)
 content/radar/               daily briefs (YYYY-MM-DD.md)
 content/lab/                 scenario notes (YYYY-MM-DD-slug.md)
-content/portfolio/           case studies + _TEMPLATE-case-study.md
+content/portfolio/           case studies + _TEMPLATE-case-study.md + the Agentic CM Playbook (flagship)
+content/toolkit/             tool descriptions + demo runs (site Toolkit tab)
 content/linkedin/            post drafts (target-date-slug.md)
 scripts/update_feed.py       feed puller (curated RSS + keyword scoring)
 .github/workflows/daily.yml  daily cron that refreshes feed.json on GitHub
-.claude/skills/              daily-radar, scenario-lab, linkedin-drafts
+.claude/skills/              daily-radar, scenario-lab, linkedin-drafts,
+                             readiness-diagnostic, stakeholder-mapper,
+                             adoption-playbook-generator (the consulting toolkit)
+output/                      generated diagnostics/maps/playbooks (gitignored if client data)
 serve.py                     local preview server (port 4173)
 ```

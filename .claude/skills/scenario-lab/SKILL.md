@@ -7,6 +7,23 @@ description: Turn a radar item into a worked change-management/AI-transformation
 
 Convert one radar item into a lab note at `content/lab/YYYY-MM-DD-<slug>.md`.
 
+## Two modes
+
+**Quick note** (default): the short structure below — situation, mechanism, scenario, one-liner.
+
+**Deep mode** (user says "deep", "full plan", "end to end", or the topic deserves it): act as
+the engaged change-management consultant and produce a complete transformation plan. Follow the
+structure of `content/lab/2026-07-07-agentic-rollout-transformation-plan.md`:
+executive summary; client context (invent a realistic composite client, clearly labeled
+fictional); objectives with measurable success definitions benchmarked against published
+industry numbers; explicit assumptions (numbered, each with what breaks if it's wrong);
+stakeholder map and governance; phased roadmap with workstreams, owners, and timeline;
+change and communications plan; AI-literacy/training plan (cite EU AI Act Article 4 where
+relevant); full risk register (likelihood x impact, mitigations, named tripwires);
+guardrails; KPI framework (leading + lagging); value realization and benefits tracking;
+"what makes it stick" section; open questions. Every external number cited to a source.
+Deep-mode notes are portfolio-grade: write them so a partner could hand them to a client.
+
 ## Process
 
 1. If the user didn't specify an item, read the newest radar brief and propose its "Pick for

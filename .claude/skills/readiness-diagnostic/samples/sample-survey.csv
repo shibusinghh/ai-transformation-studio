@@ -1,0 +1,11 @@
+respondent_id,department,tenure_years,q1_leadership_clear_ai_vision_1to5,q2_trust_employer_ai_intentions_1to5,q3_confident_using_ai_tools_1to5,q4_received_ai_training_yn,q5_my_workflow_documented_1to5,q6_know_who_approves_ai_use_yn,q7_manager_discussed_ai_with_team_yn,q8_fear_ai_job_loss_1to5,free_text
+R001,Operations,7,2,2,3,N,2,N,N,5,"After last year's cuts nobody believes the 'AI will help you' line"
+R002,Operations,3,3,2,4,N,3,N,Y,4,"The tool is fine. The silence from leadership is not."
+R003,Finance,11,4,3,2,Y,4,Y,Y,3,"Training was a webinar. I need practice, not slides."
+R004,Customer Service,2,2,2,3,N,2,N,N,5,"They monitor call times already. This will be more of that."
+R005,Customer Service,5,3,3,4,N,3,N,Y,3,"Give me the drafting tool, my inbox is drowning"
+R006,IT,4,4,4,5,Y,4,Y,Y,2,"We ran a shadow pilot already because approvals take forever"
+R007,HR,8,3,3,3,Y,3,Y,Y,3,"Works council asked questions we could not answer"
+R008,Finance,6,4,3,3,Y,4,Y,N,2,"Reconciliation agent would save my week if it is accurate"
+R009,Operations,9,2,1,2,N,2,N,N,5,"Fool me twice. The chatbot pilot in 2024 was abandoned without a word"
+R010,Marketing,1,4,4,4,N,3,N,Y,2,"Excited, but nobody has told us what is allowed"

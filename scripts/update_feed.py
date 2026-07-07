@@ -25,6 +25,8 @@ FEEDS = [
     ("MIT Tech Review", "https://www.technologyreview.com/feed/"),
     ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index"),
 ]
+# NOTE: consultancy.eu / consultancy.uk RSS is bot-blocked (empty 200s); firm-watch
+# coverage comes from the /daily-radar skill's web searches instead.
 
 # Terms that make a story relevant to Shibu's positioning. Weight 2 for core, 1 for adjacent.
 KEYWORDS = {
@@ -33,7 +35,9 @@ KEYWORDS = {
     "future of work": 2, "reskilling": 2, "operating model": 2, "ai governance": 2,
     "anthropic": 2, "claude": 2, "openai": 2, "gemini": 2, "layoff": 2, "layoffs": 2,
     "mckinsey": 2, "deloitte": 2, "accenture": 2, "bcg": 2, "bain": 2, "pwc": 2,
-    "kpmg": 2, "consulting": 2,
+    "kpmg": 2, "consulting": 2, "eu ai act": 2, "ai act": 2, "trusted ai": 2,
+    "responsible ai": 2, "iso 42001": 2, "framework": 1, "methodology": 1,
+    "benchmark": 1, "compliance": 1, "regulation": 1, "transparency": 1, "audit": 1,
     "enterprise": 1, "adoption": 1, "agents": 1, "productivity": 1, "jobs": 1,
     "employees": 1, "rollout": 1, "deployment": 1, "governance": 1, "org design": 1,
     "hiring": 1, "automation": 1, "microsoft": 1, "google": 1, "chatgpt": 1,
@@ -46,10 +50,41 @@ MIN_SCORE = 2
 NS = {"atom": "http://www.w3.org/2005/Atom"}
 
 
-def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (studio-feed/1.0)"})
-    with urllib.request.urlopen(req, timeout=20) as r:
-        return r.read()
+UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
+
+
+def fetch(url, _depth=0):
+    req = urllib.request.Request(url, headers={
+        "User-Agent": UA,
+        "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+    })
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            body = r.read()
+            if body[:2] == b"\x1f\x8b":  # gzip magic, in case a server ignores our headers
+                import gzip
+                body = gzip.decompress(body)
+            if not body.strip():  # some CDNs serve empty bodies to non-browser TLS clients
+                return fetch_curl(url)
+            return body
+    except urllib.error.HTTPError as e:
+        # urllib does not follow 308; do it ourselves (bounded, relative-safe)
+        if e.code == 308 and _depth < 3 and e.headers.get("Location"):
+            from urllib.parse import urljoin
+            return fetch(urljoin(url, e.headers["Location"]), _depth + 1)
+        raise
+
+
+def fetch_curl(url):
+    import subprocess
+    out = subprocess.run(
+        ["curl", "-sL", "--max-time", "20", "-A", UA, url],
+        capture_output=True, check=True,
+    ).stdout
+    if not out.strip():
+        raise ValueError("empty response (urllib and curl)")
+    return out
 
 
 def text(el):

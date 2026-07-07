@@ -1,5 +1,5 @@
-const SECTIONS = ["radar", "lab", "portfolio", "linkedin"];
-let manifest = { radar: [], lab: [], portfolio: [], linkedin: [] };
+const SECTIONS = ["radar", "lab", "portfolio", "toolkit", "linkedin"];
+let manifest = { radar: [], lab: [], portfolio: [], toolkit: [], linkedin: [] };
 let feed = { updated: null, items: [] };
 
 async function init() {

@@ -8,13 +8,27 @@ description: Generate today's tailored intelligence brief on agentic AI, enterpr
 Produce one brief per day at `content/radar/YYYY-MM-DD.md`. If today's file already
 exists, ask before regenerating.
 
-## Search coverage (run 3-5 web searches)
+## Search coverage (run 4-6 web searches)
 
 1. Agentic AI enterprise deployment and adoption news (last 48h preferred).
 2. Consulting market: MBB, Big 4, Accenture AI practice moves, restructurings, partnerships.
 3. AI labs enterprise moves: Anthropic, OpenAI, Google, Microsoft enterprise/Copilot/Gemini announcements.
 4. Workforce and change management: layoffs tied to AI, org redesign, adoption failures, employee-trust stories.
-5. Rotate a wildcard: AI governance/regulation, agent interoperability, or a specific industry the user is studying.
+5. **Firm watch (mandatory):** working methodologies, new initiatives, internal processes, and
+   benchmarks published or leaked by the target firms (MBB, Big 4, Accenture, AI labs) —
+   e.g. new numbered frameworks, internal AI platform metrics (seats, agents, usage),
+   member-firm initiatives (the KPMG Malta pattern: local BCM practice + AI tied to EU
+   transparency law), certification firsts (ISO/IEC 42001), adoption benchmarks they publish.
+6. Regulatory tie-ins: EU AI Act milestones and enforcement, AI literacy obligations,
+   transparency requirements — anything that converts change management into a compliance duty.
+
+## Brief structure additions
+
+Besides the news items, every brief includes a **Firm Watch** section: 2-4 entries on
+methodology/initiative/benchmark news, each with the firm named, what they run internally or
+sell as method, the concrete numbers, and what it means for Shibu's positioning or interview
+prep. Quotable benchmarks (adoption %, seat counts, timelines) are the priority — they are
+ammunition for client conversations and interviews.
 
 ## Brief format
 
