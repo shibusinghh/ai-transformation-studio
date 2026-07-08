@@ -1,14 +1,60 @@
 {
-  "updated": "2026-07-07T16:46:35.808854+00:00",
+  "updated": "2026-07-08T07:53:33.390100+00:00",
   "items": [
     {
-      "title": "The AI architecture that let Liberty Mutual shrug off the Fable 5 outage",
-      "link": "https://venturebeat.com/orchestration/the-ai-architecture-that-let-liberty-mutual-shrug-off-the-fable-5-outage",
+      "title": "OpenAI’s Chief Futurist Is Leaving the Company",
+      "link": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+      "source": "Wired AI",
+      "published": "2026-07-07T21:30:00+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "The real cost, security, and culture problems behind enterprise AI agents",
+      "link": "https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents",
       "source": "VentureBeat AI",
-      "published": "2026-07-07T16:37:48+00:00",
-      "score": 2,
+      "published": "2026-07-07T20:24:31+00:00",
+      "score": 18,
+      "matched": [
+        "agentic",
+        "ai agent",
+        "ai agents",
+        "enterprise ai",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-07T20:04:32+00:00",
+      "score": 4,
       "matched": [
         "anthropic"
+      ]
+    },
+    {
+      "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
+      "link": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/",
+      "source": "Ars Technica",
+      "published": "2026-07-07T19:52:59+00:00",
+      "score": 10,
+      "matched": [
+        "layoff",
+        "layoffs",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
+      "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
+      "source": "Ars Technica",
+      "published": "2026-07-07T19:08:34+00:00",
+      "score": 2,
+      "matched": [
+        "google"
       ]
     },
     {
@@ -16,9 +62,8 @@
       "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
       "source": "TechCrunch AI",
       "published": "2026-07-07T16:27:18+00:00",
-      "score": 6,
+      "score": 4,
       "matched": [
-        "anthropic",
         "claude"
       ]
     },
@@ -57,6 +102,17 @@
         "anthropic",
         "claude",
         "agents"
+      ]
+    },
+    {
+      "title": "Anthropic is launching Claude Cowork on mobile and web",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "source": "The Verge AI",
+      "published": "2026-07-07T13:46:59-04:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "claude"
       ]
     },
     {
@@ -153,17 +209,6 @@
       ]
     },
     {
-      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
-      "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-      "source": "Ars Technica",
-      "published": "2026-07-06T16:44:18+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
       "title": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size — and wins everywhere except coding",
       "link": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
       "source": "VentureBeat AI",
@@ -172,16 +217,6 @@
       "matched": [
         "enterprise",
         "deployment"
-      ]
-    },
-    {
-      "title": "The incredible shrinking Xbox: Five studios, 3,200 employees let go",
-      "link": "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/",
-      "source": "Ars Technica",
-      "published": "2026-07-06T16:01:54+00:00",
-      "score": 2,
-      "matched": [
-        "employees"
       ]
     },
     {
@@ -244,27 +279,6 @@
       "score": 2,
       "matched": [
         "google"
-      ]
-    },
-    {
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-04T16:32:08+00:00",
-      "score": 6,
-      "matched": [
-        "claude",
-        "employees"
-      ]
-    },
-    {
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-04T15:51:32+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
       ]
     }
   ],
