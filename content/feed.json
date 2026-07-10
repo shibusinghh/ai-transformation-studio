@@ -1,6 +1,246 @@
 {
-  "updated": "2026-07-09T08:50:22.246852+00:00",
+  "updated": "2026-07-10T08:47:50.164373+00:00",
   "items": [
+    {
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-10T00:16:54+00:00",
+      "score": 11,
+      "matched": [
+        "copilot",
+        "openai",
+        "productivity",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-09T23:38:00+00:00",
+      "score": 7,
+      "matched": [
+        "anthropic",
+        "openai",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
+      "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+      "source": "Wired AI",
+      "published": "2026-07-09T23:13:18+00:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "deployment"
+      ]
+    },
+    {
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-09T22:08:58+00:00",
+      "score": 8,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-09T22:03:54+00:00",
+      "score": 6,
+      "matched": [
+        "agentic",
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI wants its new tool to do your work for you and with you",
+      "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+      "source": "Ars Technica",
+      "published": "2026-07-09T21:25:55+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds",
+      "link": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
+      "source": "VentureBeat AI",
+      "published": "2026-07-09T20:45:43+00:00",
+      "score": 12,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-09T20:22:28+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-09T19:40:45+00:00",
+      "score": 4,
+      "matched": [
+        "agentic",
+        "enterprise",
+        "automation"
+      ]
+    },
+    {
+      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "source": "The Verge AI",
+      "published": "2026-07-09T19:24:04-04:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-09T19:05:58+00:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
+      "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+      "source": "Ars Technica",
+      "published": "2026-07-09T18:57:53+00:00",
+      "score": 5,
+      "matched": [
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
+      "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+      "source": "Wired AI",
+      "published": "2026-07-09T18:30:00+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+      "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-09T18:22:39+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "The ChatGPT browser is already dead",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "source": "The Verge AI",
+      "published": "2026-07-09T16:34:05-04:00",
+      "score": 4,
+      "matched": [
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "The enterprise AI challenge nobody solves with code generation alone",
+      "link": "https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone",
+      "source": "VentureBeat AI",
+      "published": "2026-07-09T15:00:10+00:00",
+      "score": 7,
+      "matched": [
+        "enterprise ai",
+        "compliance",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-09T14:53:09+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-09T14:51:00+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+      "source": "The Verge AI",
+      "published": "2026-07-09T13:00:00-04:00",
+      "score": 9,
+      "matched": [
+        "ai agent",
+        "openai",
+        "rollout",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Say hello to Claude Wrapped",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+      "source": "The Verge AI",
+      "published": "2026-07-09T09:30:00-04:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "One interface isn't enough for enterprise AI",
+      "link": "https://venturebeat.com/orchestration/one-interface-isnt-enough-for-enterprise-ai",
+      "source": "VentureBeat AI",
+      "published": "2026-07-09T07:00:00+00:00",
+      "score": 6,
+      "matched": [
+        "enterprise ai",
+        "enterprise"
+      ]
+    },
     {
       "title": "SpaceX's Grok 4.5 launches at half the price of rivals — here's why that could rattle Anthropic and OpenAI",
       "link": "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai",
@@ -25,208 +265,6 @@
       ]
     },
     {
-      "title": "Why this CEO thinks video games make better training data than the internet",
-      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-08T17:47:55+00:00",
-      "score": 3,
-      "matched": [
-        "claude",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-08T17:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-      "link": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-      "source": "Ars Technica",
-      "published": "2026-07-08T16:39:48+00:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-      "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-08T16:22:38+00:00",
-      "score": 14,
-      "matched": [
-        "agentic",
-        "ai agent",
-        "ai agents",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
-      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "source": "The Verge AI",
-      "published": "2026-07-08T13:00:00-04:00",
-      "score": 4,
-      "matched": [
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
-      "link": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-08T13:00:00+00:00",
-      "score": 3,
-      "matched": [
-        "claude",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-      "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-08T12:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI’s Chief Futurist Is Leaving the Company",
-      "link": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
-      "source": "Wired AI",
-      "published": "2026-07-07T21:30:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "The real cost, security, and culture problems behind enterprise AI agents",
-      "link": "https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents",
-      "source": "VentureBeat AI",
-      "published": "2026-07-07T20:24:31+00:00",
-      "score": 18,
-      "matched": [
-        "agentic",
-        "ai agent",
-        "ai agents",
-        "enterprise ai",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-07T20:04:32+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-07T19:58:20+00:00",
-      "score": 2,
-      "matched": [
-        "microsoft"
-      ]
-    },
-    {
-      "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
-      "link": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/",
-      "source": "Ars Technica",
-      "published": "2026-07-07T19:52:59+00:00",
-      "score": 10,
-      "matched": [
-        "layoff",
-        "layoffs",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
-      "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
-      "source": "Ars Technica",
-      "published": "2026-07-07T19:08:34+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Claude Cowork expands to mobile and web",
-      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-07T16:27:18+00:00",
-      "score": 4,
-      "matched": [
-        "claude"
-      ]
-    },
-    {
-      "title": "Box survey: Why enterprise AI leaders are outperforming their peers",
-      "link": "https://venturebeat.com/orchestration/box-survey-why-enterprise-ai-leaders-are-outperforming-their-peers",
-      "source": "VentureBeat AI",
-      "published": "2026-07-07T16:25:51+00:00",
-      "score": 7,
-      "matched": [
-        "enterprise ai",
-        "enterprise",
-        "governance"
-      ]
-    },
-    {
-      "title": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren’t coding",
-      "link": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding",
-      "source": "VentureBeat AI",
-      "published": "2026-07-07T16:00:00+00:00",
-      "score": 10,
-      "matched": [
-        "anthropic",
-        "claude",
-        "agents",
-        "rollout"
-      ]
-    },
-    {
-      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
-      "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
-      "source": "Wired AI",
-      "published": "2026-07-07T16:00:00+00:00",
-      "score": 9,
-      "matched": [
-        "anthropic",
-        "claude",
-        "agents"
-      ]
-    },
-    {
-      "title": "Anthropic is launching Claude Cowork on mobile and web",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-      "source": "The Verge AI",
-      "published": "2026-07-07T13:46:59-04:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
       "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
       "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
       "source": "MIT Tech Review",
@@ -237,16 +275,6 @@
       ]
     },
     {
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "source": "MIT Tech Review",
-      "published": "2026-07-07T11:10:52+00:00",
-      "score": 2,
-      "matched": [
-        "agentic"
-      ]
-    },
-    {
       "title": "Your family’s $300 stake in OpenAI",
       "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
       "source": "MIT Tech Review",
@@ -254,32 +282,6 @@
       "score": 4,
       "matched": [
         "openai"
-      ]
-    },
-    {
-      "title": "Microsoft is laying off 4,800 employees",
-      "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-      "source": "The Verge AI",
-      "published": "2026-07-06T09:30:00-04:00",
-      "score": 10,
-      "matched": [
-        "workforce",
-        "layoff",
-        "layoffs",
-        "employees",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "source": "The Verge AI",
-      "published": "2026-07-05T10:23:11-04:00",
-      "score": 5,
-      "matched": [
-        "gemini",
-        "microsoft",
-        "google"
       ]
     }
   ],
