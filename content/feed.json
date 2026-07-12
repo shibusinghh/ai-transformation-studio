@@ -1,6 +1,28 @@
 {
-  "updated": "2026-07-11T07:24:02.410623+00:00",
+  "updated": "2026-07-12T07:40:17.967684+00:00",
   "items": [
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-11T14:13:00+00:00",
+      "score": 7,
+      "matched": [
+        "openai",
+        "hiring",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-10T21:00:29+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
     {
       "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?",
       "link": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one",
@@ -169,16 +191,6 @@
       ]
     },
     {
-      "title": "OpenAI wants its new tool to do your work for you and with you",
-      "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
-      "source": "Ars Technica",
-      "published": "2026-07-09T21:25:55+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
       "title": "Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds",
       "link": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
       "source": "VentureBeat AI",
@@ -279,16 +291,6 @@
         "openai",
         "rollout",
         "chatgpt"
-      ]
-    },
-    {
-      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-      "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-      "source": "MIT Tech Review",
-      "published": "2026-07-07T12:10:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
       ]
     }
   ],
