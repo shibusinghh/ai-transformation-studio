@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-12T07:40:17.967684+00:00",
+  "updated": "2026-07-13T08:31:51.350954+00:00",
   "items": [
+    {
+      "title": "DeepSeek cut prices 75%. The 100x problem remains",
+      "link": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
+      "source": "VentureBeat AI",
+      "published": "2026-07-12T16:00:00+00:00",
+      "score": 3,
+      "matched": [
+        "enterprise ai",
+        "enterprise"
+      ]
+    },
     {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
@@ -11,6 +22,16 @@
         "openai",
         "hiring",
         "chatgpt"
+      ]
+    },
+    {
+      "title": "OpenAI’s Head of Safety Is Leaving the Company",
+      "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "source": "Wired AI",
+      "published": "2026-07-11T01:07:26+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
       ]
     },
     {
@@ -191,19 +212,6 @@
       ]
     },
     {
-      "title": "Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds",
-      "link": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
-      "source": "VentureBeat AI",
-      "published": "2026-07-09T20:45:43+00:00",
-      "score": 12,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
       "title": "Anthropic found a hidden space where Claude puzzles over concepts",
       "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
       "source": "MIT Tech Review",
@@ -277,19 +285,6 @@
       "score": 4,
       "matched": [
         "openai",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-      "source": "The Verge AI",
-      "published": "2026-07-09T13:00:00-04:00",
-      "score": 9,
-      "matched": [
-        "ai agent",
-        "openai",
-        "rollout",
         "chatgpt"
       ]
     }
