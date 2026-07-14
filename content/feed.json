@@ -1,6 +1,93 @@
 {
-  "updated": "2026-07-13T08:31:51.350954+00:00",
+  "updated": "2026-07-14T07:24:32.564560+00:00",
   "items": [
+    {
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "source": "Ars Technica",
+      "published": "2026-07-13T19:17:51+00:00",
+      "score": 5,
+      "matched": [
+        "openai",
+        "employees"
+      ]
+    },
+    {
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-13T18:22:10+00:00",
+      "score": 5,
+      "matched": [
+        "openai",
+        "employees"
+      ]
+    },
+    {
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-13T18:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Should AI help you get away with killing your spouse?",
+      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-13T16:31:23+00:00",
+      "score": 2,
+      "matched": [
+        "ai act"
+      ]
+    },
+    {
+      "title": "ACRouter picks the smartest AI model per task, beating Opus-only setups by 2.6x on cost",
+      "link": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
+      "source": "VentureBeat AI",
+      "published": "2026-07-13T16:06:36+00:00",
+      "score": 4,
+      "matched": [
+        "enterprise ai",
+        "framework",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-13T15:34:59+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "Waze adds new AI-powered features and customization updates",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-13T14:18:16+00:00",
+      "score": 3,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "The desktop infrastructure problem that Kubernetes finally solves",
+      "link": "https://venturebeat.com/infrastructure/the-desktop-infrastructure-problem-that-kubernetes-finally-solves",
+      "source": "VentureBeat AI",
+      "published": "2026-07-13T07:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "enterprise",
+        "jobs"
+      ]
+    },
     {
       "title": "DeepSeek cut prices 75%. The 100x problem remains",
       "link": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
@@ -22,6 +109,16 @@
         "openai",
         "hiring",
         "chatgpt"
+      ]
+    },
+    {
+      "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
+      "link": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
+      "source": "Ars Technica",
+      "published": "2026-07-11T11:11:26+00:00",
+      "score": 2,
+      "matched": [
+        "regulation"
       ]
     },
     {
@@ -96,19 +193,6 @@
       ]
     },
     {
-      "title": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them",
-      "link": "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them",
-      "source": "VentureBeat AI",
-      "published": "2026-07-10T18:21:13+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "enterprise ai",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
       "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
       "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
       "source": "The Verge AI",
@@ -129,163 +213,6 @@
         "anthropic",
         "claude",
         "openai"
-      ]
-    },
-    {
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-10T00:16:54+00:00",
-      "score": 11,
-      "matched": [
-        "copilot",
-        "openai",
-        "productivity",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
-      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-09T23:38:00+00:00",
-      "score": 7,
-      "matched": [
-        "anthropic",
-        "openai",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-      "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
-      "source": "Wired AI",
-      "published": "2026-07-09T23:13:18+00:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "deployment"
-      ]
-    },
-    {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-09T22:24:24+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-09T22:08:58+00:00",
-      "score": 8,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-09T22:03:54+00:00",
-      "score": 6,
-      "matched": [
-        "agentic",
-        "openai"
-      ]
-    },
-    {
-      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-      "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-09T21:57:42+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "source": "MIT Tech Review",
-      "published": "2026-07-09T20:22:28+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-09T19:40:45+00:00",
-      "score": 4,
-      "matched": [
-        "agentic",
-        "enterprise",
-        "automation"
-      ]
-    },
-    {
-      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-      "source": "The Verge AI",
-      "published": "2026-07-09T19:24:04-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-09T19:05:58+00:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-      "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
-      "source": "Wired AI",
-      "published": "2026-07-09T18:30:00+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
-      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-      "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-09T18:22:39+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "openai"
-      ]
-    },
-    {
-      "title": "The ChatGPT browser is already dead",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "source": "The Verge AI",
-      "published": "2026-07-09T16:34:05-04:00",
-      "score": 4,
-      "matched": [
-        "openai",
-        "chatgpt"
       ]
     }
   ],
