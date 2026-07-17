@@ -1,6 +1,159 @@
 {
-  "updated": "2026-07-16T07:35:37.370727+00:00",
+  "updated": "2026-07-17T07:32:28.861958+00:00",
   "items": [
+    {
+      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+      "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+      "source": "Wired AI",
+      "published": "2026-07-16T22:17:27+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
+      "link": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "source": "VentureBeat AI",
+      "published": "2026-07-16T19:42:09+00:00",
+      "score": 5,
+      "matched": [
+        "anthropic",
+        "openai",
+        "benchmark"
+      ]
+    },
+    {
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "source": "VentureBeat AI",
+      "published": "2026-07-16T19:02:38+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+      "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+      "source": "Wired AI",
+      "published": "2026-07-16T18:35:18+00:00",
+      "score": 5,
+      "matched": [
+        "anthropic",
+        "transparency"
+      ]
+    },
+    {
+      "title": "Zero trust must now move at agent speed",
+      "link": "https://venturebeat.com/security/zero-trust-must-now-move-at-agent-speed",
+      "source": "VentureBeat AI",
+      "published": "2026-07-16T17:10:15+00:00",
+      "score": 6,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "source": "VentureBeat AI",
+      "published": "2026-07-16T17:06:08+00:00",
+      "score": 11,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise ai",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "source": "VentureBeat AI",
+      "published": "2026-07-16T16:40:48+00:00",
+      "score": 11,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise ai",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "Yes, you can now order DoorDash from the command line",
+      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-16T15:38:55+00:00",
+      "score": 5,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-16T15:31:09+00:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-16T14:26:29+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-16T12:10:00+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
+      "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "source": "The Verge AI",
+      "published": "2026-07-16T12:00:00-04:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "Claude can now use your 1Password credentials for you",
+      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "source": "The Verge AI",
+      "published": "2026-07-16T09:00:00-04:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
     {
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
@@ -39,32 +192,6 @@
       ]
     },
     {
-      "title": "Thinking Machines open sources first multimodal language model, Inkling, focused on low cost and 'resistance to censorship'",
-      "link": "https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship",
-      "source": "VentureBeat AI",
-      "published": "2026-07-15T21:33:00+00:00",
-      "score": 5,
-      "matched": [
-        "agentic",
-        "openai",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Amazon AGI director says AI agent reliability, not capability, is blocking enterprise deployment at VB Transform 2026",
-      "link": "https://venturebeat.com/technology/amazon-agi-director-says-ai-agent-reliability-not-capability-is-blocking-enterprise-deployment-at-vb-transform-2026",
-      "source": "VentureBeat AI",
-      "published": "2026-07-15T20:00:00+00:00",
-      "score": 14,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise ai",
-        "benchmark",
-        "enterprise"
-      ]
-    },
-    {
       "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
       "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
       "source": "TechCrunch AI",
@@ -76,17 +203,14 @@
       ]
     },
     {
-      "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026",
-      "link": "https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack",
-      "source": "VentureBeat AI",
-      "published": "2026-07-15T18:21:02+00:00",
-      "score": 11,
+      "title": "Thinking Machines Lab Drops Its First Model",
+      "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+      "source": "Wired AI",
+      "published": "2026-07-15T18:05:00+00:00",
+      "score": 4,
       "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise ai",
-        "enterprise",
-        "agents"
+        "anthropic",
+        "openai"
       ]
     },
     {
@@ -96,17 +220,6 @@
       "published": "2026-07-15T17:09:37+00:00",
       "score": 4,
       "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI's first branded hardware is... a light-up keyboard?",
-      "link": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
-      "source": "Ars Technica",
-      "published": "2026-07-15T16:00:33+00:00",
-      "score": 6,
-      "matched": [
-        "agentic",
         "openai"
       ]
     },
@@ -122,34 +235,6 @@
       ]
     },
     {
-      "title": "'We have maybe 20 months' to rebuild for AI agents, Meta's infrastructure VP tells VB Transform 2026",
-      "link": "https://venturebeat.com/data/we-have-maybe-20-months-to-rebuild-for-ai-agents-metas-infrastructure-vp-tells-vb-transform-2026",
-      "source": "VentureBeat AI",
-      "published": "2026-07-15T14:59:15+00:00",
-      "score": 13,
-      "matched": [
-        "agentic",
-        "ai agent",
-        "ai agents",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-15T13:10:47+00:00",
-      "score": 10,
-      "matched": [
-        "enterprise ai",
-        "ai adoption",
-        "anthropic",
-        "enterprise",
-        "adoption"
-      ]
-    },
-    {
       "title": "OpenAI finally launches hardware… for Codex",
       "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
       "source": "The Verge AI",
@@ -157,18 +242,6 @@
       "score": 4,
       "matched": [
         "openai"
-      ]
-    },
-    {
-      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-      "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-15T12:00:00+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
       ]
     },
     {
@@ -183,57 +256,6 @@
       ]
     },
     {
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-15T00:27:04+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-14T22:22:24+00:00",
-      "score": 5,
-      "matched": [
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-14T22:07:42+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-      "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-14T21:50:11+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-      "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-      "source": "Ars Technica",
-      "published": "2026-07-14T20:05:53+00:00",
-      "score": 4,
-      "matched": [
-        "layoff"
-      ]
-    },
-    {
       "title": "OpenAI may announce a ChatGPT smart speaker this year",
       "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
       "source": "The Verge AI",
@@ -242,30 +264,6 @@
       "matched": [
         "openai",
         "chatgpt"
-      ]
-    },
-    {
-      "title": "Meta accused of using biased AI targeting for mass layoffs",
-      "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-      "source": "The Verge AI",
-      "published": "2026-07-14T13:18:11-04:00",
-      "score": 9,
-      "matched": [
-        "layoff",
-        "layoffs",
-        "employees"
-      ]
-    },
-    {
-      "title": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
-      "link": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
-      "source": "VentureBeat AI",
-      "published": "2026-07-14T13:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "openai",
-        "enterprise"
       ]
     },
     {
