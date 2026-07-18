@@ -1,6 +1,86 @@
 {
-  "updated": "2026-07-17T07:32:28.861958+00:00",
+  "updated": "2026-07-18T07:13:44.682272+00:00",
   "items": [
+    {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-17T22:55:09+00:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Intuit scrapped its own AI agent architecture twice in four months. At VB Transform 2026, its AI VP called that the fast path",
+      "link": "https://venturebeat.com/orchestration/intuit-scrapped-its-own-ai-agent-architecture-twice-in-four-months-at-vb-transform-2026-its-ai-vp-called-that-the-fast-path",
+      "source": "VentureBeat AI",
+      "published": "2026-07-17T20:46:55+00:00",
+      "score": 7,
+      "matched": [
+        "agentic",
+        "ai agent",
+        "agents"
+      ]
+    },
+    {
+      "title": "Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026",
+      "link": "https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-doesnt-linkedin-walmart-and-zendesk-shared-how-they-closed-the-gap-at-vb-transform-2026",
+      "source": "VentureBeat AI",
+      "published": "2026-07-17T18:48:18+00:00",
+      "score": 6,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Brex built its AI agent policy by watching what agents actually do, not by writing rules first",
+      "link": "https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first",
+      "source": "VentureBeat AI",
+      "published": "2026-07-17T17:49:19+00:00",
+      "score": 10,
+      "matched": [
+        "agentic",
+        "ai agent",
+        "framework",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-17T17:45:46+00:00",
+      "score": 5,
+      "matched": [
+        "openai",
+        "employees"
+      ]
+    },
+    {
+      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-17T14:00:00+00:00",
+      "score": 5,
+      "matched": [
+        "openai",
+        "employees"
+      ]
+    },
+    {
+      "title": "Apple’s plot to crush OpenAI",
+      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "source": "The Verge AI",
+      "published": "2026-07-17T13:41:32-04:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
     {
       "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
       "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
@@ -22,6 +102,16 @@
         "anthropic",
         "openai",
         "benchmark"
+      ]
+    },
+    {
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "source": "VentureBeat AI",
+      "published": "2026-07-16T19:16:48+00:00",
+      "score": 2,
+      "matched": [
+        "enterprise"
       ]
     },
     {
@@ -49,44 +139,24 @@
       ]
     },
     {
-      "title": "Zero trust must now move at agent speed",
-      "link": "https://venturebeat.com/security/zero-trust-must-now-move-at-agent-speed",
-      "source": "VentureBeat AI",
-      "published": "2026-07-16T17:10:15+00:00",
-      "score": 6,
+      "title": "Google Vids now lets you star in your own AI videos",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-16T18:32:54+00:00",
+      "score": 4,
       "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise",
-        "agents"
+        "gemini",
+        "google"
       ]
     },
     {
-      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-      "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "source": "VentureBeat AI",
-      "published": "2026-07-16T17:06:08+00:00",
-      "score": 11,
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-16T16:00:00+00:00",
+      "score": 2,
       "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise ai",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
-      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-      "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "source": "VentureBeat AI",
-      "published": "2026-07-16T16:40:48+00:00",
-      "score": 11,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise ai",
-        "enterprise",
-        "agents"
+        "google"
       ]
     },
     {
@@ -155,51 +225,13 @@
       ]
     },
     {
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-15T23:59:44+00:00",
-      "score": 10,
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "source": "The Verge AI",
+      "published": "2026-07-16T08:06:51-04:00",
+      "score": 2,
       "matched": [
-        "anthropic",
-        "openai",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
-      "link": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
-      "source": "Ars Technica",
-      "published": "2026-07-15T22:36:28+00:00",
-      "score": 8,
-      "matched": [
-        "layoff",
-        "layoffs"
-      ]
-    },
-    {
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "source": "VentureBeat AI",
-      "published": "2026-07-15T22:24:17+00:00",
-      "score": 18,
-      "matched": [
-        "agentic",
-        "enterprise ai",
-        "anthropic",
-        "claude",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-15T19:41:38+00:00",
-      "score": 6,
-      "matched": [
-        "agentic",
-        "openai"
+        "google"
       ]
     },
     {
@@ -224,27 +256,6 @@
       ]
     },
     {
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-15T15:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "OpenAI finally launches hardware… for Codex",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-      "source": "The Verge AI",
-      "published": "2026-07-15T12:00:00-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
       "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
       "link": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
       "source": "Wired AI",
@@ -256,17 +267,6 @@
       ]
     },
     {
-      "title": "OpenAI may announce a ChatGPT smart speaker this year",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "source": "The Verge AI",
-      "published": "2026-07-14T17:26:32-04:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
       "title": "The Download: Claude’s inner workings, and the future of world models",
       "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
       "source": "MIT Tech Review",
@@ -275,16 +275,6 @@
       "matched": [
         "anthropic",
         "claude"
-      ]
-    },
-    {
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "source": "MIT Tech Review",
-      "published": "2026-07-13T18:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
       ]
     }
   ],
