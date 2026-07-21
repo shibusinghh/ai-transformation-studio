@@ -1,6 +1,101 @@
 {
-  "updated": "2026-07-20T08:24:01.196015+00:00",
+  "updated": "2026-07-21T07:53:57.124204+00:00",
   "items": [
+    {
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-21T00:12:24+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-20T21:21:15+00:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "Writer's AI harness cuts token spend nearly 40% — without sacrificing accuracy",
+      "link": "https://venturebeat.com/orchestration/writers-ai-harness-cuts-token-spend-nearly-40-without-sacrificing-accuracy",
+      "source": "VentureBeat AI",
+      "published": "2026-07-20T21:18:35+00:00",
+      "score": 3,
+      "matched": [
+        "enterprise ai",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-20T19:33:25+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "A single AI agent conversation can look perfect and still be broken, leaders from LangChain, Conviva and CoreWeave said at VB Transform 2026",
+      "link": "https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and-still-be-broken-leaders-from-langchain-conviva-and-coreweave-said-at-vb-transform-2026",
+      "source": "VentureBeat AI",
+      "published": "2026-07-20T18:24:33+00:00",
+      "score": 6,
+      "matched": [
+        "ai agent",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems",
+      "link": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
+      "source": "VentureBeat AI",
+      "published": "2026-07-20T15:49:20+00:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "The Download: AI hiring biases, and weather data sabotage",
+      "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-20T12:10:00+00:00",
+      "score": 2,
+      "matched": [
+        "hiring"
+      ]
+    },
+    {
+      "title": "AI is more likely than humans to form biases when hiring",
+      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-20T08:39:01+00:00",
+      "score": 2,
+      "matched": [
+        "hiring"
+      ]
+    },
+    {
+      "title": "China delivers a one-two punch to America’s AI dominance",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "source": "The Verge AI",
+      "published": "2026-07-20T06:16:33-04:00",
+      "score": 4,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
     {
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
@@ -56,15 +151,13 @@
       ]
     },
     {
-      "title": "Intuit scrapped its own AI agent architecture twice in four months. At VB Transform 2026, its AI VP called that the fast path",
-      "link": "https://venturebeat.com/orchestration/intuit-scrapped-its-own-ai-agent-architecture-twice-in-four-months-at-vb-transform-2026-its-ai-vp-called-that-the-fast-path",
+      "title": "Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do",
+      "link": "https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do",
       "source": "VentureBeat AI",
-      "published": "2026-07-17T20:46:55+00:00",
-      "score": 7,
+      "published": "2026-07-17T20:51:30+00:00",
+      "score": 2,
       "matched": [
-        "agentic",
-        "ai agent",
-        "agents"
+        "agentic"
       ]
     },
     {
@@ -78,57 +171,10 @@
       ]
     },
     {
-      "title": "Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026",
-      "link": "https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-doesnt-linkedin-walmart-and-zendesk-shared-how-they-closed-the-gap-at-vb-transform-2026",
-      "source": "VentureBeat AI",
-      "published": "2026-07-17T18:48:18+00:00",
-      "score": 6,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Brex built its AI agent policy by watching what agents actually do, not by writing rules first",
-      "link": "https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first",
-      "source": "VentureBeat AI",
-      "published": "2026-07-17T17:49:19+00:00",
-      "score": 10,
-      "matched": [
-        "agentic",
-        "ai agent",
-        "framework",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
       "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
       "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
       "source": "TechCrunch AI",
       "published": "2026-07-17T17:45:46+00:00",
-      "score": 5,
-      "matched": [
-        "openai",
-        "employees"
-      ]
-    },
-    {
-      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
-      "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
-      "source": "Ars Technica",
-      "published": "2026-07-17T16:10:05+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
-      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-17T14:00:00+00:00",
       "score": 5,
       "matched": [
         "openai",
@@ -150,125 +196,6 @@
       "link": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
       "source": "Wired AI",
       "published": "2026-07-17T10:00:00+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-      "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
-      "source": "Wired AI",
-      "published": "2026-07-16T22:17:27+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "openai"
-      ]
-    },
-    {
-      "title": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
-      "link": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
-      "source": "VentureBeat AI",
-      "published": "2026-07-16T19:42:09+00:00",
-      "score": 5,
-      "matched": [
-        "anthropic",
-        "openai",
-        "benchmark"
-      ]
-    },
-    {
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "source": "VentureBeat AI",
-      "published": "2026-07-16T19:16:48+00:00",
-      "score": 2,
-      "matched": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
-      "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
-      "source": "Wired AI",
-      "published": "2026-07-16T18:35:18+00:00",
-      "score": 5,
-      "matched": [
-        "anthropic",
-        "transparency"
-      ]
-    },
-    {
-      "title": "Google Vids now lets you star in your own AI videos",
-      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-16T18:32:54+00:00",
-      "score": 4,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "Google’s AI Mode now lets you link and interact with select apps",
-      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-16T16:00:00+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Yes, you can now order DoorDash from the command line",
-      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-16T15:38:55+00:00",
-      "score": 5,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-      "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-      "source": "MIT Tech Review",
-      "published": "2026-07-16T12:10:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Google is renaming NotebookLM to Gemini Notebook",
-      "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-      "source": "The Verge AI",
-      "published": "2026-07-16T12:00:00-04:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "Claude can now use your 1Password credentials for you",
-      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "source": "The Verge AI",
-      "published": "2026-07-16T09:00:00-04:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "source": "The Verge AI",
-      "published": "2026-07-16T08:06:51-04:00",
       "score": 2,
       "matched": [
         "google"
