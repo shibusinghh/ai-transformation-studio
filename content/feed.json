@@ -1,6 +1,161 @@
 {
-  "updated": "2026-07-21T07:53:57.124204+00:00",
+  "updated": "2026-07-22T07:53:57.523519+00:00",
   "items": [
+    {
+      "title": "OpenAI's models broke containment and cyberattacked Hugging Face — what enterprises need to know",
+      "link": "https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know",
+      "source": "VentureBeat AI",
+      "published": "2026-07-22T04:39:00+00:00",
+      "score": 7,
+      "matched": [
+        "openai",
+        "benchmark",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-22T03:20:57+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+      "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "source": "Wired AI",
+      "published": "2026-07-21T22:50:01+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
+      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-21T20:56:55+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Google's Gemini 3.6 Flash model cuts AI agent token costs by up to 65% on long horizon engineering tasks —and 3.5 Pro is on the way",
+      "link": "https://venturebeat.com/technology/googles-gemini-3-6-flash-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way",
+      "source": "VentureBeat AI",
+      "published": "2026-07-21T19:59:58+00:00",
+      "score": 13,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "gemini",
+        "agents",
+        "google"
+      ]
+    },
+    {
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-21T19:43:41+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "source": "The Verge AI",
+      "published": "2026-07-21T17:48:54-04:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "source": "Ars Technica",
+      "published": "2026-07-21T17:33:14+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-21T17:11:50+00:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+      "link": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+      "source": "Ars Technica",
+      "published": "2026-07-21T16:58:25+00:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+      "source": "The Verge AI",
+      "published": "2026-07-21T12:53:37-04:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+      "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+      "source": "The Verge AI",
+      "published": "2026-07-21T11:00:00-04:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "America needs to stop getting shocked by Chinese AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+      "source": "The Verge AI",
+      "published": "2026-07-21T07:08:56-04:00",
+      "score": 4,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "Atlassian: Research shows organizations should approach AI at the team level, not the individual level, to achieve true ROI",
+      "link": "https://venturebeat.com/orchestration/atlassian-research-shows-organizations-should-approach-ai-at-the-team-level-not-the-individual-level-to-achieve-true-roi",
+      "source": "VentureBeat AI",
+      "published": "2026-07-21T07:00:00+00:00",
+      "score": 3,
+      "matched": [
+        "ai adoption",
+        "adoption"
+      ]
+    },
     {
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
       "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
@@ -44,28 +199,6 @@
       ]
     },
     {
-      "title": "A single AI agent conversation can look perfect and still be broken, leaders from LangChain, Conviva and CoreWeave said at VB Transform 2026",
-      "link": "https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and-still-be-broken-leaders-from-langchain-conviva-and-coreweave-said-at-vb-transform-2026",
-      "source": "VentureBeat AI",
-      "published": "2026-07-20T18:24:33+00:00",
-      "score": 6,
-      "matched": [
-        "ai agent",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
-      "title": "Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems",
-      "link": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
-      "source": "VentureBeat AI",
-      "published": "2026-07-20T15:49:20+00:00",
-      "score": 4,
-      "matched": [
-        "ai agent"
-      ]
-    },
-    {
       "title": "The Download: AI hiring biases, and weather data sabotage",
       "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
       "source": "MIT Tech Review",
@@ -86,17 +219,6 @@
       ]
     },
     {
-      "title": "China delivers a one-two punch to America’s AI dominance",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "source": "The Verge AI",
-      "published": "2026-07-20T06:16:33-04:00",
-      "score": 4,
-      "matched": [
-        "anthropic",
-        "openai"
-      ]
-    },
-    {
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
       "source": "TechCrunch AI",
@@ -107,17 +229,6 @@
       ]
     },
     {
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "source": "The Verge AI",
-      "published": "2026-07-18T16:54:42-04:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
       "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
       "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
       "source": "Wired AI",
@@ -125,79 +236,6 @@
       "score": 6,
       "matched": [
         "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-      "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-      "source": "Wired AI",
-      "published": "2026-07-18T09:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-17T22:55:09+00:00",
-      "score": 4,
-      "matched": [
-        "ai agent"
-      ]
-    },
-    {
-      "title": "Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do",
-      "link": "https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do",
-      "source": "VentureBeat AI",
-      "published": "2026-07-17T20:51:30+00:00",
-      "score": 2,
-      "matched": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-      "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-      "source": "Ars Technica",
-      "published": "2026-07-17T19:50:18+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-17T17:45:46+00:00",
-      "score": 5,
-      "matched": [
-        "openai",
-        "employees"
-      ]
-    },
-    {
-      "title": "Apple’s plot to crush OpenAI",
-      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "source": "The Verge AI",
-      "published": "2026-07-17T13:41:32-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
-      "link": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
-      "source": "Wired AI",
-      "published": "2026-07-17T10:00:00+00:00",
-      "score": 2,
-      "matched": [
         "google"
       ]
     }
