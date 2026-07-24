@@ -1,16 +1,165 @@
 {
-  "updated": "2026-07-23T07:56:05.972206+00:00",
+  "updated": "2026-07-24T07:53:29.196070+00:00",
   "items": [
     {
-      "title": "The credential that let OpenAI's agents into Hugging Face exists in most enterprises right now",
-      "link": "https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now",
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-24T01:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI",
+      "link": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
       "source": "VentureBeat AI",
-      "published": "2026-07-22T22:12:14+00:00",
-      "score": 8,
+      "published": "2026-07-23T23:37:05+00:00",
+      "score": 7,
       "matched": [
         "openai",
         "enterprise",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop",
+      "link": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop",
+      "source": "VentureBeat AI",
+      "published": "2026-07-23T21:17:00+00:00",
+      "score": 10,
+      "matched": [
+        "agentic",
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-23T19:00:00+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-23T18:38:34+00:00",
+      "score": 7,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents",
+        "google"
+      ]
+    },
+    {
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "link": "https://venturebeat.com/resources/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "source": "VentureBeat AI",
+      "published": "2026-07-23T17:03:51+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise",
         "agents"
+      ]
+    },
+    {
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "link": "https://venturebeat.com/resources/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "source": "VentureBeat AI",
+      "published": "2026-07-23T17:03:09+00:00",
+      "score": 11,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise ai",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-23T17:00:00+00:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Claude’s voice mode is now available for Opus and Sonnet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "source": "The Verge AI",
+      "published": "2026-07-23T15:00:00-04:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "Google’s Gemini nears billion-user milestone",
+      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-23T14:52:44+00:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+      "source": "Ars Technica",
+      "published": "2026-07-23T14:45:05+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "source": "The Verge AI",
+      "published": "2026-07-23T13:00:00-04:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-23T11:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+      "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "source": "The Verge AI",
+      "published": "2026-07-23T10:00:00-04:00",
+      "score": 5,
+      "matched": [
+        "openai",
+        "employees"
       ]
     },
     {
@@ -24,15 +173,13 @@
       ]
     },
     {
-      "title": "AI agents aren't confidently wrong because of bad context — they're wrong because of bad data engineering",
-      "link": "https://venturebeat.com/data/ai-agents-arent-confidently-wrong-because-of-bad-context-theyre-wrong-because-of-bad-data-engineering",
-      "source": "VentureBeat AI",
-      "published": "2026-07-22T19:14:02+00:00",
-      "score": 10,
+      "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
+      "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+      "source": "Ars Technica",
+      "published": "2026-07-22T20:36:19+00:00",
+      "score": 2,
       "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
+        "microsoft"
       ]
     },
     {
@@ -57,6 +204,16 @@
       ]
     },
     {
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-22T17:54:14+00:00",
+      "score": 2,
+      "matched": [
+        "operating model"
+      ]
+    },
+    {
       "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
       "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
       "source": "Ars Technica",
@@ -65,30 +222,6 @@
       "matched": [
         "ai agent",
         "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "OpenAI’s AI spending spree has ballooned to $750B",
-      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-22T16:13:30+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
-      "link": "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots",
-      "source": "VentureBeat AI",
-      "published": "2026-07-22T14:50:00+00:00",
-      "score": 12,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "enterprise",
         "agents"
       ]
     },
@@ -113,31 +246,6 @@
       ]
     },
     {
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-22T10:00:00+00:00",
-      "score": 7,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise",
-        "adoption",
-        "agents"
-      ]
-    },
-    {
-      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-      "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-22T08:00:00+00:00",
-      "score": 2,
-      "matched": [
-        "enterprise",
-        "employees"
-      ]
-    },
-    {
       "title": "Meta made its own AI detection system. It should have just used Google’s",
       "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
       "source": "The Verge AI",
@@ -145,39 +253,6 @@
       "score": 2,
       "matched": [
         "google"
-      ]
-    },
-    {
-      "title": "Inflection AI returns to consumer market with Pi Journeys after Microsoft upheaval",
-      "link": "https://venturebeat.com/orchestration/inflection-ai-returns-to-consumer-market-with-pi-journeys-after-microsoft-upheaval",
-      "source": "VentureBeat AI",
-      "published": "2026-07-22T07:00:00+00:00",
-      "score": 2,
-      "matched": [
-        "microsoft"
-      ]
-    },
-    {
-      "title": "OpenAI's models broke containment and cyberattacked Hugging Face — what enterprises need to know",
-      "link": "https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know",
-      "source": "VentureBeat AI",
-      "published": "2026-07-22T04:39:00+00:00",
-      "score": 7,
-      "matched": [
-        "openai",
-        "benchmark",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-22T03:20:57+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "openai"
       ]
     },
     {
@@ -191,84 +266,10 @@
       ]
     },
     {
-      "title": "OpenAI says Hugging Face was breached by its pre-release models",
-      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-21T20:56:55+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-21T19:43:41+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "source": "The Verge AI",
-      "published": "2026-07-21T17:48:54-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
-      "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-      "source": "Ars Technica",
-      "published": "2026-07-21T17:33:14+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-      "source": "The Verge AI",
-      "published": "2026-07-21T12:53:37-04:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Google launches a cheaper alternative to large AI security models like Mythos",
-      "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-      "source": "The Verge AI",
-      "published": "2026-07-21T11:00:00-04:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "gemini",
-        "google"
-      ]
-    },
-    {
       "title": "The Download: AI hiring biases, and weather data sabotage",
       "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
       "source": "MIT Tech Review",
       "published": "2026-07-20T12:10:00+00:00",
-      "score": 2,
-      "matched": [
-        "hiring"
-      ]
-    },
-    {
-      "title": "AI is more likely than humans to form biases when hiring",
-      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "source": "MIT Tech Review",
-      "published": "2026-07-20T08:39:01+00:00",
       "score": 2,
       "matched": [
         "hiring"
