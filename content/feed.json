@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-25T07:32:18.688081+00:00",
+  "updated": "2026-07-26T07:54:22.579773+00:00",
   "items": [
+    {
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-26T01:30:00+00:00",
+      "score": 8,
+      "matched": [
+        "layoff",
+        "layoffs"
+      ]
+    },
+    {
+      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+      "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "source": "Wired AI",
+      "published": "2026-07-25T10:30:00+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
     {
       "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
       "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
@@ -142,6 +163,16 @@
       ]
     },
     {
+      "title": "Forgot your Google password? Now you can log in with a selfie.",
+      "link": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+      "source": "Ars Technica",
+      "published": "2026-07-23T19:14:25+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
       "title": "Anthropic updates Claude voice mode with more capable models",
       "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
       "source": "TechCrunch AI",
@@ -166,6 +197,16 @@
       ]
     },
     {
+      "title": "Multi-turn attacks broke AI models 88% of the time — single-turn testing missed it, Cisco AI security lead warns at VB Transform 2026",
+      "link": "https://venturebeat.com/security/openai-anthropic-google-and-xai-models-all-broke-under-multi-turn-attack-up-to-88-of-the-time",
+      "source": "VentureBeat AI",
+      "published": "2026-07-23T17:13:48+00:00",
+      "score": 2,
+      "matched": [
+        "agentic"
+      ]
+    },
+    {
       "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
       "link": "https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
       "source": "VentureBeat AI",
@@ -187,16 +228,6 @@
       ]
     },
     {
-      "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
-      "link": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
-      "source": "Ars Technica",
-      "published": "2026-07-23T16:41:36+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
       "title": "Claude’s voice mode is now available for Opus and Sonnet",
       "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
       "source": "The Verge AI",
@@ -208,17 +239,6 @@
       ]
     },
     {
-      "title": "Google’s Gemini nears billion-user milestone",
-      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-23T14:52:44+00:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
       "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
       "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
       "source": "The Verge AI",
@@ -227,16 +247,6 @@
       "matched": [
         "openai",
         "chatgpt"
-      ]
-    },
-    {
-      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-23T11:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
       ]
     },
     {
@@ -265,16 +275,6 @@
       "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
       "source": "MIT Tech Review",
       "published": "2026-07-22T12:10:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-      "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-      "source": "Wired AI",
-      "published": "2026-07-21T22:50:01+00:00",
       "score": 4,
       "matched": [
         "openai"
