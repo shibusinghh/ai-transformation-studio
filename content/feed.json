@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-26T07:54:22.579773+00:00",
+  "updated": "2026-07-27T08:54:09.677095+00:00",
   "items": [
+    {
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-26T16:33:13+00:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "transparency"
+      ]
+    },
     {
       "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
       "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
@@ -91,6 +102,16 @@
       ]
     },
     {
+      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+      "link": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-24T14:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
       "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
       "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
       "source": "TechCrunch AI",
@@ -100,6 +121,16 @@
         "openai",
         "agents",
         "chatgpt"
+      ]
+    },
+    {
+      "title": "You can’t ignore Google Zero anymore",
+      "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+      "source": "The Verge AI",
+      "published": "2026-07-24T13:29:48-04:00",
+      "score": 2,
+      "matched": [
+        "google"
       ]
     },
     {
@@ -163,13 +194,13 @@
       ]
     },
     {
-      "title": "Forgot your Google password? Now you can log in with a selfie.",
-      "link": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+      "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
       "source": "Ars Technica",
-      "published": "2026-07-23T19:14:25+00:00",
+      "published": "2026-07-23T20:47:33+00:00",
       "score": 2,
       "matched": [
-        "google"
+        "microsoft"
       ]
     },
     {
@@ -217,17 +248,6 @@
       ]
     },
     {
-      "title": "OpenAI makes ChatGPT Health available to all US users",
-      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-23T17:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
       "title": "Claude’s voice mode is now available for Opus and Sonnet",
       "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
       "source": "The Verge AI",
@@ -255,27 +275,6 @@
       "source": "The Verge AI",
       "published": "2026-07-23T10:13:35-04:00",
       "score": 2,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
-      "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
-      "source": "Wired AI",
-      "published": "2026-07-22T19:01:38+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic",
-        "openai"
-      ]
-    },
-    {
-      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
-      "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
-      "source": "MIT Tech Review",
-      "published": "2026-07-22T12:10:00+00:00",
-      "score": 4,
       "matched": [
         "openai"
       ]
