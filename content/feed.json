@@ -1,6 +1,151 @@
 {
-  "updated": "2026-07-29T08:04:11.506560+00:00",
+  "updated": "2026-07-30T07:53:33.329414+00:00",
   "items": [
+    {
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-30T00:21:06+00:00",
+      "score": 10,
+      "matched": [
+        "anthropic",
+        "openai",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-29T23:00:11+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-29T22:46:03+00:00",
+      "score": 10,
+      "matched": [
+        "anthropic",
+        "openai",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-29T22:23:12+00:00",
+      "score": 12,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise ai",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "Enterprise AI agents can't talk to each other, can't be trusted with permissions, and can't be audited — 5 startups are already fixing that",
+      "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-cant-talk-to-each-other-cant-be-trusted-with-permissions-and-cant-be-audited-5-startups-are-already-fixing-that",
+      "source": "VentureBeat AI",
+      "published": "2026-07-29T20:02:03+00:00",
+      "score": 18,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise ai",
+        "audit",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "source": "The Verge AI",
+      "published": "2026-07-29T18:17:38-04:00",
+      "score": 8,
+      "matched": [
+        "agentic",
+        "copilot",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "source": "The Verge AI",
+      "published": "2026-07-29T17:48:07-04:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Nimble claims its new, domain-specialized Web Search Agents cut token costs in half while boosting retrieval accuracy",
+      "link": "https://venturebeat.com/orchestration/nimble-claims-its-new-domain-specialized-web-search-agents-cut-token-costs-in-half-while-boosting-retrieval-accuracy",
+      "source": "VentureBeat AI",
+      "published": "2026-07-29T17:32:00+00:00",
+      "score": 7,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+      "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+      "source": "Ars Technica",
+      "published": "2026-07-29T15:52:48+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-29T14:41:06+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "source": "The Verge AI",
+      "published": "2026-07-29T14:15:02-04:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "source": "The Verge AI",
+      "published": "2026-07-29T07:54:29-04:00",
+      "score": 8,
+      "matched": [
+        "ai agent",
+        "openai"
+      ]
+    },
     {
       "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
       "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
@@ -46,34 +191,11 @@
       ]
     },
     {
-      "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
-      "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-      "source": "Ars Technica",
-      "published": "2026-07-28T20:20:20+00:00",
-      "score": 3,
-      "matched": [
-        "jobs",
-        "google"
-      ]
-    },
-    {
       "title": "Instacart's CTO says AI made the company stop worrying about tech debt",
       "link": "https://venturebeat.com/orchestration/instacarts-cto-says-ai-made-the-company-stop-worrying-about-tech-debt",
       "source": "VentureBeat AI",
       "published": "2026-07-28T19:32:34+00:00",
       "score": 5,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "GM redesigned its engineering workflows around AI agents — and tripled its merged pull requests",
-      "link": "https://venturebeat.com/orchestration/gm-redesigned-its-engineering-workflows-around-ai-agents-and-tripled-its-merged-pull-requests",
-      "source": "VentureBeat AI",
-      "published": "2026-07-28T17:29:58+00:00",
-      "score": 10,
       "matched": [
         "ai agent",
         "ai agents",
@@ -95,20 +217,6 @@
       ]
     },
     {
-      "title": "Snowflake launches Cortex AI Gateway to control AI agents and prevent runaway enterprise costs",
-      "link": "https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs",
-      "source": "VentureBeat AI",
-      "published": "2026-07-28T13:00:00+00:00",
-      "score": 16,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "anthropic",
-        "claude",
-        "enterprise"
-      ]
-    },
-    {
       "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
       "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
       "source": "MIT Tech Review",
@@ -116,31 +224,6 @@
       "score": 4,
       "matched": [
         "openai"
-      ]
-    },
-    {
-      "title": "MCP just got its biggest update ever — here’s what changes for AI agents",
-      "link": "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents",
-      "source": "VentureBeat AI",
-      "published": "2026-07-28T12:00:00+00:00",
-      "score": 16,
-      "matched": [
-        "agentic",
-        "ai agent",
-        "ai agents",
-        "anthropic",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Can the New York Times Save Journalism From Our AI Overlords?",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
-      "source": "Wired AI",
-      "published": "2026-07-28T10:30:00+00:00",
-      "score": 3,
-      "matched": [
-        "openai",
-        "microsoft"
       ]
     },
     {
@@ -169,18 +252,6 @@
       ]
     },
     {
-      "title": "Fiduciary AI: Agents need to prove trustworthiness, not just ability",
-      "link": "https://venturebeat.com/security/fiduciary-ai-agents-need-to-prove-trustworthiness-not-just-ability",
-      "source": "VentureBeat AI",
-      "published": "2026-07-28T07:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "ai agent",
-        "agents",
-        "deployment"
-      ]
-    },
-    {
       "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
       "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
       "source": "TechCrunch AI",
@@ -188,17 +259,6 @@
       "score": 4,
       "matched": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-27T20:19:42+00:00",
-      "score": 6,
-      "matched": [
-        "claude",
-        "google"
       ]
     },
     {
@@ -213,31 +273,10 @@
       ]
     },
     {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-27T18:32:11+00:00",
-      "score": 6,
-      "matched": [
-        "agentic",
-        "microsoft"
-      ]
-    },
-    {
       "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
       "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
       "source": "MIT Tech Review",
       "published": "2026-07-27T18:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-27T17:28:42+00:00",
       "score": 4,
       "matched": [
         "openai"
@@ -253,41 +292,6 @@
         "ai agent",
         "ai agents",
         "agents"
-      ]
-    },
-    {
-      "title": "Building the enterprise environment for agentic AI",
-      "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "source": "MIT Tech Review",
-      "published": "2026-07-27T11:32:58+00:00",
-      "score": 7,
-      "matched": [
-        "agentic",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "source": "The Verge AI",
-      "published": "2026-07-27T08:06:22-04:00",
-      "score": 12,
-      "matched": [
-        "anthropic",
-        "openai",
-        "microsoft",
-        "google"
-      ]
-    },
-    {
-      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
-      "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-      "source": "Wired AI",
-      "published": "2026-07-25T10:30:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
       ]
     }
   ],
