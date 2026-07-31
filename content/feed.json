@@ -1,6 +1,172 @@
 {
-  "updated": "2026-07-30T07:53:33.329414+00:00",
+  "updated": "2026-07-31T08:15:43.663632+00:00",
   "items": [
+    {
+      "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
+      "link": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
+      "source": "VentureBeat AI",
+      "published": "2026-07-31T01:45:07+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+      "source": "Wired AI",
+      "published": "2026-07-31T01:24:26+00:00",
+      "score": 10,
+      "matched": [
+        "anthropic",
+        "claude",
+        "openai"
+      ]
+    },
+    {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-31T01:06:54+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-30T23:25:58+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost",
+      "link": "https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost",
+      "source": "VentureBeat AI",
+      "published": "2026-07-30T21:48:00+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-30T20:26:38+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
+      "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+      "source": "Wired AI",
+      "published": "2026-07-30T20:12:57+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
+      "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+      "source": "Wired AI",
+      "published": "2026-07-30T17:51:10+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "Hush Security says the AI security problem has shifted from protecting models to governing identities as autonomous agents spread",
+      "link": "https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread",
+      "source": "VentureBeat AI",
+      "published": "2026-07-30T16:29:00+00:00",
+      "score": 5,
+      "matched": [
+        "enterprise ai",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "Okta buys AI security startup Permiso — source says for about $200M",
+      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-30T16:09:42+00:00",
+      "score": 6,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+      "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
+      "source": "Wired AI",
+      "published": "2026-07-30T15:04:22+00:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "New MCP specification addresses the main barrier to enterprise adoption",
+      "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+      "source": "Ars Technica",
+      "published": "2026-07-30T14:53:07+00:00",
+      "score": 4,
+      "matched": [
+        "enterprise",
+        "adoption"
+      ]
+    },
+    {
+      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+      "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-30T14:48:32+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "source": "The Verge AI",
+      "published": "2026-07-30T13:18:45-04:00",
+      "score": 4,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
+      "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
+      "source": "Wired AI",
+      "published": "2026-07-30T10:30:00+00:00",
+      "score": 6,
+      "matched": [
+        "ai agent",
+        "openai"
+      ]
+    },
     {
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
       "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
@@ -52,20 +218,6 @@
       ]
     },
     {
-      "title": "Enterprise AI agents can't talk to each other, can't be trusted with permissions, and can't be audited — 5 startups are already fixing that",
-      "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-cant-talk-to-each-other-cant-be-trusted-with-permissions-and-cant-be-audited-5-startups-are-already-fixing-that",
-      "source": "VentureBeat AI",
-      "published": "2026-07-29T20:02:03+00:00",
-      "score": 18,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise ai",
-        "audit",
-        "enterprise"
-      ]
-    },
-    {
       "title": "Microsoft confirms Copilot ‘super app’ coming this year",
       "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
       "source": "The Verge AI",
@@ -90,19 +242,6 @@
       ]
     },
     {
-      "title": "Nimble claims its new, domain-specialized Web Search Agents cut token costs in half while boosting retrieval accuracy",
-      "link": "https://venturebeat.com/orchestration/nimble-claims-its-new-domain-specialized-web-search-agents-cut-token-costs-in-half-while-boosting-retrieval-accuracy",
-      "source": "VentureBeat AI",
-      "published": "2026-07-29T17:32:00+00:00",
-      "score": 7,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
       "title": "Anthropic is finding bugs faster than Microsoft can fix them",
       "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
       "source": "Ars Technica",
@@ -111,18 +250,6 @@
       "matched": [
         "anthropic",
         "microsoft"
-      ]
-    },
-    {
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-29T14:41:06+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
       ]
     },
     {
@@ -136,87 +263,6 @@
       ]
     },
     {
-      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "source": "The Verge AI",
-      "published": "2026-07-29T07:54:29-04:00",
-      "score": 8,
-      "matched": [
-        "ai agent",
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
-      "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-      "source": "Wired AI",
-      "published": "2026-07-29T00:15:30+00:00",
-      "score": 8,
-      "matched": [
-        "ai agent",
-        "openai"
-      ]
-    },
-    {
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-29T00:09:05+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible",
-      "link": "https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible",
-      "source": "VentureBeat AI",
-      "published": "2026-07-28T22:10:02+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-      "source": "Ars Technica",
-      "published": "2026-07-28T21:36:39+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Instacart's CTO says AI made the company stop worrying about tech debt",
-      "link": "https://venturebeat.com/orchestration/instacarts-cto-says-ai-made-the-company-stop-worrying-about-tech-debt",
-      "source": "VentureBeat AI",
-      "published": "2026-07-28T19:32:34+00:00",
-      "score": 5,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "AI leaders sign a statement asking the government to do something about automated AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "source": "The Verge AI",
-      "published": "2026-07-28T15:46:43-04:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "openai",
-        "employees",
-        "governance",
-        "microsoft"
-      ]
-    },
-    {
       "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
       "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
       "source": "MIT Tech Review",
@@ -227,52 +273,6 @@
       ]
     },
     {
-      "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
-      "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
-      "source": "Wired AI",
-      "published": "2026-07-28T10:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "anthropic",
-        "openai",
-        "employees"
-      ]
-    },
-    {
-      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "source": "The Verge AI",
-      "published": "2026-07-28T08:30:00-04:00",
-      "score": 12,
-      "matched": [
-        "agentic",
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-28T00:13:33+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Private Claude Chats Exposed in Google and Bing Search Results",
-      "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
-      "source": "Wired AI",
-      "published": "2026-07-27T20:08:00+00:00",
-      "score": 6,
-      "matched": [
-        "claude",
-        "google"
-      ]
-    },
-    {
       "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
       "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
       "source": "MIT Tech Review",
@@ -280,18 +280,6 @@
       "score": 4,
       "matched": [
         "openai"
-      ]
-    },
-    {
-      "title": "The path to artificial superintelligence",
-      "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "source": "MIT Tech Review",
-      "published": "2026-07-27T12:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
       ]
     }
   ],
