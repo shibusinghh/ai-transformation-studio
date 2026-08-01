@@ -1,6 +1,103 @@
 {
-  "updated": "2026-07-31T08:15:43.663632+00:00",
+  "updated": "2026-08-01T07:41:18.738187+00:00",
   "items": [
+    {
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-31T22:47:26+00:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "source": "Ars Technica",
+      "published": "2026-07-31T20:39:14+00:00",
+      "score": 4,
+      "matched": [
+        "claude"
+      ]
+    },
+    {
+      "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud",
+      "link": "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud",
+      "source": "VentureBeat AI",
+      "published": "2026-07-31T19:20:00+00:00",
+      "score": 6,
+      "matched": [
+        "ai agent",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Chinese AI Researchers Are Finding Their Voice on X",
+      "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+      "source": "Wired AI",
+      "published": "2026-07-31T18:14:43+00:00",
+      "score": 5,
+      "matched": [
+        "anthropic",
+        "openai",
+        "employees"
+      ]
+    },
+    {
+      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-31T14:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Here’s the problem with putting an AI image generator in Google Earth",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+      "source": "The Verge AI",
+      "published": "2026-07-31T13:05:46-04:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Rocket Report: New launch rule may limit environmental regulations, Falcon 9 to hit Moon",
+      "link": "https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/",
+      "source": "Ars Technica",
+      "published": "2026-07-31T10:30:24+00:00",
+      "score": 2,
+      "matched": [
+        "regulation"
+      ]
+    },
+    {
+      "title": "It’s time to panic about AI safety",
+      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+      "source": "The Verge AI",
+      "published": "2026-07-31T10:03:04-04:00",
+      "score": 3,
+      "matched": [
+        "openai",
+        "benchmark"
+      ]
+    },
+    {
+      "title": "Anthropic says Claude accidentally hacked real companies too",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "source": "The Verge AI",
+      "published": "2026-07-31T09:41:17-04:00",
+      "score": 10,
+      "matched": [
+        "anthropic",
+        "claude",
+        "openai"
+      ]
+    },
     {
       "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
       "link": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
@@ -13,7 +110,7 @@
       ]
     },
     {
-      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
       "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
       "source": "Wired AI",
       "published": "2026-07-31T01:24:26+00:00",
@@ -33,6 +130,17 @@
       "matched": [
         "anthropic",
         "openai"
+      ]
+    },
+    {
+      "title": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size",
+      "link": "https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size",
+      "source": "VentureBeat AI",
+      "published": "2026-07-31T00:14:22+00:00",
+      "score": 3,
+      "matched": [
+        "openai",
+        "benchmark"
       ]
     },
     {
@@ -75,6 +183,17 @@
       "matched": [
         "anthropic",
         "openai"
+      ]
+    },
+    {
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-30T18:57:58+00:00",
+      "score": 3,
+      "matched": [
+        "microsoft",
+        "google"
       ]
     },
     {
@@ -125,27 +244,6 @@
       ]
     },
     {
-      "title": "New MCP specification addresses the main barrier to enterprise adoption",
-      "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-      "source": "Ars Technica",
-      "published": "2026-07-30T14:53:07+00:00",
-      "score": 4,
-      "matched": [
-        "enterprise",
-        "adoption"
-      ]
-    },
-    {
-      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-      "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-30T14:48:32+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
       "title": "Google DeepMind’s new AI model can control a robot’s entire body",
       "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
       "source": "The Verge AI",
@@ -168,115 +266,10 @@
       ]
     },
     {
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-30T00:21:06+00:00",
-      "score": 10,
-      "matched": [
-        "anthropic",
-        "openai",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-29T23:00:11+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-29T22:46:03+00:00",
-      "score": 10,
-      "matched": [
-        "anthropic",
-        "openai",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-29T22:23:12+00:00",
-      "score": 12,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise ai",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
-      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-      "source": "The Verge AI",
-      "published": "2026-07-29T18:17:38-04:00",
-      "score": 8,
-      "matched": [
-        "agentic",
-        "copilot",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-      "source": "The Verge AI",
-      "published": "2026-07-29T17:48:07-04:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
-      "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-      "source": "Ars Technica",
-      "published": "2026-07-29T15:52:48+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "source": "The Verge AI",
-      "published": "2026-07-29T14:15:02-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
       "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
       "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
       "source": "MIT Tech Review",
       "published": "2026-07-28T12:10:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "source": "MIT Tech Review",
-      "published": "2026-07-27T18:00:00+00:00",
       "score": 4,
       "matched": [
         "openai"
