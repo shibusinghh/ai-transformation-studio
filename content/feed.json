@@ -1,6 +1,28 @@
 {
-  "updated": "2026-08-01T07:41:18.738187+00:00",
+  "updated": "2026-08-02T07:43:55.981874+00:00",
   "items": [
+    {
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-01T17:07:34+00:00",
+      "score": 4,
+      "matched": [
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+      "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "source": "Wired AI",
+      "published": "2026-08-01T09:30:00+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
     {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
       "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
@@ -46,6 +68,36 @@
       ]
     },
     {
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-31T17:26:32+00:00",
+      "score": 2,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+      "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+      "source": "The Verge AI",
+      "published": "2026-07-31T15:13:29-04:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+      "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
+      "source": "Wired AI",
+      "published": "2026-07-31T14:47:26+00:00",
+      "score": 2,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
       "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
       "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
       "source": "TechCrunch AI",
@@ -63,16 +115,6 @@
       "score": 2,
       "matched": [
         "google"
-      ]
-    },
-    {
-      "title": "Rocket Report: New launch rule may limit environmental regulations, Falcon 9 to hit Moon",
-      "link": "https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/",
-      "source": "Ars Technica",
-      "published": "2026-07-31T10:30:24+00:00",
-      "score": 2,
-      "matched": [
-        "regulation"
       ]
     },
     {
@@ -220,30 +262,6 @@
       ]
     },
     {
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-30T16:09:42+00:00",
-      "score": 6,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
-      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
-      "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
-      "source": "Wired AI",
-      "published": "2026-07-30T15:04:22+00:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
       "title": "Google DeepMind’s new AI model can control a robot’s entire body",
       "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
       "source": "The Verge AI",
@@ -252,27 +270,6 @@
       "matched": [
         "gemini",
         "google"
-      ]
-    },
-    {
-      "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
-      "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
-      "source": "Wired AI",
-      "published": "2026-07-30T10:30:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai agent",
-        "openai"
-      ]
-    },
-    {
-      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-      "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-      "source": "MIT Tech Review",
-      "published": "2026-07-28T12:10:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
       ]
     }
   ],
