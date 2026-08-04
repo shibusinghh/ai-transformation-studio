@@ -1,6 +1,87 @@
 {
-  "updated": "2026-08-03T08:46:50.542909+00:00",
+  "updated": "2026-08-04T08:00:34.586998+00:00",
   "items": [
+    {
+      "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
+      "link": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
+      "source": "VentureBeat AI",
+      "published": "2026-08-03T23:50:58+00:00",
+      "score": 5,
+      "matched": [
+        "agentic",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Asana's AI agents share memory across your company — but not your secrets",
+      "link": "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets",
+      "source": "VentureBeat AI",
+      "published": "2026-08-03T23:14:48+00:00",
+      "score": 11,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-03T19:09:56+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Congress’ favorite AI tool? ChatGPT",
+      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-03T16:40:55+00:00",
+      "score": 4,
+      "matched": [
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Europe’s AI labeling and transparency rules are now in effect",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge AI",
+      "published": "2026-08-03T13:38:45-04:00",
+      "score": 4,
+      "matched": [
+        "ai act",
+        "transparency"
+      ]
+    },
+    {
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-03T12:08:00+00:00",
+      "score": 7,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-03T10:00:00+00:00",
+      "score": 5,
+      "matched": [
+        "ai adoption",
+        "adoption",
+        "deployment"
+      ]
+    },
     {
       "title": "Here’s why AI agents lie and cheat to reach their goals",
       "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
@@ -15,14 +96,26 @@
       ]
     },
     {
-      "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-01T17:07:34+00:00",
+      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "source": "The Verge AI",
+      "published": "2026-08-03T07:01:11-04:00",
       "score": 4,
       "matched": [
-        "openai",
-        "chatgpt"
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents",
+      "link": "https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents",
+      "source": "VentureBeat AI",
+      "published": "2026-08-03T07:00:00+00:00",
+      "score": 8,
+      "matched": [
+        "agentic",
+        "enterprise",
+        "agents"
       ]
     },
     {
@@ -45,6 +138,26 @@
       "matched": [
         "openai",
         "agents"
+      ]
+    },
+    {
+      "title": "Google plans to exempt sanctioned nations from Android developer verification",
+      "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
+      "source": "Ars Technica",
+      "published": "2026-07-31T21:35:56+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Reddit keeps its strange DMCA fight over Google search results alive",
+      "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+      "source": "Ars Technica",
+      "published": "2026-07-31T21:19:39+00:00",
+      "score": 2,
+      "matched": [
+        "google"
       ]
     },
     {
@@ -131,16 +244,6 @@
       ]
     },
     {
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-31T14:00:00+00:00",
-      "score": 2,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
       "title": "Here’s the problem with putting an AI image generator in Google Earth",
       "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
       "source": "The Verge AI",
@@ -170,104 +273,6 @@
       "matched": [
         "anthropic",
         "claude",
-        "openai"
-      ]
-    },
-    {
-      "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
-      "link": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
-      "source": "VentureBeat AI",
-      "published": "2026-07-31T01:45:07+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "openai"
-      ]
-    },
-    {
-      "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
-      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-      "source": "Wired AI",
-      "published": "2026-07-31T01:24:26+00:00",
-      "score": 10,
-      "matched": [
-        "anthropic",
-        "claude",
-        "openai"
-      ]
-    },
-    {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-31T01:06:54+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "openai"
-      ]
-    },
-    {
-      "title": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size",
-      "link": "https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size",
-      "source": "VentureBeat AI",
-      "published": "2026-07-31T00:14:22+00:00",
-      "score": 3,
-      "matched": [
-        "openai",
-        "benchmark"
-      ]
-    },
-    {
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-30T23:25:58+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "openai"
-      ]
-    },
-    {
-      "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost",
-      "link": "https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost",
-      "source": "VentureBeat AI",
-      "published": "2026-07-30T21:48:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-30T20:26:38+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
-      "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
-      "source": "Wired AI",
-      "published": "2026-07-30T20:12:57+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "openai"
-      ]
-    },
-    {
-      "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-      "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
-      "source": "Wired AI",
-      "published": "2026-07-30T17:51:10+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
         "openai"
       ]
     }
