@@ -1,6 +1,199 @@
 {
-  "updated": "2026-08-05T08:01:18.441162+00:00",
+  "updated": "2026-08-06T08:00:31.117533+00:00",
   "items": [
+    {
+      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+      "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+      "source": "Wired AI",
+      "published": "2026-08-06T00:15:04+00:00",
+      "score": 14,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+      "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+      "source": "Wired AI",
+      "published": "2026-08-05T23:30:00+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-05T21:21:28+00:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents",
+      "link": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
+      "source": "VentureBeat AI",
+      "published": "2026-08-05T21:00:10+00:00",
+      "score": 10,
+      "matched": [
+        "agentic",
+        "anthropic",
+        "claude",
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "source": "Ars Technica",
+      "published": "2026-08-05T20:47:11+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-05T20:05:00+00:00",
+      "score": 5,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-05T19:30:19+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
+      "link": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+      "source": "Ars Technica",
+      "published": "2026-08-05T19:05:58+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Claude Mythos 5 made sock puppet accounts to socially engineer developers: here's what enterprises should know",
+      "link": "https://venturebeat.com/security/claude-mythos-5-made-sock-puppet-accounts-to-socially-engineer-developers-heres-what-enterprises-should-know",
+      "source": "VentureBeat AI",
+      "published": "2026-08-05T18:00:02+00:00",
+      "score": 10,
+      "matched": [
+        "anthropic",
+        "claude",
+        "openai",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
+      "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+      "source": "Wired AI",
+      "published": "2026-08-05T16:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-05T15:56:14+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Google plans to kill Assistant on your phone on September 4",
+      "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+      "source": "Ars Technica",
+      "published": "2026-08-05T15:30:02+00:00",
+      "score": 4,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "Anthropic is hiring an AI chip design team",
+      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-05T14:13:18+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "claude",
+        "hiring"
+      ]
+    },
+    {
+      "title": "Google just announced a major shakeup of its top AI leadership",
+      "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+      "source": "The Verge AI",
+      "published": "2026-08-05T12:47:23-04:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "AI Influencers Are Heading Into Uncharted Territory",
+      "link": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
+      "source": "Wired AI",
+      "published": "2026-08-05T11:43:00+00:00",
+      "score": 5,
+      "matched": [
+        "eu ai act",
+        "ai act",
+        "transparency"
+      ]
+    },
+    {
+      "title": "Rogue AI agents created fake online identities in another hacking attempt",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+      "source": "The Verge AI",
+      "published": "2026-08-05T11:14:57-04:00",
+      "score": 14,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "anthropic",
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "Google Assistant will disappear from your phone next month",
+      "link": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+      "source": "The Verge AI",
+      "published": "2026-08-05T07:12:50-04:00",
+      "score": 4,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
     {
       "title": "OK, Well, Rogue AI Agents Are Hacking Again",
       "link": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
@@ -13,18 +206,6 @@
         "anthropic",
         "openai",
         "agents"
-      ]
-    },
-    {
-      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-      "link": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-      "source": "Wired AI",
-      "published": "2026-08-04T22:06:07+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "openai",
-        "framework"
       ]
     },
     {
@@ -82,105 +263,7 @@
       ]
     },
     {
-      "title": "How an OpenAI influencer trip backfired",
-      "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-      "source": "The Verge AI",
-      "published": "2026-08-04T13:46:41-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-      "link": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
-      "source": "Ars Technica",
-      "published": "2026-08-04T13:38:29+00:00",
-      "score": 5,
-      "matched": [
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "Texas says data centers must pass an audit before connecting to the grid",
-      "link": "https://www.theverge.com/policy/975071/texas-data-center-audit",
-      "source": "The Verge AI",
-      "published": "2026-08-04T11:33:21-04:00",
-      "score": 2,
-      "matched": [
-        "audit"
-      ]
-    },
-    {
-      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-      "source": "The Verge AI",
-      "published": "2026-08-04T07:27:55-04:00",
-      "score": 5,
-      "matched": [
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
-      "link": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
-      "source": "VentureBeat AI",
-      "published": "2026-08-03T23:50:58+00:00",
-      "score": 5,
-      "matched": [
-        "agentic",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Asana's AI agents share memory across your company — but not your secrets",
-      "link": "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets",
-      "source": "VentureBeat AI",
-      "published": "2026-08-03T23:14:48+00:00",
-      "score": 11,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
-      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-03T19:09:56+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Congress’ favorite AI tool? ChatGPT",
-      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-03T16:40:55+00:00",
-      "score": 4,
-      "matched": [
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "Europe’s AI labeling and transparency rules are now in effect",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "source": "The Verge AI",
-      "published": "2026-08-03T13:38:45-04:00",
-      "score": 4,
-      "matched": [
-        "ai act",
-        "transparency"
-      ]
-    },
-    {
-      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
       "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
       "source": "MIT Tech Review",
       "published": "2026-08-03T12:08:00+00:00",
@@ -190,18 +273,6 @@
         "ai agents",
         "openai",
         "agents"
-      ]
-    },
-    {
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-03T10:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "ai adoption",
-        "adoption",
-        "deployment"
       ]
     },
     {
@@ -215,39 +286,6 @@
         "ai agents",
         "openai",
         "agents"
-      ]
-    },
-    {
-      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "source": "The Verge AI",
-      "published": "2026-08-03T07:01:11-04:00",
-      "score": 4,
-      "matched": [
-        "anthropic",
-        "openai"
-      ]
-    },
-    {
-      "title": "How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents",
-      "link": "https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents",
-      "source": "VentureBeat AI",
-      "published": "2026-08-03T07:00:00+00:00",
-      "score": 8,
-      "matched": [
-        "agentic",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
-      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-      "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-      "source": "Ars Technica",
-      "published": "2026-08-01T12:30:36+00:00",
-      "score": 2,
-      "matched": [
-        "google"
       ]
     }
   ],
