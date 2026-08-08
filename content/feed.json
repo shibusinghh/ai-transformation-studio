@@ -1,6 +1,125 @@
 {
-  "updated": "2026-08-07T06:44:35.586937+00:00",
+  "updated": "2026-08-08T06:05:29.936086+00:00",
   "items": [
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-07T22:48:24+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
+      "link": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
+      "source": "VentureBeat AI",
+      "published": "2026-08-07T21:45:39+00:00",
+      "score": 16,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "claude",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+      "source": "Ars Technica",
+      "published": "2026-08-07T17:36:22+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck",
+      "link": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck",
+      "source": "VentureBeat AI",
+      "published": "2026-08-07T17:05:52+00:00",
+      "score": 12,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "claude",
+        "agents"
+      ]
+    },
+    {
+      "title": "Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong",
+      "link": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
+      "source": "VentureBeat AI",
+      "published": "2026-08-07T16:30:29+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise",
+        "agents",
+        "governance"
+      ]
+    },
+    {
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-07T16:16:09+00:00",
+      "score": 11,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents",
+        "automation"
+      ]
+    },
+    {
+      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "source": "The Verge AI",
+      "published": "2026-08-07T14:40:34-04:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-07T14:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "source": "Ars Technica",
+      "published": "2026-08-07T13:29:22+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "What&#8217;s behind the Google AI shake-up",
+      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "source": "The Verge AI",
+      "published": "2026-08-07T12:45:14-04:00",
+      "score": 7,
+      "matched": [
+        "anthropic",
+        "openai",
+        "jobs",
+        "google"
+      ]
+    },
     {
       "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi",
       "link": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi",
@@ -70,17 +189,6 @@
       ]
     },
     {
-      "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-      "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-      "source": "Ars Technica",
-      "published": "2026-08-06T16:15:30+00:00",
-      "score": 3,
-      "matched": [
-        "ai agent",
-        "employees"
-      ]
-    },
-    {
       "title": "Qwen 3.8-Max and Claude Opus 5 show why raw benchmark scores don't predict the bill",
       "link": "https://venturebeat.com/orchestration/qwen-3-8-max-and-claude-opus-5-show-why-raw-benchmark-scores-dont-predict-the-bill",
       "source": "VentureBeat AI",
@@ -138,18 +246,6 @@
       ]
     },
     {
-      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-      "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-      "source": "The Verge AI",
-      "published": "2026-08-06T05:33:11-04:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "employees",
-        "chatgpt"
-      ]
-    },
-    {
       "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
       "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
       "source": "Wired AI",
@@ -183,31 +279,6 @@
       ]
     },
     {
-      "title": "Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents",
-      "link": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
-      "source": "VentureBeat AI",
-      "published": "2026-08-05T21:00:10+00:00",
-      "score": 10,
-      "matched": [
-        "agentic",
-        "anthropic",
-        "claude",
-        "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "source": "Ars Technica",
-      "published": "2026-08-05T20:47:11+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "openai"
-      ]
-    },
-    {
       "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
       "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
       "source": "TechCrunch AI",
@@ -216,77 +287,6 @@
       "matched": [
         "ai agent",
         "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Claude Mythos 5 made sock puppet accounts to socially engineer developers: here's what enterprises should know",
-      "link": "https://venturebeat.com/security/claude-mythos-5-made-sock-puppet-accounts-to-socially-engineer-developers-heres-what-enterprises-should-know",
-      "source": "VentureBeat AI",
-      "published": "2026-08-05T18:00:02+00:00",
-      "score": 10,
-      "matched": [
-        "anthropic",
-        "claude",
-        "openai",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
-      "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
-      "source": "Wired AI",
-      "published": "2026-08-05T16:00:00+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-      "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-05T15:56:14+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Anthropic is hiring an AI chip design team",
-      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-05T14:13:18+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "claude",
-        "hiring"
-      ]
-    },
-    {
-      "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
-      "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-      "source": "MIT Tech Review",
-      "published": "2026-08-03T12:08:00+00:00",
-      "score": 7,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "source": "MIT Tech Review",
-      "published": "2026-08-03T08:30:05+00:00",
-      "score": 12,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
         "agents"
       ]
     }
