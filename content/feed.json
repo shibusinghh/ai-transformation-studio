@@ -1,15 +1,168 @@
 {
-  "updated": "2026-08-12T06:52:53.926437+00:00",
+  "updated": "2026-08-13T06:55:59.414412+00:00",
   "items": [
     {
-      "title": "SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month",
-      "link": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
-      "source": "VentureBeat AI",
-      "published": "2026-08-11T21:07:00+00:00",
-      "score": 3,
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-12T22:26:37+00:00",
+      "score": 10,
       "matched": [
-        "agents",
+        "anthropic",
+        "claude",
+        "jobs"
+      ]
+    },
+    {
+      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+      "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+      "source": "Wired AI",
+      "published": "2026-08-12T18:45:00+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
+      "link": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
+      "source": "VentureBeat AI",
+      "published": "2026-08-12T18:44:50+00:00",
+      "score": 8,
+      "matched": [
+        "ai agent",
+        "anthropic",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-12T17:41:29+00:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-12T16:51:57+00:00",
+      "score": 12,
+      "matched": [
+        "agentic",
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-12T14:20:33+00:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "Skan AI raises $63 million betting that watching how employees actually work is the missing layer of enterprise AI",
+      "link": "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai",
+      "source": "VentureBeat AI",
+      "published": "2026-08-12T11:00:00+00:00",
+      "score": 9,
+      "matched": [
+        "enterprise ai",
+        "enterprise",
+        "jobs",
         "employees"
+      ]
+    },
+    {
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "source": "The Verge AI",
+      "published": "2026-08-12T08:09:34-04:00",
+      "score": 2,
+      "matched": [
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Grok is now an AI ‘teammate’ you can assign work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "source": "The Verge AI",
+      "published": "2026-08-12T07:58:54-04:00",
+      "score": 2,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
+      "link": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
+      "source": "VentureBeat AI",
+      "published": "2026-08-12T07:30:00+00:00",
+      "score": 15,
+      "matched": [
+        "agentic",
+        "enterprise ai",
+        "anthropic",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "Agentic security: Enterprises enforce agent permissions two-thirds of the time — and isolate high-risk agents less than one in five",
+      "link": "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
+      "source": "VentureBeat AI",
+      "published": "2026-08-12T07:30:00+00:00",
+      "score": 8,
+      "matched": [
+        "agentic",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "Agent context layers: Enterprises governing their AI data are catching twice as many bad answers as the ones who aren't",
+      "link": "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent",
+      "source": "VentureBeat AI",
+      "published": "2026-08-12T07:30:00+00:00",
+      "score": 7,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
+      "link": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
+      "source": "VentureBeat AI",
+      "published": "2026-08-12T07:30:00+00:00",
+      "score": 6,
+      "matched": [
+        "agentic",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "source": "The Verge AI",
+      "published": "2026-08-11T20:39:26-04:00",
+      "score": 2,
+      "matched": [
+        "chatgpt"
       ]
     },
     {
@@ -66,16 +219,6 @@
       ]
     },
     {
-      "title": "A Google insider spills the tea on how the company forsook its founding ideals",
-      "link": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
-      "source": "Ars Technica",
-      "published": "2026-08-11T16:07:34+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
       "title": "ChatGPT and Gemini both just passed 1 billion users",
       "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
       "source": "The Verge AI",
@@ -103,33 +246,10 @@
       "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
       "source": "The Verge AI",
       "published": "2026-08-11T13:00:00-04:00",
-      "score": 2,
+      "score": 4,
       "matched": [
+        "gemini",
         "google"
-      ]
-    },
-    {
-      "title": "Nvidia's Switchyard router reshuffles AI models mid-task, cutting task costs to a third in its own tests",
-      "link": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests",
-      "source": "VentureBeat AI",
-      "published": "2026-08-11T13:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
-      "title": "Your AI agent may be ready. Your sales motion probably isn’t.",
-      "link": "https://venturebeat.com/technology/your-ai-agent-may-be-ready-your-sales-motion-probably-isnt",
-      "source": "VentureBeat AI",
-      "published": "2026-08-11T13:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "ai agent",
-        "deployment"
       ]
     },
     {
@@ -154,68 +274,6 @@
       ]
     },
     {
-      "title": "Claude will apply invisible watermarks to AI text and images",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-      "source": "The Verge AI",
-      "published": "2026-08-11T08:22:20-04:00",
-      "score": 7,
-      "matched": [
-        "anthropic",
-        "claude",
-        "transparency"
-      ]
-    },
-    {
-      "title": "The AI takeover of mathematics has begun",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "source": "The Verge AI",
-      "published": "2026-08-11T07:00:00-04:00",
-      "score": 2,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-11T00:03:18+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-10T23:56:15+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks",
-      "link": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
-      "source": "VentureBeat AI",
-      "published": "2026-08-10T23:53:23+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-10T20:04:24+00:00",
-      "score": 4,
-      "matched": [
-        "claude"
-      ]
-    },
-    {
       "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
       "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
       "source": "MIT Tech Review",
@@ -225,51 +283,6 @@
         "ai agent",
         "ai agents",
         "agents",
-        "google"
-      ]
-    },
-    {
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-09T19:20:32+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
-      "title": "The AI safety test is becoming a safety risk",
-      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-09T14:30:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "regulation",
-        "agents"
-      ]
-    },
-    {
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-08T19:41:13+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "How to Disable Gemini in Gmail and Google Docs",
-      "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
-      "source": "Wired AI",
-      "published": "2026-08-08T10:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "gemini",
         "google"
       ]
     }
