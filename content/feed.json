@@ -1,6 +1,190 @@
 {
-  "updated": "2026-08-13T06:55:59.414412+00:00",
+  "updated": "2026-08-14T06:53:12.479173+00:00",
   "items": [
+    {
+      "title": "The Safety Reckoning Inside OpenAI",
+      "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+      "source": "Wired AI",
+      "published": "2026-08-13T22:37:19+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done",
+      "link": "https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done",
+      "source": "VentureBeat AI",
+      "published": "2026-08-13T20:14:20+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "claude",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-13T19:22:40+00:00",
+      "score": 5,
+      "matched": [
+        "openai",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-13T19:19:49+00:00",
+      "score": 10,
+      "matched": [
+        "enterprise ai",
+        "openai",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-13T18:28:14+00:00",
+      "score": 14,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "anthropic",
+        "agents"
+      ]
+    },
+    {
+      "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
+      "link": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+      "source": "VentureBeat AI",
+      "published": "2026-08-13T18:02:54+00:00",
+      "score": 10,
+      "matched": [
+        "agentic",
+        "gemini",
+        "agents",
+        "google"
+      ]
+    },
+    {
+      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "source": "The Verge AI",
+      "published": "2026-08-13T17:42:38-04:00",
+      "score": 6,
+      "matched": [
+        "copilot",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-13T17:07:13+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "source": "Ars Technica",
+      "published": "2026-08-13T17:00:13+00:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
+      "link": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
+      "source": "VentureBeat AI",
+      "published": "2026-08-13T16:47:55+00:00",
+      "score": 11,
+      "matched": [
+        "agentic",
+        "ai agent",
+        "ai agents",
+        "claude",
+        "agents"
+      ]
+    },
+    {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-13T15:30:52+00:00",
+      "score": 6,
+      "matched": [
+        "copilot",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "OpenAI is losing its second executive this week",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "source": "The Verge AI",
+      "published": "2026-08-13T15:28:39-04:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Anthropic could be worth $2 trillion when it goes public",
+      "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+      "source": "Ars Technica",
+      "published": "2026-08-13T13:58:56+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
+      "link": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
+      "source": "VentureBeat AI",
+      "published": "2026-08-13T13:00:00+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "enterprise ai",
+        "accenture",
+        "enterprise",
+        "governance"
+      ]
+    },
+    {
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
+      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "source": "Ars Technica",
+      "published": "2026-08-13T11:10:18+00:00",
+      "score": 4,
+      "matched": [
+        "claude"
+      ]
+    },
+    {
+      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
+      "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+      "source": "The Verge AI",
+      "published": "2026-08-13T09:30:00-04:00",
+      "score": 6,
+      "matched": [
+        "copilot",
+        "microsoft"
+      ]
+    },
     {
       "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
       "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
@@ -73,16 +257,23 @@
       ]
     },
     {
-      "title": "Skan AI raises $63 million betting that watching how employees actually work is the missing layer of enterprise AI",
-      "link": "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai",
-      "source": "VentureBeat AI",
-      "published": "2026-08-12T11:00:00+00:00",
-      "score": 9,
+      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+      "link": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+      "source": "Wired AI",
+      "published": "2026-08-12T10:30:00+00:00",
+      "score": 2,
       "matched": [
-        "enterprise ai",
-        "enterprise",
-        "jobs",
-        "employees"
+        "openai"
+      ]
+    },
+    {
+      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+      "source": "The Verge AI",
+      "published": "2026-08-12T10:00:00-04:00",
+      "score": 2,
+      "matched": [
+        "google"
       ]
     },
     {
@@ -93,197 +284,6 @@
       "score": 2,
       "matched": [
         "chatgpt"
-      ]
-    },
-    {
-      "title": "Grok is now an AI ‘teammate’ you can assign work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "source": "The Verge AI",
-      "published": "2026-08-12T07:58:54-04:00",
-      "score": 2,
-      "matched": [
-        "ai agent"
-      ]
-    },
-    {
-      "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
-      "link": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
-      "source": "VentureBeat AI",
-      "published": "2026-08-12T07:30:00+00:00",
-      "score": 15,
-      "matched": [
-        "agentic",
-        "enterprise ai",
-        "anthropic",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
-      "title": "Agentic security: Enterprises enforce agent permissions two-thirds of the time — and isolate high-risk agents less than one in five",
-      "link": "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
-      "source": "VentureBeat AI",
-      "published": "2026-08-12T07:30:00+00:00",
-      "score": 8,
-      "matched": [
-        "agentic",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
-      "title": "Agent context layers: Enterprises governing their AI data are catching twice as many bad answers as the ones who aren't",
-      "link": "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent",
-      "source": "VentureBeat AI",
-      "published": "2026-08-12T07:30:00+00:00",
-      "score": 7,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
-      "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
-      "link": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
-      "source": "VentureBeat AI",
-      "published": "2026-08-12T07:30:00+00:00",
-      "score": 6,
-      "matched": [
-        "agentic",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
-      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "source": "The Verge AI",
-      "published": "2026-08-11T20:39:26-04:00",
-      "score": 2,
-      "matched": [
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-      "source": "Ars Technica",
-      "published": "2026-08-11T19:48:12+00:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-11T19:15:35+00:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-11T18:49:12+00:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-11T17:41:34+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-11T16:25:20+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "ChatGPT and Gemini both just passed 1 billion users",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "source": "The Verge AI",
-      "published": "2026-08-11T15:41:42-04:00",
-      "score": 9,
-      "matched": [
-        "openai",
-        "gemini",
-        "google",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "Another OpenAI executive takes off",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-      "source": "The Verge AI",
-      "published": "2026-08-11T13:50:01-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Made by Google 2026: all the Pixel news and announcements",
-      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-      "source": "The Verge AI",
-      "published": "2026-08-11T13:00:00-04:00",
-      "score": 4,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "Anthropic says it will watermark text generated by its AI models",
-      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-11T12:13:47+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "A New Trick Reveals AI Models’ Inner Thoughts",
-      "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
-      "source": "Wired AI",
-      "published": "2026-08-11T11:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "claude",
-        "gemini"
-      ]
-    },
-    {
-      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
-      "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-      "source": "MIT Tech Review",
-      "published": "2026-08-10T12:10:00+00:00",
-      "score": 11,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents",
-        "google"
       ]
     }
   ],
