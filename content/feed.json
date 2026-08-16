@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-15T05:50:14.574817+00:00",
+  "updated": "2026-08-16T05:53:03.283246+00:00",
   "items": [
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-15T18:58:39+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
       "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
@@ -238,39 +249,6 @@
         "ai agent",
         "ai agents",
         "agents"
-      ]
-    },
-    {
-      "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
-      "link": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
-      "source": "VentureBeat AI",
-      "published": "2026-08-12T18:44:50+00:00",
-      "score": 8,
-      "matched": [
-        "ai agent",
-        "anthropic",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-12T17:41:29+00:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
-      "link": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
-      "source": "Wired AI",
-      "published": "2026-08-12T14:00:00+00:00",
-      "score": 2,
-      "matched": [
-        "google"
       ]
     }
   ],
