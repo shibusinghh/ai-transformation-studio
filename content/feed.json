@@ -1,6 +1,72 @@
 {
-  "updated": "2026-08-16T05:53:03.283246+00:00",
+  "updated": "2026-08-17T05:59:12.209145+00:00",
   "items": [
+    {
+      "title": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
+      "link": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
+      "source": "VentureBeat AI",
+      "published": "2026-08-16T20:45:00+00:00",
+      "score": 2,
+      "matched": [
+        "compliance",
+        "audit"
+      ]
+    },
+    {
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "source": "The Verge AI",
+      "published": "2026-08-16T17:32:56-04:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-16T16:53:51+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
+      "link": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
+      "source": "VentureBeat AI",
+      "published": "2026-08-16T13:00:00+00:00",
+      "score": 3,
+      "matched": [
+        "claude",
+        "rollout"
+      ]
+    },
+    {
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "source": "The Verge AI",
+      "published": "2026-08-16T10:56:40-04:00",
+      "score": 3,
+      "matched": [
+        "automation",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Rogue AI aren’t science fiction anymore",
+      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "source": "The Verge AI",
+      "published": "2026-08-16T08:00:00-04:00",
+      "score": 7,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
     {
       "title": "Anthropic shares more details about how Claude’s new watermarks will work",
       "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
@@ -190,65 +256,6 @@
       "score": 4,
       "matched": [
         "openai"
-      ]
-    },
-    {
-      "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
-      "link": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
-      "source": "VentureBeat AI",
-      "published": "2026-08-13T13:00:00+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "enterprise ai",
-        "accenture",
-        "enterprise",
-        "governance"
-      ]
-    },
-    {
-      "title": "Does Google even want to win at AI?",
-      "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "source": "The Verge AI",
-      "published": "2026-08-13T10:10:31-04:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-      "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "source": "The Verge AI",
-      "published": "2026-08-13T09:30:00-04:00",
-      "score": 6,
-      "matched": [
-        "copilot",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-12T22:26:37+00:00",
-      "score": 10,
-      "matched": [
-        "anthropic",
-        "claude",
-        "jobs"
-      ]
-    },
-    {
-      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
-      "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
-      "source": "Wired AI",
-      "published": "2026-08-12T18:45:00+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
       ]
     }
   ],
