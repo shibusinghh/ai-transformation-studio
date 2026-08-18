@@ -1,6 +1,102 @@
 {
-  "updated": "2026-08-17T05:59:12.209145+00:00",
+  "updated": "2026-08-18T05:54:29.930676+00:00",
   "items": [
+    {
+      "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required",
+      "link": "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required",
+      "source": "VentureBeat AI",
+      "published": "2026-08-18T00:06:53+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "openai",
+        "enterprise",
+        "agents",
+        "google"
+      ]
+    },
+    {
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-17T23:56:26+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-17T21:27:05+00:00",
+      "score": 4,
+      "matched": [
+        "automation",
+        "google"
+      ]
+    },
+    {
+      "title": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one",
+      "link": "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
+      "source": "VentureBeat AI",
+      "published": "2026-08-17T16:11:44+00:00",
+      "score": 7,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-17T15:16:24+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "As enterprises confront AI agent sprawl, xpander wants them to own their own control and context layer",
+      "link": "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer",
+      "source": "VentureBeat AI",
+      "published": "2026-08-17T14:37:08+00:00",
+      "score": 12,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise ai",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "How Heidi built production-ready AI for healthcare at global scale",
+      "link": "https://venturebeat.com/data/how-heidi-built-production-ready-ai-for-healthcare-at-global-scale",
+      "source": "VentureBeat AI",
+      "published": "2026-08-17T14:30:00+00:00",
+      "score": 2,
+      "matched": [
+        "compliance",
+        "regulation"
+      ]
+    },
+    {
+      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "source": "The Verge AI",
+      "published": "2026-08-17T06:57:13-04:00",
+      "score": 10,
+      "matched": [
+        "anthropic",
+        "claude",
+        "transparency",
+        "google"
+      ]
+    },
     {
       "title": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
       "link": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
@@ -30,17 +126,6 @@
       "score": 4,
       "matched": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
-      "link": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
-      "source": "VentureBeat AI",
-      "published": "2026-08-16T13:00:00+00:00",
-      "score": 3,
-      "matched": [
-        "claude",
-        "rollout"
       ]
     },
     {
@@ -90,16 +175,6 @@
       ]
     },
     {
-      "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
-      "link": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
-      "source": "Ars Technica",
-      "published": "2026-08-14T15:46:40+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
       "title": "Kog is going deeper to squeeze more inference out of GPUs",
       "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
       "source": "TechCrunch AI",
@@ -107,17 +182,6 @@
       "score": 2,
       "matched": [
         "agentic"
-      ]
-    },
-    {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "source": "Ars Technica",
-      "published": "2026-08-14T14:27:14+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "openai"
       ]
     },
     {
@@ -129,133 +193,6 @@
       "matched": [
         "gemini",
         "google"
-      ]
-    },
-    {
-      "title": "The Safety Reckoning Inside OpenAI",
-      "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-      "source": "Wired AI",
-      "published": "2026-08-13T22:37:19+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done",
-      "link": "https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done",
-      "source": "VentureBeat AI",
-      "published": "2026-08-13T20:14:20+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "claude",
-        "agents"
-      ]
-    },
-    {
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-13T19:22:40+00:00",
-      "score": 5,
-      "matched": [
-        "openai",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-13T19:19:49+00:00",
-      "score": 10,
-      "matched": [
-        "enterprise ai",
-        "openai",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-13T18:28:14+00:00",
-      "score": 14,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "anthropic",
-        "agents"
-      ]
-    },
-    {
-      "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
-      "link": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
-      "source": "VentureBeat AI",
-      "published": "2026-08-13T18:02:54+00:00",
-      "score": 10,
-      "matched": [
-        "agentic",
-        "gemini",
-        "agents",
-        "google"
-      ]
-    },
-    {
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "source": "The Verge AI",
-      "published": "2026-08-13T17:42:38-04:00",
-      "score": 6,
-      "matched": [
-        "copilot",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-13T17:07:13+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
-      "link": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
-      "source": "VentureBeat AI",
-      "published": "2026-08-13T16:47:55+00:00",
-      "score": 11,
-      "matched": [
-        "agentic",
-        "ai agent",
-        "ai agents",
-        "claude",
-        "agents"
-      ]
-    },
-    {
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-13T15:30:52+00:00",
-      "score": 6,
-      "matched": [
-        "copilot",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "OpenAI is losing its second executive this week",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "source": "The Verge AI",
-      "published": "2026-08-13T15:28:39-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
       ]
     }
   ],
