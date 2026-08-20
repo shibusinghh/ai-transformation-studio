@@ -1,6 +1,141 @@
 {
-  "updated": "2026-08-19T05:55:28.583420+00:00",
+  "updated": "2026-08-20T05:55:56.639443+00:00",
   "items": [
+    {
+      "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
+      "link": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
+      "source": "VentureBeat AI",
+      "published": "2026-08-19T23:50:00+00:00",
+      "score": 13,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "claude",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-19T22:10:46+00:00",
+      "score": 9,
+      "matched": [
+        "anthropic",
+        "openai",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-19T21:51:23+00:00",
+      "score": 7,
+      "matched": [
+        "enterprise ai",
+        "anthropic",
+        "openai",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
+      "link": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
+      "source": "Ars Technica",
+      "published": "2026-08-19T20:21:59+00:00",
+      "score": 2,
+      "matched": [
+        "framework"
+      ]
+    },
+    {
+      "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+      "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+      "source": "Ars Technica",
+      "published": "2026-08-19T20:04:41+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-19T19:00:00+00:00",
+      "score": 8,
+      "matched": [
+        "openai",
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-19T18:46:14+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+      "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+      "source": "Wired AI",
+      "published": "2026-08-19T16:44:07+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "Google Pixel 11 series review: Is the magic fading?",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+      "source": "Ars Technica",
+      "published": "2026-08-19T16:11:30+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Google Gemini is getting a dedicated student hub",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "source": "The Verge AI",
+      "published": "2026-08-19T15:00:00-04:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "source": "VentureBeat AI",
+      "published": "2026-08-19T14:18:12+00:00",
+      "score": 6,
+      "matched": [
+        "enterprise ai",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "OpenAI hit the brakes. Now what?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "source": "The Verge AI",
+      "published": "2026-08-19T13:10:09-04:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
     {
       "title": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
       "link": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
@@ -83,17 +218,6 @@
       ]
     },
     {
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "source": "Ars Technica",
-      "published": "2026-08-18T13:00:04+00:00",
-      "score": 6,
-      "matched": [
-        "copilot",
-        "microsoft"
-      ]
-    },
-    {
       "title": "Enterprises are overpaying for simple AI queries — Snowflake's gateway now auto-routes to cut costs up to 3x",
       "link": "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x",
       "source": "VentureBeat AI",
@@ -153,20 +277,6 @@
       ]
     },
     {
-      "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required",
-      "link": "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required",
-      "source": "VentureBeat AI",
-      "published": "2026-08-18T00:06:53+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "openai",
-        "enterprise",
-        "agents",
-        "google"
-      ]
-    },
-    {
       "title": "Anthropic’s annualized revenue surges to $65B",
       "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
       "source": "TechCrunch AI",
@@ -174,71 +284,6 @@
       "score": 4,
       "matched": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-17T21:27:05+00:00",
-      "score": 4,
-      "matched": [
-        "automation",
-        "google"
-      ]
-    },
-    {
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-17T15:16:24+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "source": "The Verge AI",
-      "published": "2026-08-17T06:57:13-04:00",
-      "score": 10,
-      "matched": [
-        "anthropic",
-        "claude",
-        "transparency",
-        "google"
-      ]
-    },
-    {
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "source": "The Verge AI",
-      "published": "2026-08-16T17:32:56-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-16T16:53:51+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-15T18:58:39+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "claude"
       ]
     }
   ],
