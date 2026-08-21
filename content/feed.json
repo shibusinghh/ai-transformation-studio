@@ -1,6 +1,118 @@
 {
-  "updated": "2026-08-20T05:55:56.639443+00:00",
+  "updated": "2026-08-21T05:57:16.110230+00:00",
   "items": [
+    {
+      "title": "Slack wants to drag AI coding out of the terminal and into the group chat",
+      "link": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
+      "source": "VentureBeat AI",
+      "published": "2026-08-21T00:00:00+00:00",
+      "score": 7,
+      "matched": [
+        "copilot",
+        "anthropic",
+        "claude",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-20T22:36:37+00:00",
+      "score": 11,
+      "matched": [
+        "enterprise ai",
+        "anthropic",
+        "openai",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "One in five enterprises can't stop a runaway AI agent's spending in real time",
+      "link": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
+      "source": "VentureBeat AI",
+      "published": "2026-08-20T19:57:01+00:00",
+      "score": 8,
+      "matched": [
+        "ai agent",
+        "enterprise ai",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
+      "link": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
+      "source": "VentureBeat AI",
+      "published": "2026-08-20T17:25:44+00:00",
+      "score": 5,
+      "matched": [
+        "ai agent",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Debates over AI consciousness are a trap",
+      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-20T15:42:39+00:00",
+      "score": 6,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "regulation",
+        "agents"
+      ]
+    },
+    {
+      "title": "Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed",
+      "link": "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
+      "source": "VentureBeat AI",
+      "published": "2026-08-20T14:42:07+00:00",
+      "score": 8,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise",
+        "agents",
+        "automation"
+      ]
+    },
+    {
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "source": "The Verge AI",
+      "published": "2026-08-20T11:45:55-04:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-20T09:30:00+00:00",
+      "score": 13,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "claude",
+        "agents",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "source": "The Verge AI",
+      "published": "2026-08-20T08:00:00-04:00",
+      "score": 5,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
     {
       "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
       "link": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
@@ -137,19 +249,6 @@
       ]
     },
     {
-      "title": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
-      "link": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
-      "source": "VentureBeat AI",
-      "published": "2026-08-18T23:23:22+00:00",
-      "score": 6,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents",
-        "employees"
-      ]
-    },
-    {
       "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
       "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
       "source": "Wired AI",
@@ -164,28 +263,6 @@
       ]
     },
     {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-18T18:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one",
-      "link": "https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one",
-      "source": "VentureBeat AI",
-      "published": "2026-08-18T15:35:16+00:00",
-      "score": 4,
-      "matched": [
-        "ai agent",
-        "enterprise",
-        "deployment"
-      ]
-    },
-    {
       "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
       "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
       "source": "The Verge AI",
@@ -193,41 +270,6 @@
       "score": 4,
       "matched": [
         "openai"
-      ]
-    },
-    {
-      "title": "Commerce AI is fragmenting. Here is why that matters.",
-      "link": "https://venturebeat.com/orchestration/commerce-ai-is-fragmenting-here-is-why-that-matters",
-      "source": "VentureBeat AI",
-      "published": "2026-08-18T14:30:00+00:00",
-      "score": 3,
-      "matched": [
-        "enterprise ai",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-18T13:50:30+00:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "Enterprises are overpaying for simple AI queries — Snowflake's gateway now auto-routes to cut costs up to 3x",
-      "link": "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x",
-      "source": "VentureBeat AI",
-      "published": "2026-08-18T13:00:00+00:00",
-      "score": 7,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise",
-        "agents"
       ]
     },
     {
@@ -252,38 +294,6 @@
         "claude",
         "openai",
         "chatgpt"
-      ]
-    },
-    {
-      "title": "Google&#8217;s Pet Memory forgot who my cats are",
-      "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-      "source": "The Verge AI",
-      "published": "2026-08-18T08:01:29-04:00",
-      "score": 4,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "ChatGPT is getting a dedicated mode for teens",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-      "source": "The Verge AI",
-      "published": "2026-08-18T07:00:00-04:00",
-      "score": 4,
-      "matched": [
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-17T23:56:26+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
       ]
     }
   ],
