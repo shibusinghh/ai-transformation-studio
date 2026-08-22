@@ -1,6 +1,40 @@
 {
-  "updated": "2026-08-21T05:57:16.110230+00:00",
+  "updated": "2026-08-22T05:52:40.225742+00:00",
   "items": [
+    {
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-21T23:07:25+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-21T19:43:39+00:00",
+      "score": 5,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Nvidia finds that simple linear math can replace costly AI model handoffs",
+      "link": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
+      "source": "VentureBeat AI",
+      "published": "2026-08-21T16:33:56+00:00",
+      "score": 3,
+      "matched": [
+        "agentic",
+        "enterprise"
+      ]
+    },
     {
       "title": "Slack wants to drag AI coding out of the terminal and into the group chat",
       "link": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
@@ -28,6 +62,16 @@
       ]
     },
     {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-20T22:09:51+00:00",
+      "score": 2,
+      "matched": [
+        "chatgpt"
+      ]
+    },
+    {
       "title": "One in five enterprises can't stop a runaway AI agent's spending in real time",
       "link": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
       "source": "VentureBeat AI",
@@ -40,6 +84,26 @@
       ]
     },
     {
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-20T19:18:21+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "source": "The Verge AI",
+      "published": "2026-08-20T17:50:22-04:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
       "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
       "link": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
       "source": "VentureBeat AI",
@@ -47,6 +111,26 @@
       "score": 5,
       "matched": [
         "ai agent",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-20T17:18:58+00:00",
+      "score": 2,
+      "matched": [
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-20T16:00:00+00:00",
+      "score": 2,
+      "matched": [
         "enterprise"
       ]
     },
@@ -83,6 +167,16 @@
       "source": "The Verge AI",
       "published": "2026-08-20T11:45:55-04:00",
       "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Welcome to the AI crisis in math",
+      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "source": "The Verge AI",
+      "published": "2026-08-20T10:00:00-04:00",
+      "score": 2,
       "matched": [
         "openai"
       ]
@@ -128,73 +222,6 @@
       ]
     },
     {
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-19T22:10:46+00:00",
-      "score": 9,
-      "matched": [
-        "anthropic",
-        "openai",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-19T21:51:23+00:00",
-      "score": 7,
-      "matched": [
-        "enterprise ai",
-        "anthropic",
-        "openai",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
-      "link": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
-      "source": "Ars Technica",
-      "published": "2026-08-19T20:21:59+00:00",
-      "score": 2,
-      "matched": [
-        "framework"
-      ]
-    },
-    {
-      "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-      "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-      "source": "Ars Technica",
-      "published": "2026-08-19T20:04:41+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-19T19:00:00+00:00",
-      "score": 8,
-      "matched": [
-        "openai",
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-19T18:46:14+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
       "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
       "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
       "source": "Wired AI",
@@ -203,16 +230,6 @@
       "matched": [
         "anthropic",
         "claude"
-      ]
-    },
-    {
-      "title": "Google Pixel 11 series review: Is the magic fading?",
-      "link": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
-      "source": "Ars Technica",
-      "published": "2026-08-19T16:11:30+00:00",
-      "score": 2,
-      "matched": [
-        "google"
       ]
     },
     {
@@ -259,40 +276,6 @@
         "ai agents",
         "openai",
         "agents",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "source": "The Verge AI",
-      "published": "2026-08-18T15:28:30-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "The Download: how people really use AI, and Flock’s design choices",
-      "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-      "source": "MIT Tech Review",
-      "published": "2026-08-18T12:10:00+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic",
-        "openai"
-      ]
-    },
-    {
-      "title": "We still don’t know how people are really using AI",
-      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "source": "MIT Tech Review",
-      "published": "2026-08-18T10:06:43+00:00",
-      "score": 7,
-      "matched": [
-        "anthropic",
-        "claude",
-        "openai",
         "chatgpt"
       ]
     }
