@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-22T05:52:40.225742+00:00",
+  "updated": "2026-08-23T05:54:10.595775+00:00",
   "items": [
+    {
+      "title": "Enterprises winning with AI agents are limiting how much the agents can do alone",
+      "link": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
+      "source": "VentureBeat AI",
+      "published": "2026-08-22T21:30:00+00:00",
+      "score": 15,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise ai",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-22T19:00:00+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-22T16:30:34+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
     {
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
@@ -125,16 +161,6 @@
       ]
     },
     {
-      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-      "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-20T16:00:00+00:00",
-      "score": 2,
-      "matched": [
-        "enterprise"
-      ]
-    },
-    {
       "title": "Debates over AI consciousness are a trap",
       "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
       "source": "MIT Tech Review",
@@ -179,20 +205,6 @@
       "score": 2,
       "matched": [
         "openai"
-      ]
-    },
-    {
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-20T09:30:00+00:00",
-      "score": 13,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "claude",
-        "agents",
-        "chatgpt"
       ]
     },
     {
@@ -244,17 +256,6 @@
       ]
     },
     {
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "source": "VentureBeat AI",
-      "published": "2026-08-19T14:18:12+00:00",
-      "score": 6,
-      "matched": [
-        "enterprise ai",
-        "enterprise"
-      ]
-    },
-    {
       "title": "OpenAI hit the brakes. Now what?",
       "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
       "source": "The Verge AI",
@@ -263,20 +264,6 @@
       "matched": [
         "anthropic",
         "openai"
-      ]
-    },
-    {
-      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
-      "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
-      "source": "Wired AI",
-      "published": "2026-08-18T18:33:11+00:00",
-      "score": 15,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "agents",
-        "chatgpt"
       ]
     }
   ],
