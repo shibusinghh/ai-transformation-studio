@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-23T05:54:10.595775+00:00",
+  "updated": "2026-08-24T06:02:48.054970+00:00",
   "items": [
+    {
+      "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
+      "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
+      "source": "VentureBeat AI",
+      "published": "2026-08-23T23:00:00+00:00",
+      "score": 18,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise ai",
+        "copilot",
+        "enterprise"
+      ]
+    },
     {
       "title": "Enterprises winning with AI agents are limiting how much the agents can do alone",
       "link": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
@@ -151,16 +165,6 @@
       ]
     },
     {
-      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-20T17:18:58+00:00",
-      "score": 2,
-      "matched": [
-        "chatgpt"
-      ]
-    },
-    {
       "title": "Debates over AI consciousness are a trap",
       "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
       "source": "MIT Tech Review",
@@ -217,53 +221,6 @@
         "ai agent",
         "ai agents",
         "agents"
-      ]
-    },
-    {
-      "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
-      "link": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
-      "source": "VentureBeat AI",
-      "published": "2026-08-19T23:50:00+00:00",
-      "score": 13,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "claude",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
-      "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-      "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-      "source": "Wired AI",
-      "published": "2026-08-19T16:44:07+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
-      "title": "Google Gemini is getting a dedicated student hub",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "source": "The Verge AI",
-      "published": "2026-08-19T15:00:00-04:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "OpenAI hit the brakes. Now what?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-      "source": "The Verge AI",
-      "published": "2026-08-19T13:10:09-04:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "openai"
       ]
     }
   ],
