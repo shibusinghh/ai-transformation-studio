@@ -1,6 +1,64 @@
 {
-  "updated": "2026-08-24T06:02:48.054970+00:00",
+  "updated": "2026-08-25T05:57:05.660372+00:00",
   "items": [
+    {
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "source": "Ars Technica",
+      "published": "2026-08-24T21:45:53+00:00",
+      "score": 2,
+      "matched": [
+        "jobs"
+      ]
+    },
+    {
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-24T15:24:18+00:00",
+      "score": 5,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-24T15:00:00+00:00",
+      "score": 14,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
+      "link": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
+      "source": "VentureBeat AI",
+      "published": "2026-08-24T13:00:00+00:00",
+      "score": 11,
+      "matched": [
+        "enterprise ai",
+        "anthropic",
+        "claude",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-24T12:10:00+00:00",
+      "score": 2,
+      "matched": [
+        "agents"
+      ]
+    },
     {
       "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
       "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
@@ -83,144 +141,6 @@
       "matched": [
         "agentic",
         "enterprise"
-      ]
-    },
-    {
-      "title": "Slack wants to drag AI coding out of the terminal and into the group chat",
-      "link": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
-      "source": "VentureBeat AI",
-      "published": "2026-08-21T00:00:00+00:00",
-      "score": 7,
-      "matched": [
-        "copilot",
-        "anthropic",
-        "claude",
-        "agents"
-      ]
-    },
-    {
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-20T22:36:37+00:00",
-      "score": 11,
-      "matched": [
-        "enterprise ai",
-        "anthropic",
-        "openai",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-20T22:09:51+00:00",
-      "score": 2,
-      "matched": [
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "One in five enterprises can't stop a runaway AI agent's spending in real time",
-      "link": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
-      "source": "VentureBeat AI",
-      "published": "2026-08-20T19:57:01+00:00",
-      "score": 8,
-      "matched": [
-        "ai agent",
-        "enterprise ai",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-20T19:18:21+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Google Discover is getting an AI chatbot-tuned feed",
-      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "source": "The Verge AI",
-      "published": "2026-08-20T17:50:22-04:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
-      "link": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
-      "source": "VentureBeat AI",
-      "published": "2026-08-20T17:25:44+00:00",
-      "score": 5,
-      "matched": [
-        "ai agent",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Debates over AI consciousness are a trap",
-      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "MIT Tech Review",
-      "published": "2026-08-20T15:42:39+00:00",
-      "score": 6,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "regulation",
-        "agents"
-      ]
-    },
-    {
-      "title": "Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed",
-      "link": "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
-      "source": "VentureBeat AI",
-      "published": "2026-08-20T14:42:07+00:00",
-      "score": 8,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise",
-        "agents",
-        "automation"
-      ]
-    },
-    {
-      "title": "It’s Greg Brockman’s OpenAI now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "source": "The Verge AI",
-      "published": "2026-08-20T11:45:55-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Welcome to the AI crisis in math",
-      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "source": "The Verge AI",
-      "published": "2026-08-20T10:00:00-04:00",
-      "score": 2,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "source": "The Verge AI",
-      "published": "2026-08-20T08:00:00-04:00",
-      "score": 5,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
       ]
     }
   ],
