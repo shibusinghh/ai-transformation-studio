@@ -1,6 +1,125 @@
 {
-  "updated": "2026-08-25T05:57:05.660372+00:00",
+  "updated": "2026-08-26T05:59:00.935362+00:00",
   "items": [
+    {
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-26T00:06:20+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
+      "source": "Ars Technica",
+      "published": "2026-08-25T18:32:30+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-25T17:50:33+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+      "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+      "source": "Ars Technica",
+      "published": "2026-08-25T15:10:03+00:00",
+      "score": 2,
+      "matched": [
+        "jobs"
+      ]
+    },
+    {
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-25T14:22:04+00:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "benchmark"
+      ]
+    },
+    {
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-25T13:00:00+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
+      "link": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+      "source": "VentureBeat AI",
+      "published": "2026-08-25T13:00:00+00:00",
+      "score": 6,
+      "matched": [
+        "agentic",
+        "ai agent"
+      ]
+    },
+    {
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-25T12:00:00+00:00",
+      "score": 5,
+      "matched": [
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "source": "The Verge AI",
+      "published": "2026-08-25T10:00:00-04:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+      "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+      "source": "Wired AI",
+      "published": "2026-08-25T09:15:00+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "source": "The Verge AI",
+      "published": "2026-08-25T05:15:03-04:00",
+      "score": 9,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
     {
       "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
       "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
@@ -50,16 +169,6 @@
       ]
     },
     {
-      "title": "The Download: kids outlearning AI, and space travel agents",
-      "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-      "source": "MIT Tech Review",
-      "published": "2026-08-24T12:10:00+00:00",
-      "score": 2,
-      "matched": [
-        "agents"
-      ]
-    },
-    {
       "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
       "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
       "source": "VentureBeat AI",
@@ -85,62 +194,6 @@
         "enterprise ai",
         "enterprise",
         "agents"
-      ]
-    },
-    {
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-22T19:00:00+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "anthropic",
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-22T16:30:34+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-21T23:07:25+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-21T19:43:39+00:00",
-      "score": 5,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Nvidia finds that simple linear math can replace costly AI model handoffs",
-      "link": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
-      "source": "VentureBeat AI",
-      "published": "2026-08-21T16:33:56+00:00",
-      "score": 3,
-      "matched": [
-        "agentic",
-        "enterprise"
       ]
     }
   ],
