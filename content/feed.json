@@ -1,63 +1,107 @@
 {
-  "updated": "2026-08-26T05:59:00.935362+00:00",
+  "updated": "2026-08-27T16:38:07.785822+00:00",
   "items": [
     {
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "source": "VentureBeat AI",
+      "published": "2026-08-27T14:01:00+00:00",
+      "score": 8,
+      "matched": [
+        "enterprise ai",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
       "source": "TechCrunch AI",
-      "published": "2026-08-26T00:06:20+00:00",
+      "published": "2026-08-27T13:00:00+00:00",
+      "score": 12,
+      "matched": [
+        "agentic",
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "source": "Ars Technica",
+      "published": "2026-08-27T12:58:59+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+      "link": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-27T12:10:00+00:00",
+      "score": 9,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "source": "VentureBeat AI",
+      "published": "2026-08-27T12:01:00+00:00",
+      "score": 9,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise",
+        "agents",
+        "governance"
+      ]
+    },
+    {
+      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-27T11:35:59+00:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "OpenAI&#8217;s executive exodus has one big winner",
+      "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+      "source": "The Verge AI",
+      "published": "2026-08-27T10:00:00-04:00",
       "score": 4,
       "matched": [
         "openai"
       ]
     },
     {
-      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
-      "link": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-26T21:37:39+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
       "source": "Ars Technica",
-      "published": "2026-08-25T18:32:30+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-25T17:50:33+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
-      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
-      "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
-      "source": "Ars Technica",
-      "published": "2026-08-25T15:10:03+00:00",
-      "score": 2,
-      "matched": [
-        "jobs"
-      ]
-    },
-    {
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-25T14:22:04+00:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "benchmark"
-      ]
-    },
-    {
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-25T13:00:00+00:00",
+      "published": "2026-08-26T21:25:27+00:00",
       "score": 10,
       "matched": [
         "ai agent",
@@ -66,25 +110,181 @@
       ]
     },
     {
-      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
-      "link": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+      "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again",
+      "link": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again",
       "source": "VentureBeat AI",
-      "published": "2026-08-25T13:00:00+00:00",
+      "published": "2026-08-26T20:00:00+00:00",
+      "score": 7,
+      "matched": [
+        "anthropic",
+        "claude",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-26T19:37:34+00:00",
       "score": 6,
       "matched": [
-        "agentic",
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-26T19:34:04+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "source": "Ars Technica",
+      "published": "2026-08-26T19:19:22+00:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
+      "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+      "source": "Wired AI",
+      "published": "2026-08-26T19:16:42+00:00",
+      "score": 9,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-26T19:05:22+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-26T19:00:00+00:00",
+      "score": 14,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "source": "The Verge AI",
+      "published": "2026-08-26T17:36:06-04:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
+      "link": "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it",
+      "source": "VentureBeat AI",
+      "published": "2026-08-26T16:13:50+00:00",
+      "score": 4,
+      "matched": [
         "ai agent"
       ]
     },
     {
-      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
       "source": "TechCrunch AI",
-      "published": "2026-08-25T12:00:00+00:00",
-      "score": 5,
+      "published": "2026-08-26T15:47:28+00:00",
+      "score": 10,
       "matched": [
-        "openai",
+        "ai agent",
+        "ai agents",
         "agents"
+      ]
+    },
+    {
+      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+      "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-26T14:37:01+00:00",
+      "score": 4,
+      "matched": [
+        "responsible ai",
+        "jobs"
+      ]
+    },
+    {
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "source": "VentureBeat AI",
+      "published": "2026-08-26T14:30:00+00:00",
+      "score": 13,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise",
+        "agents",
+        "deployment"
+      ]
+    },
+    {
+      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+      "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "source": "The Verge AI",
+      "published": "2026-08-26T13:00:00-04:00",
+      "score": 4,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
+      "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-26T12:55:28+00:00",
+      "score": 16,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise ai",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+      "source": "Ars Technica",
+      "published": "2026-08-26T11:10:49+00:00",
+      "score": 4,
+      "matched": [
+        "agentic",
+        "enterprise",
+        "deployment"
       ]
     },
     {
@@ -95,105 +295,6 @@
       "score": 4,
       "matched": [
         "openai"
-      ]
-    },
-    {
-      "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
-      "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
-      "source": "Wired AI",
-      "published": "2026-08-25T09:15:00+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "source": "The Verge AI",
-      "published": "2026-08-25T05:15:03-04:00",
-      "score": 9,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "source": "Ars Technica",
-      "published": "2026-08-24T21:45:53+00:00",
-      "score": 2,
-      "matched": [
-        "jobs"
-      ]
-    },
-    {
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-24T15:24:18+00:00",
-      "score": 5,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-24T15:00:00+00:00",
-      "score": 14,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
-      "link": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
-      "source": "VentureBeat AI",
-      "published": "2026-08-24T13:00:00+00:00",
-      "score": 11,
-      "matched": [
-        "enterprise ai",
-        "anthropic",
-        "claude",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
-      "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
-      "source": "VentureBeat AI",
-      "published": "2026-08-23T23:00:00+00:00",
-      "score": 18,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise ai",
-        "copilot",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Enterprises winning with AI agents are limiting how much the agents can do alone",
-      "link": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
-      "source": "VentureBeat AI",
-      "published": "2026-08-22T21:30:00+00:00",
-      "score": 15,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise ai",
-        "enterprise",
-        "agents"
       ]
     }
   ],
