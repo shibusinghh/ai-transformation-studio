@@ -1,6 +1,102 @@
 {
-  "updated": "2026-08-27T16:38:07.785822+00:00",
+  "updated": "2026-08-28T17:35:56.004611+00:00",
   "items": [
+    {
+      "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag",
+      "link": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
+      "source": "VentureBeat AI",
+      "published": "2026-08-28T16:33:16+00:00",
+      "score": 7,
+      "matched": [
+        "ai agent",
+        "claude",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-27T23:16:45+00:00",
+      "score": 9,
+      "matched": [
+        "anthropic",
+        "openai",
+        "google"
+      ]
+    },
+    {
+      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+      "source": "Ars Technica",
+      "published": "2026-08-27T22:15:43+00:00",
+      "score": 14,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "anthropic",
+        "agents"
+      ]
+    },
+    {
+      "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+      "link": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
+      "source": "Wired AI",
+      "published": "2026-08-27T21:08:34+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-27T19:52:52+00:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "google"
+      ]
+    },
+    {
+      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+      "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+      "source": "Wired AI",
+      "published": "2026-08-27T18:06:52+00:00",
+      "score": 14,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "anthropic",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-27T17:43:24+00:00",
+      "score": 10,
+      "matched": [
+        "anthropic",
+        "openai",
+        "google"
+      ]
+    },
+    {
+      "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+      "link": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+      "source": "Wired AI",
+      "published": "2026-08-27T16:52:42+00:00",
+      "score": 8,
+      "matched": [
+        "ai agent",
+        "openai"
+      ]
+    },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
       "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
@@ -14,13 +110,22 @@
       ]
     },
     {
+      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+      "source": "Ars Technica",
+      "published": "2026-08-27T14:00:13+00:00",
+      "score": 4,
+      "matched": [
+        "claude"
+      ]
+    },
+    {
       "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
       "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
       "source": "TechCrunch AI",
       "published": "2026-08-27T13:00:00+00:00",
-      "score": 12,
+      "score": 10,
       "matched": [
-        "agentic",
         "ai agent",
         "ai agents",
         "agents"
@@ -143,30 +248,6 @@
       ]
     },
     {
-      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "source": "Ars Technica",
-      "published": "2026-08-26T19:19:22+00:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
-      "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
-      "source": "Wired AI",
-      "published": "2026-08-26T19:16:42+00:00",
-      "score": 9,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "agents"
-      ]
-    },
-    {
       "title": "OpenAI releases its official report on the Hugging Face breach",
       "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
       "source": "TechCrunch AI",
@@ -204,16 +285,6 @@
       ]
     },
     {
-      "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
-      "link": "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it",
-      "source": "VentureBeat AI",
-      "published": "2026-08-26T16:13:50+00:00",
-      "score": 4,
-      "matched": [
-        "ai agent"
-      ]
-    },
-    {
       "title": "Radar makes podcasts searchable — and usable by AI agents",
       "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
       "source": "TechCrunch AI",
@@ -223,78 +294,6 @@
         "ai agent",
         "ai agents",
         "agents"
-      ]
-    },
-    {
-      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-      "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-26T14:37:01+00:00",
-      "score": 4,
-      "matched": [
-        "responsible ai",
-        "jobs"
-      ]
-    },
-    {
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "source": "VentureBeat AI",
-      "published": "2026-08-26T14:30:00+00:00",
-      "score": 13,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise",
-        "agents",
-        "deployment"
-      ]
-    },
-    {
-      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-      "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "source": "The Verge AI",
-      "published": "2026-08-26T13:00:00-04:00",
-      "score": 4,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "Arga Labs is building a better way to train enterprise AI agents",
-      "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-26T12:55:28+00:00",
-      "score": 16,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise ai",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
-      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-      "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
-      "source": "Ars Technica",
-      "published": "2026-08-26T11:10:49+00:00",
-      "score": 4,
-      "matched": [
-        "agentic",
-        "enterprise",
-        "deployment"
-      ]
-    },
-    {
-      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-      "source": "The Verge AI",
-      "published": "2026-08-25T10:00:00-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
       ]
     }
   ],
