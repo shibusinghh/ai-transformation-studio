@@ -1,6 +1,28 @@
 {
-  "updated": "2026-08-28T17:35:56.004611+00:00",
+  "updated": "2026-08-29T11:44:16.947517+00:00",
   "items": [
+    {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-28T19:30:38+00:00",
+      "score": 5,
+      "matched": [
+        "anthropic",
+        "benchmark"
+      ]
+    },
+    {
+      "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
+      "link": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
+      "source": "VentureBeat AI",
+      "published": "2026-08-28T17:52:50+00:00",
+      "score": 6,
+      "matched": [
+        "agentic",
+        "agents"
+      ]
+    },
     {
       "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag",
       "link": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
@@ -14,6 +36,26 @@
       ]
     },
     {
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-28T12:21:06+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
+      "link": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
+      "source": "Wired AI",
+      "published": "2026-08-28T03:04:14+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
       "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
@@ -23,6 +65,16 @@
         "anthropic",
         "openai",
         "google"
+      ]
+    },
+    {
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "source": "The Verge AI",
+      "published": "2026-08-27T23:14:06-04:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
       ]
     },
     {
@@ -98,6 +150,28 @@
       ]
     },
     {
+      "title": "Google’s AI note-taking app now allows you to interact with books",
+      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+      "source": "The Verge AI",
+      "published": "2026-08-27T15:30:00-04:00",
+      "score": 4,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-27T14:01:42+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
       "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "source": "VentureBeat AI",
@@ -110,16 +184,6 @@
       ]
     },
     {
-      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-      "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-      "source": "Ars Technica",
-      "published": "2026-08-27T14:00:13+00:00",
-      "score": 4,
-      "matched": [
-        "claude"
-      ]
-    },
-    {
       "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
       "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
       "source": "TechCrunch AI",
@@ -128,19 +192,6 @@
       "matched": [
         "ai agent",
         "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "source": "Ars Technica",
-      "published": "2026-08-27T12:58:59+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
         "agents"
       ]
     },
@@ -203,30 +254,6 @@
       ]
     },
     {
-      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-      "source": "Ars Technica",
-      "published": "2026-08-26T21:25:27+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again",
-      "link": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again",
-      "source": "VentureBeat AI",
-      "published": "2026-08-26T20:00:00+00:00",
-      "score": 7,
-      "matched": [
-        "anthropic",
-        "claude",
-        "enterprise"
-      ]
-    },
-    {
       "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
       "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
       "source": "TechCrunch AI",
@@ -235,26 +262,6 @@
       "matched": [
         "gemini",
         "google"
-      ]
-    },
-    {
-      "title": "How do we explain OpenAI’s executive exodus?",
-      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-26T19:34:04+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-26T19:05:22+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
       ]
     },
     {
@@ -282,18 +289,6 @@
         "openai",
         "agents",
         "chatgpt"
-      ]
-    },
-    {
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-26T15:47:28+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
       ]
     }
   ],
