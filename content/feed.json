@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-29T11:44:16.947517+00:00",
+  "updated": "2026-08-30T10:35:22.859449+00:00",
   "items": [
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-29T18:41:59+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "source": "The Verge AI",
+      "published": "2026-08-29T14:19:53-04:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
     {
       "title": "An Anthropic researcher just gave us a peek at self-improving AI",
       "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
@@ -10,6 +30,16 @@
       "matched": [
         "anthropic",
         "benchmark"
+      ]
+    },
+    {
+      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+      "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+      "source": "Ars Technica",
+      "published": "2026-08-28T18:07:55+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
       ]
     },
     {
@@ -33,6 +63,16 @@
         "ai agent",
         "claude",
         "enterprise"
+      ]
+    },
+    {
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-28T12:46:12+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
       ]
     },
     {
@@ -139,17 +179,6 @@
       ]
     },
     {
-      "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
-      "link": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
-      "source": "Wired AI",
-      "published": "2026-08-27T16:52:42+00:00",
-      "score": 8,
-      "matched": [
-        "ai agent",
-        "openai"
-      ]
-    },
-    {
       "title": "Google’s AI note-taking app now allows you to interact with books",
       "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
       "source": "The Verge AI",
@@ -244,27 +273,6 @@
       ]
     },
     {
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-26T21:37:39+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-26T19:37:34+00:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
       "title": "The inside story on why OpenAI agents hacked Hugging Face",
       "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
       "source": "MIT Tech Review",
@@ -275,20 +283,6 @@
         "ai agents",
         "openai",
         "agents"
-      ]
-    },
-    {
-      "title": "OpenAI’s rogue AI model incident was worse than we thought",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-      "source": "The Verge AI",
-      "published": "2026-08-26T17:36:06-04:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "agents",
-        "chatgpt"
       ]
     }
   ],
