@@ -1,6 +1,33 @@
 {
-  "updated": "2026-08-30T10:35:22.859449+00:00",
+  "updated": "2026-08-31T11:44:23.999631+00:00",
   "items": [
+    {
+      "title": "AI agents need their own identity before they need a gateway",
+      "link": "https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway",
+      "source": "VentureBeat AI",
+      "published": "2026-08-30T23:00:00+00:00",
+      "score": 13,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise ai",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "AI agents that pass authentication can still drift, expose data, or get memory-poisoned",
+      "link": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned",
+      "source": "VentureBeat AI",
+      "published": "2026-08-30T20:15:00+00:00",
+      "score": 11,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents",
+        "deployment"
+      ]
+    },
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
       "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
@@ -12,7 +39,7 @@
       ]
     },
     {
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
       "source": "The Verge AI",
       "published": "2026-08-29T14:19:53-04:00",
@@ -62,6 +89,17 @@
       "matched": [
         "ai agent",
         "claude",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
+      "link": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
+      "source": "VentureBeat AI",
+      "published": "2026-08-28T15:30:05+00:00",
+      "score": 3,
+      "matched": [
+        "benchmark",
         "enterprise"
       ]
     },
@@ -154,19 +192,6 @@
       ]
     },
     {
-      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
-      "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
-      "source": "Wired AI",
-      "published": "2026-08-27T18:06:52+00:00",
-      "score": 14,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "anthropic",
-        "agents"
-      ]
-    },
-    {
       "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
       "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
       "source": "TechCrunch AI",
@@ -225,6 +250,16 @@
       ]
     },
     {
+      "title": "Visa ships a security AI that patches production code before any human reviews it",
+      "link": "https://venturebeat.com/security/visa-agentic-security-harness-autonomous-fix",
+      "source": "VentureBeat AI",
+      "published": "2026-08-27T12:30:00+00:00",
+      "score": 2,
+      "matched": [
+        "agentic"
+      ]
+    },
+    {
       "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
       "link": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
       "source": "MIT Tech Review",
@@ -238,31 +273,6 @@
       ]
     },
     {
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "source": "VentureBeat AI",
-      "published": "2026-08-27T12:01:00+00:00",
-      "score": 9,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise",
-        "agents",
-        "governance"
-      ]
-    },
-    {
-      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-      "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-27T11:35:59+00:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
       "title": "OpenAI&#8217;s executive exodus has one big winner",
       "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
       "source": "The Verge AI",
@@ -270,19 +280,6 @@
       "score": 4,
       "matched": [
         "openai"
-      ]
-    },
-    {
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "source": "MIT Tech Review",
-      "published": "2026-08-26T19:00:00+00:00",
-      "score": 14,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "agents"
       ]
     }
   ],
