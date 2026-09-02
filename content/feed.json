@@ -1,6 +1,182 @@
 {
-  "updated": "2026-09-01T10:19:43.730364+00:00",
+  "updated": "2026-09-02T09:48:07.537771+00:00",
   "items": [
+    {
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-01T21:06:24+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-01T20:53:05+00:00",
+      "score": 4,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+      "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+      "source": "Wired AI",
+      "published": "2026-09-01T20:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-01T19:39:22+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Closing an Azure OpenAI assistant's retrieval gap didn't take a new identity platform. It took one filter and a narrower assistant.",
+      "link": "https://venturebeat.com/security/azure-openai-agent-passed-every-evaluation-served-files-user-couldnt-open",
+      "source": "VentureBeat AI",
+      "published": "2026-09-01T18:59:54+00:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "enterprise",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
+      "link": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+      "source": "VentureBeat AI",
+      "published": "2026-09-01T18:41:21+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "source": "The Verge AI",
+      "published": "2026-09-01T18:01:36-04:00",
+      "score": 12,
+      "matched": [
+        "agentic",
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-01T17:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "source": "The Verge AI",
+      "published": "2026-09-01T16:45:49-04:00",
+      "score": 9,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-01T15:45:51+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud",
+      "link": "https://venturebeat.com/orchestration/your-files-stay-put-perplexitys-hybrid-ai-keeps-confidential-data-off-the-cloud",
+      "source": "VentureBeat AI",
+      "published": "2026-09-01T15:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "agentic",
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+      "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+      "source": "Wired AI",
+      "published": "2026-09-01T14:40:00+00:00",
+      "score": 3,
+      "matched": [
+        "agentic",
+        "automation"
+      ]
+    },
+    {
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "source": "The Verge AI",
+      "published": "2026-09-01T14:19:26-04:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "AI is redefining the workforce — and most planning models aren’t ready",
+      "link": "https://venturebeat.com/orchestration/ai-is-redefining-the-workforce-and-most-planning-models-arent-ready",
+      "source": "VentureBeat AI",
+      "published": "2026-09-01T14:00:00+00:00",
+      "score": 5,
+      "matched": [
+        "workforce",
+        "employees"
+      ]
+    },
+    {
+      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+      "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-01T12:10:00+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Google Pics is like Canva, but with even more AI",
+      "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "source": "The Verge AI",
+      "published": "2026-09-01T12:00:00-04:00",
+      "score": 4,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
     {
       "title": "OpenClaw 2.0 is here, ushering in the era of 'multiplayer' AI coding: What it means for enterprises",
       "link": "https://venturebeat.com/technology/openclaw-2-0-is-here-what-it-means-for-enterprises",
@@ -82,20 +258,6 @@
       ]
     },
     {
-      "title": "Identity and permissions aren’t enough to govern AI agent behavior",
-      "link": "https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior",
-      "source": "VentureBeat AI",
-      "published": "2026-08-31T14:00:00+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise ai",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
       "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
       "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
       "source": "Ars Technica",
@@ -106,45 +268,6 @@
       ]
     },
     {
-      "title": "ChatGPT to face tougher regulation in the EU",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-      "source": "The Verge AI",
-      "published": "2026-08-31T09:27:36-04:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "regulation",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "AI agents need their own identity before they need a gateway",
-      "link": "https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway",
-      "source": "VentureBeat AI",
-      "published": "2026-08-30T23:00:00+00:00",
-      "score": 13,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "enterprise ai",
-        "enterprise",
-        "agents"
-      ]
-    },
-    {
-      "title": "AI agents that pass authentication can still drift, expose data, or get memory-poisoned",
-      "link": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned",
-      "source": "VentureBeat AI",
-      "published": "2026-08-30T20:15:00+00:00",
-      "score": 11,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents",
-        "deployment"
-      ]
-    },
-    {
       "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
       "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
       "source": "TechCrunch AI",
@@ -152,80 +275,6 @@
       "score": 2,
       "matched": [
         "deployment"
-      ]
-    },
-    {
-      "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-29T18:41:59+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "source": "The Verge AI",
-      "published": "2026-08-29T14:19:53-04:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-28T19:30:38+00:00",
-      "score": 5,
-      "matched": [
-        "anthropic",
-        "benchmark"
-      ]
-    },
-    {
-      "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
-      "link": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
-      "source": "VentureBeat AI",
-      "published": "2026-08-28T17:52:50+00:00",
-      "score": 6,
-      "matched": [
-        "agentic",
-        "agents"
-      ]
-    },
-    {
-      "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag",
-      "link": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
-      "source": "VentureBeat AI",
-      "published": "2026-08-28T16:33:16+00:00",
-      "score": 7,
-      "matched": [
-        "ai agent",
-        "claude",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-28T12:46:12+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-28T12:21:06+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
       ]
     }
   ],
