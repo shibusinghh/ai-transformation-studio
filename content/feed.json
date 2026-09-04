@@ -1,6 +1,128 @@
 {
-  "updated": "2026-09-03T09:59:51.558984+00:00",
+  "updated": "2026-09-04T09:50:13.168405+00:00",
   "items": [
+    {
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "source": "Wired AI",
+      "published": "2026-09-03T21:56:21+00:00",
+      "score": 11,
+      "matched": [
+        "anthropic",
+        "claude",
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+      "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+      "source": "Wired AI",
+      "published": "2026-09-03T21:48:24+00:00",
+      "score": 5,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Four major AI models suffer rare overlapping downtime",
+      "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+      "source": "Ars Technica",
+      "published": "2026-09-03T18:10:19+00:00",
+      "score": 5,
+      "matched": [
+        "claude",
+        "gemini",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+      "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+      "source": "Wired AI",
+      "published": "2026-09-03T18:06:24+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-03T18:01:45+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+      "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+      "source": "Wired AI",
+      "published": "2026-09-03T16:42:40+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-03T15:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "source": "The Verge AI",
+      "published": "2026-09-03T14:00:00-04:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Google now lets you chat with Gmail, Docs, and Keep",
+      "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+      "source": "The Verge AI",
+      "published": "2026-09-03T12:00:00-04:00",
+      "score": 4,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "ChatGPT, Grok, and Claude all went down at the same time",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+      "source": "The Verge AI",
+      "published": "2026-09-03T11:35:14-04:00",
+      "score": 10,
+      "matched": [
+        "anthropic",
+        "claude",
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Google says its AI weather model is getting better",
+      "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+      "source": "The Verge AI",
+      "published": "2026-09-03T11:00:00-04:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
     {
       "title": "Scaling agentic AI pilots across the enterprise",
       "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
@@ -26,16 +148,13 @@
       ]
     },
     {
-      "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
-      "link": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
-      "source": "VentureBeat AI",
-      "published": "2026-09-03T00:02:18+00:00",
-      "score": 10,
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-02T20:19:14+00:00",
+      "score": 4,
       "matched": [
-        "agentic",
-        "gemini",
-        "agents",
-        "google"
+        "openai"
       ]
     },
     {
@@ -60,17 +179,6 @@
       ]
     },
     {
-      "title": "Stolen Claude session cookies can reach corporate Gmail through grants no IT admin can revoke",
-      "link": "https://venturebeat.com/security/stolen-claude-session-cookies-can-reach-corporate-gmail-through-grants-no-it-admin-can-revoke",
-      "source": "VentureBeat AI",
-      "published": "2026-09-02T17:51:48+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
       "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
       "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
       "source": "TechCrunch AI",
@@ -78,6 +186,16 @@
       "score": 4,
       "matched": [
         "openai"
+      ]
+    },
+    {
+      "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
+      "link": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
+      "source": "Ars Technica",
+      "published": "2026-09-02T16:30:11+00:00",
+      "score": 2,
+      "matched": [
+        "google"
       ]
     },
     {
@@ -104,154 +222,12 @@
       ]
     },
     {
-      "title": "Forward-deployed engineering is how enterprise AI learns",
-      "link": "https://venturebeat.com/orchestration/forward-deployed-engineering-is-how-enterprise-ai-learns",
-      "source": "VentureBeat AI",
-      "published": "2026-09-02T14:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "enterprise ai",
-        "enterprise"
-      ]
-    },
-    {
       "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
       "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
       "source": "The Verge AI",
       "published": "2026-09-02T12:40:50-04:00",
       "score": 5,
       "matched": [
-        "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "source": "The Verge AI",
-      "published": "2026-09-02T12:12:25-04:00",
-      "score": 5,
-      "matched": [
-        "openai",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-02T12:09:42+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Google is sending MrBeast into the wilderness, armed with AI",
-      "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-      "source": "The Verge AI",
-      "published": "2026-09-02T11:47:03-04:00",
-      "score": 4,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "source": "The Verge AI",
-      "published": "2026-09-02T10:35:03-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-01T21:06:24+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-01T20:53:05+00:00",
-      "score": 4,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-      "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
-      "source": "Wired AI",
-      "published": "2026-09-01T20:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-01T19:39:22+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Closing an Azure OpenAI assistant's retrieval gap didn't take a new identity platform. It took one filter and a narrower assistant.",
-      "link": "https://venturebeat.com/security/azure-openai-agent-passed-every-evaluation-served-files-user-couldnt-open",
-      "source": "VentureBeat AI",
-      "published": "2026-09-01T18:59:54+00:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "enterprise",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "source": "The Verge AI",
-      "published": "2026-09-01T18:01:36-04:00",
-      "score": 12,
-      "matched": [
-        "agentic",
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-01T17:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "source": "The Verge AI",
-      "published": "2026-09-01T16:45:49-04:00",
-      "score": 9,
-      "matched": [
-        "ai agent",
-        "ai agents",
         "openai",
         "agents"
       ]
@@ -265,20 +241,9 @@
       "matched": [
         "openai"
       ]
-    },
-    {
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "source": "MIT Tech Review",
-      "published": "2026-08-31T18:00:00+00:00",
-      "score": 9,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "agents"
-      ]
     }
   ],
-  "errors": []
+  "errors": [
+    "VentureBeat AI: HTTPError: HTTP Error 429: Too Many Requests"
+  ]
 }
