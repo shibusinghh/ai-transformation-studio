@@ -1,6 +1,66 @@
 {
-  "updated": "2026-09-05T09:12:26.693753+00:00",
+  "updated": "2026-09-06T09:34:52.641176+00:00",
   "items": [
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-05T22:49:55+00:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-05T19:35:24+00:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-05T18:05:27+00:00",
+      "score": 11,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "framework",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI Agents Hacked Another Website",
+      "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+      "source": "Wired AI",
+      "published": "2026-09-05T10:30:00+00:00",
+      "score": 14,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "source": "The Verge AI",
+      "published": "2026-09-05T07:15:55-04:00",
+      "score": 5,
+      "matched": [
+        "openai",
+        "agents"
+      ]
+    },
     {
       "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
       "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
@@ -202,17 +262,6 @@
         "enterprise",
         "agents",
         "deployment"
-      ]
-    },
-    {
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
-      "source": "Wired AI",
-      "published": "2026-09-03T01:32:02+00:00",
-      "score": 6,
-      "matched": [
-        "ai agent",
-        "employees"
       ]
     }
   ],
