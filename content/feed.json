@@ -1,6 +1,28 @@
 {
-  "updated": "2026-09-06T09:34:52.641176+00:00",
+  "updated": "2026-09-07T10:35:33.214765+00:00",
   "items": [
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-06T20:47:37+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "agents"
+      ]
+    },
+    {
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source": "The Verge AI",
+      "published": "2026-09-06T19:36:04-04:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "microsoft"
+      ]
+    },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -228,40 +250,6 @@
       "score": 4,
       "matched": [
         "openai"
-      ]
-    },
-    {
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-03T15:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "source": "The Verge AI",
-      "published": "2026-09-03T14:00:00-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Scaling agentic AI pilots across the enterprise",
-      "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-      "source": "MIT Tech Review",
-      "published": "2026-09-03T09:30:32+00:00",
-      "score": 8,
-      "matched": [
-        "agentic",
-        "enterprise",
-        "agents",
-        "deployment"
       ]
     }
   ],
