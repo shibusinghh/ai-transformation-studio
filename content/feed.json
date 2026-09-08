@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-07T10:35:33.214765+00:00",
+  "updated": "2026-09-08T09:55:48.538483+00:00",
   "items": [
+    {
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-07T12:10:00+00:00",
+      "score": 14,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
@@ -195,61 +208,6 @@
       "matched": [
         "openai",
         "rollout"
-      ]
-    },
-    {
-      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-      "source": "Wired AI",
-      "published": "2026-09-03T21:56:21+00:00",
-      "score": 11,
-      "matched": [
-        "anthropic",
-        "claude",
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-      "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-      "source": "Wired AI",
-      "published": "2026-09-03T21:48:24+00:00",
-      "score": 5,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-      "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
-      "source": "Wired AI",
-      "published": "2026-09-03T18:06:24+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-03T18:01:45+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-      "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
-      "source": "Wired AI",
-      "published": "2026-09-03T16:42:40+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
       ]
     }
   ],
