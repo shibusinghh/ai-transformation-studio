@@ -1,8 +1,185 @@
 {
-  "updated": "2026-09-09T09:58:27.512636+00:00",
+  "updated": "2026-09-10T09:56:47.118581+00:00",
   "items": [
     {
-      "title": "More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-09T22:25:22+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+      "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+      "source": "Wired AI",
+      "published": "2026-09-09T22:11:55+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
+      "link": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
+      "source": "Ars Technica",
+      "published": "2026-09-09T18:58:24+00:00",
+      "score": 2,
+      "matched": [
+        "transparency"
+      ]
+    },
+    {
+      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
+      "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+      "source": "Wired AI",
+      "published": "2026-09-09T18:30:00+00:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "source": "The Verge AI",
+      "published": "2026-09-09T17:16:34-04:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+      "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+      "source": "Ars Technica",
+      "published": "2026-09-09T16:59:40+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Google's AI genome system evaluates every possible one-base change",
+      "link": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+      "source": "Ars Technica",
+      "published": "2026-09-09T16:34:18+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Superintelligence is coming. Should we let it?",
+      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-09T16:05:35+00:00",
+      "score": 2,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
+      "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-09T15:50:13+00:00",
+      "score": 2,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-09T15:13:12+00:00",
+      "score": 2,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-09T15:02:47+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-09T14:18:34+00:00",
+      "score": 3,
+      "matched": [
+        "ai adoption",
+        "adoption"
+      ]
+    },
+    {
+      "title": "Microsoft has new AI privacy rules for schools",
+      "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+      "source": "The Verge AI",
+      "published": "2026-09-09T13:07:48-04:00",
+      "score": 2,
+      "matched": [
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-09T13:00:00+00:00",
+      "score": 13,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise",
+        "agents",
+        "employees"
+      ]
+    },
+    {
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-09T12:30:00+00:00",
+      "score": 2,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "The Download: OpenAI’s turning point for math and a battery record",
+      "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-09T12:10:00+00:00",
+      "score": 5,
+      "matched": [
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "source": "Ars Technica",
+      "published": "2026-09-09T11:00:10+00:00",
+      "score": 4,
+      "matched": [
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
       "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
       "source": "The Verge AI",
       "published": "2026-09-09T05:56:28-04:00",
@@ -33,17 +210,6 @@
       ]
     },
     {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-08T21:10:27+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
       "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
       "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
       "source": "Wired AI",
@@ -51,36 +217,6 @@
       "score": 4,
       "matched": [
         "ai agent"
-      ]
-    },
-    {
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-08T19:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "ai agent"
-      ]
-    },
-    {
-      "title": "Update to Google’s AI weather model improves forecast accuracy",
-      "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
-      "source": "Ars Technica",
-      "published": "2026-09-08T18:00:56+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-08T17:32:15+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
       ]
     },
     {
@@ -94,16 +230,6 @@
       ]
     },
     {
-      "title": "Google complies with EU rules for travel searches, says the new results stink",
-      "link": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/",
-      "source": "Ars Technica",
-      "published": "2026-09-08T16:49:55+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
       "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
       "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
       "source": "Wired AI",
@@ -111,20 +237,6 @@
       "score": 4,
       "matched": [
         "openai"
-      ]
-    },
-    {
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-08T16:20:31+00:00",
-      "score": 12,
-      "matched": [
-        "enterprise ai",
-        "accenture",
-        "enterprise",
-        "adoption",
-        "deployment"
       ]
     },
     {
@@ -139,141 +251,12 @@
       ]
     },
     {
-      "title": "Meta bets on AI agent Muse to catch up in AI race",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-      "source": "The Verge AI",
-      "published": "2026-09-08T15:00:00-04:00",
-      "score": 9,
-      "matched": [
-        "ai agent",
-        "anthropic",
-        "openai",
-        "google"
-      ]
-    },
-    {
-      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-      "source": "The Verge AI",
-      "published": "2026-09-08T13:27:31-04:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
       "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
       "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
       "source": "MIT Tech Review",
       "published": "2026-09-08T10:34:00+00:00",
       "score": 2,
       "matched": [
-        "agents"
-      ]
-    },
-    {
-      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-      "source": "The Verge AI",
-      "published": "2026-09-08T10:00:00-04:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-      "source": "MIT Tech Review",
-      "published": "2026-09-07T12:10:00+00:00",
-      "score": 14,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-06T20:47:37+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "agents"
-      ]
-    },
-    {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "source": "The Verge AI",
-      "published": "2026-09-06T19:36:04-04:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-05T22:49:55+00:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-05T19:35:24+00:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-05T18:05:27+00:00",
-      "score": 11,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "framework",
-        "agents"
-      ]
-    },
-    {
-      "title": "OpenAI Agents Hacked Another Website",
-      "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
-      "source": "Wired AI",
-      "published": "2026-09-05T10:30:00+00:00",
-      "score": 14,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "source": "The Verge AI",
-      "published": "2026-09-05T07:15:55-04:00",
-      "score": 5,
-      "matched": [
-        "openai",
         "agents"
       ]
     }
