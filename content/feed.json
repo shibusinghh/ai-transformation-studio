@@ -1,6 +1,93 @@
 {
-  "updated": "2026-09-12T09:29:42.702819+00:00",
+  "updated": "2026-09-13T10:28:48.229008+00:00",
   "items": [
+    {
+      "title": "AI Agents Are Thirsty for Power",
+      "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+      "source": "Wired AI",
+      "published": "2026-09-13T10:00:00+00:00",
+      "score": 12,
+      "matched": [
+        "agentic",
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-12T20:19:16+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-12T19:34:44+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "source": "The Verge AI",
+      "published": "2026-09-12T17:41:36-04:00",
+      "score": 9,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "source": "The Verge AI",
+      "published": "2026-09-12T17:16:28-04:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "source": "The Verge AI",
+      "published": "2026-09-12T12:23:40-04:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+      "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+      "source": "Wired AI",
+      "published": "2026-09-12T10:30:00+00:00",
+      "score": 4,
+      "matched": [
+        "claude"
+      ]
+    },
+    {
+      "title": "OpenAI just wants to win",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "source": "The Verge AI",
+      "published": "2026-09-12T07:00:00-04:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
     {
       "title": "OpenAI’s feud with mathematicians is only escalating",
       "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
@@ -12,16 +99,6 @@
       ]
     },
     {
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-      "source": "Ars Technica",
-      "published": "2026-09-11T19:34:09+00:00",
-      "score": 2,
-      "matched": [
-        "chatgpt"
-      ]
-    },
-    {
       "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
       "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
       "source": "TechCrunch AI",
@@ -29,16 +106,6 @@
       "score": 4,
       "matched": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-      "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-      "source": "Ars Technica",
-      "published": "2026-09-11T18:22:22+00:00",
-      "score": 2,
-      "matched": [
-        "openai"
       ]
     },
     {
@@ -178,37 +245,6 @@
       ]
     },
     {
-      "title": "Meta’s Muse AI works and creeps me out",
-      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "source": "The Verge AI",
-      "published": "2026-09-10T11:00:00-04:00",
-      "score": 3,
-      "matched": [
-        "ai agent",
-        "productivity"
-      ]
-    },
-    {
-      "title": "Mathematicians want proof OpenAI didn’t use their work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "source": "The Verge AI",
-      "published": "2026-09-10T07:00:57-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-09T22:25:22+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
       "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
       "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
       "source": "Wired AI",
@@ -216,16 +252,6 @@
       "score": 4,
       "matched": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
-      "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
-      "source": "Wired AI",
-      "published": "2026-09-09T18:30:00+00:00",
-      "score": 4,
-      "matched": [
-        "ai agent"
       ]
     },
     {
