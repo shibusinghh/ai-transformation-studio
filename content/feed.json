@@ -1,6 +1,136 @@
 {
-  "updated": "2026-09-14T10:52:02.718275+00:00",
+  "updated": "2026-09-15T10:16:37.568844+00:00",
   "items": [
+    {
+      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+      "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+      "source": "Ars Technica",
+      "published": "2026-09-15T07:00:30+00:00",
+      "score": 2,
+      "matched": [
+        "gemini"
+      ]
+    },
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-14T20:44:14+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "source": "Ars Technica",
+      "published": "2026-09-14T19:45:13+00:00",
+      "score": 5,
+      "matched": [
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "source": "The Verge AI",
+      "published": "2026-09-14T18:59:41-04:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "openai",
+        "audit",
+        "google"
+      ]
+    },
+    {
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-14T17:54:22+00:00",
+      "score": 2,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "source": "The Verge AI",
+      "published": "2026-09-14T17:21:42-04:00",
+      "score": 2,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-14T16:27:53+00:00",
+      "score": 2,
+      "matched": [
+        "microsoft"
+      ]
+    },
+    {
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-14T16:00:00+00:00",
+      "score": 11,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents",
+        "google"
+      ]
+    },
+    {
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-14T15:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-14T14:45:44+00:00",
+      "score": 6,
+      "matched": [
+        "agentic",
+        "productivity"
+      ]
+    },
+    {
+      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+      "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+      "source": "Wired AI",
+      "published": "2026-09-14T11:00:00+00:00",
+      "score": 3,
+      "matched": [
+        "anthropic",
+        "regulation"
+      ]
+    },
+    {
+      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "source": "The Verge AI",
+      "published": "2026-09-14T09:00:00-04:00",
+      "score": 4,
+      "matched": [
+        "anthropic",
+        "microsoft"
+      ]
+    },
     {
       "title": "Trump and Mike Johnson think the AI industry is overreacting",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
@@ -107,140 +237,6 @@
       "score": 4,
       "matched": [
         "openai"
-      ]
-    },
-    {
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-      "source": "Ars Technica",
-      "published": "2026-09-11T19:34:09+00:00",
-      "score": 2,
-      "matched": [
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-      "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-11T18:41:49+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-      "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-      "source": "Ars Technica",
-      "published": "2026-09-11T18:22:22+00:00",
-      "score": 2,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-11T16:46:25+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Claude users found ways around safeguards for bioweapons research",
-      "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-      "source": "Ars Technica",
-      "published": "2026-09-11T13:02:35+00:00",
-      "score": 4,
-      "matched": [
-        "claude"
-      ]
-    },
-    {
-      "title": "Anthropic spent this week in hot water over cybersecurity",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "source": "The Verge AI",
-      "published": "2026-09-11T12:09:14-04:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-      "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-      "source": "Wired AI",
-      "published": "2026-09-11T09:00:00+00:00",
-      "score": 2,
-      "matched": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-      "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-      "source": "Wired AI",
-      "published": "2026-09-10T23:28:42+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-10T20:59:51+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-10T20:57:30+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Is AI Actually Going to Kill Us All?",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
-      "source": "Wired AI",
-      "published": "2026-09-10T20:30:37+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "ai act"
-      ]
-    },
-    {
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-10T19:50:04+00:00",
-      "score": 4,
-      "matched": [
-        "ai agent"
-      ]
-    },
-    {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-10T17:54:44+00:00",
-      "score": 14,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "anthropic",
-        "agents"
       ]
     }
   ],
