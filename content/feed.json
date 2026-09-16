@@ -1,6 +1,97 @@
 {
-  "updated": "2026-09-15T10:16:37.568844+00:00",
+  "updated": "2026-09-16T10:10:05.255413+00:00",
   "items": [
+    {
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-16T00:20:39+00:00",
+      "score": 2,
+      "matched": [
+        "regulation"
+      ]
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-15T20:12:53+00:00",
+      "score": 13,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "claude",
+        "agents",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-15T19:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "AI agents now have a place to snitch",
+      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-15T17:42:59+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-15T15:47:03+00:00",
+      "score": 10,
+      "matched": [
+        "anthropic",
+        "openai",
+        "google"
+      ]
+    },
+    {
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-15T13:00:00+00:00",
+      "score": 14,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "anthropic",
+        "agents"
+      ]
+    },
+    {
+      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+      "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-15T12:10:00+00:00",
+      "score": 2,
+      "matched": [
+        "agents"
+      ]
+    },
+    {
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-15T12:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
     {
       "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
       "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
@@ -89,27 +180,6 @@
       ]
     },
     {
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-14T15:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-14T14:45:44+00:00",
-      "score": 6,
-      "matched": [
-        "agentic",
-        "productivity"
-      ]
-    },
-    {
       "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
       "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
       "source": "Wired AI",
@@ -156,27 +226,6 @@
       ]
     },
     {
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-12T20:19:16+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-12T19:34:44+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "openai"
-      ]
-    },
-    {
       "title": "OpenAI’s rogue AI tried to hack another company in May",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
       "source": "The Verge AI",
@@ -200,16 +249,6 @@
       ]
     },
     {
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "source": "The Verge AI",
-      "published": "2026-09-12T12:23:40-04:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
       "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
       "source": "Wired AI",
@@ -217,26 +256,6 @@
       "score": 4,
       "matched": [
         "claude"
-      ]
-    },
-    {
-      "title": "OpenAI just wants to win",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "source": "The Verge AI",
-      "published": "2026-09-12T07:00:00-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-11T20:57:36+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
       ]
     }
   ],
