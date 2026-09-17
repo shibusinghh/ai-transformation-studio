@@ -1,6 +1,149 @@
 {
-  "updated": "2026-09-16T10:10:05.255413+00:00",
+  "updated": "2026-09-17T10:15:22.672753+00:00",
   "items": [
+    {
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-17T03:30:00+00:00",
+      "score": 7,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+      "source": "Wired AI",
+      "published": "2026-09-16T22:07:24+00:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "framework"
+      ]
+    },
+    {
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-16T21:07:24+00:00",
+      "score": 10,
+      "matched": [
+        "anthropic",
+        "openai",
+        "regulation",
+        "transparency"
+      ]
+    },
+    {
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "source": "The Verge AI",
+      "published": "2026-09-16T19:40:00-04:00",
+      "score": 2,
+      "matched": [
+        "gemini"
+      ]
+    },
+    {
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-16T18:25:25+00:00",
+      "score": 3,
+      "matched": [
+        "audit",
+        "agents"
+      ]
+    },
+    {
+      "title": "Your AI agents can now control your Google Home devices",
+      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-16T17:00:00+00:00",
+      "score": 15,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "claude",
+        "agents",
+        "google"
+      ]
+    },
+    {
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-16T16:30:00+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-16T15:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Google will now let any AI agent run your smart home",
+      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "source": "The Verge AI",
+      "published": "2026-09-16T13:00:00-04:00",
+      "score": 11,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "claude",
+        "agents",
+        "google"
+      ]
+    },
+    {
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "source": "The Verge AI",
+      "published": "2026-09-16T12:30:00-04:00",
+      "score": 11,
+      "matched": [
+        "anthropic",
+        "claude",
+        "gemini",
+        "productivity"
+      ]
+    },
+    {
+      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+      "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-16T12:10:00+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "A brief history of AI executives calling for regulation",
+      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "source": "The Verge AI",
+      "published": "2026-09-16T08:00:00-04:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "openai",
+        "regulation",
+        "microsoft",
+        "google"
+      ]
+    },
     {
       "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
       "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
@@ -36,43 +179,6 @@
       ]
     },
     {
-      "title": "AI agents now have a place to snitch",
-      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-15T17:42:59+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-15T15:47:03+00:00",
-      "score": 10,
-      "matched": [
-        "anthropic",
-        "openai",
-        "google"
-      ]
-    },
-    {
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-15T13:00:00+00:00",
-      "score": 14,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "anthropic",
-        "agents"
-      ]
-    },
-    {
       "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
       "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
       "source": "MIT Tech Review",
@@ -93,50 +199,6 @@
       ]
     },
     {
-      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
-      "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
-      "source": "Ars Technica",
-      "published": "2026-09-15T07:00:30+00:00",
-      "score": 2,
-      "matched": [
-        "gemini"
-      ]
-    },
-    {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-14T20:44:14+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-      "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "source": "Ars Technica",
-      "published": "2026-09-14T19:45:13+00:00",
-      "score": 5,
-      "matched": [
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "source": "The Verge AI",
-      "published": "2026-09-14T18:59:41-04:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "openai",
-        "audit",
-        "google"
-      ]
-    },
-    {
       "title": "The AI industry has taken a doomer turn. What now?",
       "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
       "source": "MIT Tech Review",
@@ -144,39 +206,6 @@
       "score": 2,
       "matched": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "source": "The Verge AI",
-      "published": "2026-09-14T17:21:42-04:00",
-      "score": 2,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-14T16:27:53+00:00",
-      "score": 2,
-      "matched": [
-        "microsoft"
-      ]
-    },
-    {
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "source": "MIT Tech Review",
-      "published": "2026-09-14T16:00:00+00:00",
-      "score": 11,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents",
-        "google"
       ]
     },
     {
@@ -188,74 +217,6 @@
       "matched": [
         "anthropic",
         "regulation"
-      ]
-    },
-    {
-      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-      "source": "The Verge AI",
-      "published": "2026-09-14T09:00:00-04:00",
-      "score": 4,
-      "matched": [
-        "anthropic",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-      "source": "The Verge AI",
-      "published": "2026-09-13T15:41:48-04:00",
-      "score": 4,
-      "matched": [
-        "anthropic",
-        "openai"
-      ]
-    },
-    {
-      "title": "AI Agents Are Thirsty for Power",
-      "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-      "source": "Wired AI",
-      "published": "2026-09-13T10:00:00+00:00",
-      "score": 12,
-      "matched": [
-        "agentic",
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "source": "The Verge AI",
-      "published": "2026-09-12T17:41:36-04:00",
-      "score": 9,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-      "source": "The Verge AI",
-      "published": "2026-09-12T17:16:28-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-      "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
-      "source": "Wired AI",
-      "published": "2026-09-12T10:30:00+00:00",
-      "score": 4,
-      "matched": [
-        "claude"
       ]
     }
   ],
