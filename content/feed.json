@@ -1,6 +1,198 @@
 {
-  "updated": "2026-09-17T10:15:22.672753+00:00",
+  "updated": "2026-09-18T09:57:50.445340+00:00",
   "items": [
+    {
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-18T09:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-17T23:21:17+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "The fix for rogue AI agents could be more AI",
+      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-17T20:34:47+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-17T20:34:24+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "source": "Ars Technica",
+      "published": "2026-09-17T20:24:34+00:00",
+      "score": 6,
+      "matched": [
+        "ai agent",
+        "google"
+      ]
+    },
+    {
+      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+      "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+      "source": "Ars Technica",
+      "published": "2026-09-17T20:10:41+00:00",
+      "score": 4,
+      "matched": [
+        "openai",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-17T20:00:00+00:00",
+      "score": 12,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents",
+        "google"
+      ]
+    },
+    {
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-17T19:46:08+00:00",
+      "score": 4,
+      "matched": [
+        "openai",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
+      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+      "source": "Wired AI",
+      "published": "2026-09-17T18:42:25+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+      "link": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+      "source": "Ars Technica",
+      "published": "2026-09-17T16:18:34+00:00",
+      "score": 5,
+      "matched": [
+        "openai",
+        "framework"
+      ]
+    },
+    {
+      "title": "The AI Superintelligence Slowdown",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "source": "The Verge AI",
+      "published": "2026-09-17T15:28:24-04:00",
+      "score": 6,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents",
+        "employees"
+      ]
+    },
+    {
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "source": "The Verge AI",
+      "published": "2026-09-17T14:58:05-04:00",
+      "score": 14,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "claude",
+        "agents"
+      ]
+    },
+    {
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-17T13:46:16+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-17T13:38:33+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "google"
+      ]
+    },
+    {
+      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+      "source": "The Verge AI",
+      "published": "2026-09-17T10:00:00-04:00",
+      "score": 7,
+      "matched": [
+        "anthropic",
+        "regulation",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "AI is feared globally as the destroyer of jobs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+      "source": "The Verge AI",
+      "published": "2026-09-17T10:00:00-04:00",
+      "score": 2,
+      "matched": [
+        "jobs"
+      ]
+    },
+    {
+      "title": "Inside the suddenly explosive world of AI safety",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+      "source": "The Verge AI",
+      "published": "2026-09-17T07:30:00-04:00",
+      "score": 2,
+      "matched": [
+        "openai"
+      ]
+    },
     {
       "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
@@ -14,27 +206,14 @@
       ]
     },
     {
-      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "title": "An OpenAI Agent Tried to Jailbreak Itself",
       "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
       "source": "Wired AI",
       "published": "2026-09-16T22:07:24+00:00",
-      "score": 6,
+      "score": 8,
       "matched": [
-        "openai",
-        "framework"
-      ]
-    },
-    {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-16T21:07:24+00:00",
-      "score": 10,
-      "matched": [
-        "anthropic",
-        "openai",
-        "regulation",
-        "transparency"
+        "ai agent",
+        "openai"
       ]
     },
     {
@@ -45,52 +224,6 @@
       "score": 2,
       "matched": [
         "gemini"
-      ]
-    },
-    {
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-16T18:25:25+00:00",
-      "score": 3,
-      "matched": [
-        "audit",
-        "agents"
-      ]
-    },
-    {
-      "title": "Your AI agents can now control your Google Home devices",
-      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-16T17:00:00+00:00",
-      "score": 15,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "claude",
-        "agents",
-        "google"
-      ]
-    },
-    {
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-16T16:30:00+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-16T15:00:00+00:00",
-      "score": 2,
-      "matched": [
-        "chatgpt"
       ]
     },
     {
@@ -108,72 +241,11 @@
       ]
     },
     {
-      "title": "Claude comes for Gemini with its own take on Docs and Slides",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-      "source": "The Verge AI",
-      "published": "2026-09-16T12:30:00-04:00",
-      "score": 11,
-      "matched": [
-        "anthropic",
-        "claude",
-        "gemini",
-        "productivity"
-      ]
-    },
-    {
       "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
       "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
       "source": "MIT Tech Review",
       "published": "2026-09-16T12:10:00+00:00",
       "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "A brief history of AI executives calling for regulation",
-      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "source": "The Verge AI",
-      "published": "2026-09-16T08:00:00-04:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "openai",
-        "regulation",
-        "microsoft",
-        "google"
-      ]
-    },
-    {
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-16T00:20:39+00:00",
-      "score": 2,
-      "matched": [
-        "regulation"
-      ]
-    },
-    {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-15T20:12:53+00:00",
-      "score": 13,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "claude",
-        "agents",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-15T19:00:00+00:00",
-      "score": 2,
       "matched": [
         "openai"
       ]
@@ -196,27 +268,6 @@
       "score": 4,
       "matched": [
         "openai"
-      ]
-    },
-    {
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "source": "MIT Tech Review",
-      "published": "2026-09-14T17:54:22+00:00",
-      "score": 2,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-      "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-      "source": "Wired AI",
-      "published": "2026-09-14T11:00:00+00:00",
-      "score": 3,
-      "matched": [
-        "anthropic",
-        "regulation"
       ]
     }
   ],
