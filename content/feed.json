@@ -1,6 +1,125 @@
 {
-  "updated": "2026-09-18T09:57:50.445340+00:00",
+  "updated": "2026-09-19T09:39:43.057996+00:00",
   "items": [
+    {
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-18T23:13:31+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-18T21:44:33+00:00",
+      "score": 10,
+      "matched": [
+        "anthropic",
+        "accenture",
+        "consulting"
+      ]
+    },
+    {
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-18T18:49:30+00:00",
+      "score": 2,
+      "matched": [
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-18T17:33:50+00:00",
+      "score": 6,
+      "matched": [
+        "ai agent",
+        "google"
+      ]
+    },
+    {
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-18T17:09:56+00:00",
+      "score": 2,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "source": "The Verge AI",
+      "published": "2026-09-18T17:07:24-04:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+      "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-18T17:06:32+00:00",
+      "score": 2,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+      "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+      "source": "Wired AI",
+      "published": "2026-09-18T15:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-18T14:00:14+00:00",
+      "score": 12,
+      "matched": [
+        "anthropic",
+        "claude",
+        "openai"
+      ]
+    },
+    {
+      "title": "Researchers used Claude to hack OpenAI",
+      "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "source": "Ars Technica",
+      "published": "2026-09-18T13:30:12+00:00",
+      "score": 8,
+      "matched": [
+        "claude",
+        "openai"
+      ]
+    },
+    {
+      "title": "Security researchers used Claude to help them hack into OpenAI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+      "source": "The Verge AI",
+      "published": "2026-09-18T11:30:16-04:00",
+      "score": 10,
+      "matched": [
+        "anthropic",
+        "claude",
+        "openai"
+      ]
+    },
     {
       "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
       "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
@@ -23,28 +142,6 @@
       ]
     },
     {
-      "title": "The fix for rogue AI agents could be more AI",
-      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-17T20:34:47+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-17T20:34:24+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
       "title": "Google announces new experimental \"CC\" AI agent for families",
       "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
       "source": "Ars Technica",
@@ -64,41 +161,6 @@
       "matched": [
         "openai",
         "microsoft"
-      ]
-    },
-    {
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-17T20:00:00+00:00",
-      "score": 12,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents",
-        "google"
-      ]
-    },
-    {
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-17T19:46:08+00:00",
-      "score": 4,
-      "matched": [
-        "openai",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
-      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
-      "source": "Wired AI",
-      "published": "2026-09-17T18:42:25+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic",
-        "openai"
       ]
     },
     {
@@ -139,29 +201,6 @@
       ]
     },
     {
-      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-17T13:46:16+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-17T13:38:33+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "google"
-      ]
-    },
-    {
       "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
       "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
       "source": "The Verge AI",
@@ -184,63 +223,6 @@
       ]
     },
     {
-      "title": "Inside the suddenly explosive world of AI safety",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-      "source": "The Verge AI",
-      "published": "2026-09-17T07:30:00-04:00",
-      "score": 2,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-17T03:30:00+00:00",
-      "score": 7,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "An OpenAI Agent Tried to Jailbreak Itself",
-      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
-      "source": "Wired AI",
-      "published": "2026-09-16T22:07:24+00:00",
-      "score": 8,
-      "matched": [
-        "ai agent",
-        "openai"
-      ]
-    },
-    {
-      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "source": "The Verge AI",
-      "published": "2026-09-16T19:40:00-04:00",
-      "score": 2,
-      "matched": [
-        "gemini"
-      ]
-    },
-    {
-      "title": "Google will now let any AI agent run your smart home",
-      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "source": "The Verge AI",
-      "published": "2026-09-16T13:00:00-04:00",
-      "score": 11,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "claude",
-        "agents",
-        "google"
-      ]
-    },
-    {
       "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
       "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
       "source": "MIT Tech Review",
@@ -258,16 +240,6 @@
       "score": 2,
       "matched": [
         "agents"
-      ]
-    },
-    {
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "source": "MIT Tech Review",
-      "published": "2026-09-15T12:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
       ]
     }
   ],
