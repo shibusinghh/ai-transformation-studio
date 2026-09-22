@@ -1,8 +1,114 @@
 {
-  "updated": "2026-09-21T10:57:20.006505+00:00",
+  "updated": "2026-09-22T10:11:11.644085+00:00",
   "items": [
     {
-      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-21T20:15:58+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-21T19:19:21+00:00",
+      "score": 4,
+      "matched": [
+        "ai agent",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-21T17:55:18+00:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "source": "Ars Technica",
+      "published": "2026-09-21T16:57:26+00:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-21T15:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "benchmark"
+      ]
+    },
+    {
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-21T14:39:22+00:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-21T14:30:00+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
+      "link": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
+      "source": "Ars Technica",
+      "published": "2026-09-21T13:00:11+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
+      "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
+      "source": "Wired AI",
+      "published": "2026-09-21T13:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "source": "The Verge AI",
+      "published": "2026-09-21T06:18:06-04:00",
+      "score": 7,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "Amazon blocks Meta’s Muse AI agent",
       "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
       "source": "The Verge AI",
       "published": "2026-09-21T05:21:47-04:00",
@@ -43,16 +149,6 @@
       ]
     },
     {
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-19T13:00:00+00:00",
-      "score": 2,
-      "matched": [
-        "benchmark"
-      ]
-    },
-    {
       "title": "Gemini went rogue, hacked three companies, and Google hid it",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
       "source": "The Verge AI",
@@ -62,115 +158,6 @@
         "openai",
         "gemini",
         "google"
-      ]
-    },
-    {
-      "title": "The AI regulation smackdown isn’t over",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-      "source": "The Verge AI",
-      "published": "2026-09-19T09:00:00-04:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "openai",
-        "regulation"
-      ]
-    },
-    {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-18T23:13:31+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-18T21:44:33+00:00",
-      "score": 10,
-      "matched": [
-        "anthropic",
-        "accenture",
-        "consulting"
-      ]
-    },
-    {
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-18T18:49:30+00:00",
-      "score": 2,
-      "matched": [
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "source": "The Verge AI",
-      "published": "2026-09-18T17:07:24-04:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
-      "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
-      "source": "Wired AI",
-      "published": "2026-09-18T15:00:00+00:00",
-      "score": 2,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Researchers used Claude to hack OpenAI",
-      "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "source": "Ars Technica",
-      "published": "2026-09-18T13:30:12+00:00",
-      "score": 8,
-      "matched": [
-        "claude",
-        "openai"
-      ]
-    },
-    {
-      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-      "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-      "source": "MIT Tech Review",
-      "published": "2026-09-18T09:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic",
-        "openai"
-      ]
-    },
-    {
-      "title": "Google announces new experimental \"CC\" AI agent for families",
-      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "source": "Ars Technica",
-      "published": "2026-09-17T20:24:34+00:00",
-      "score": 6,
-      "matched": [
-        "ai agent",
-        "google"
-      ]
-    },
-    {
-      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
-      "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-      "source": "Ars Technica",
-      "published": "2026-09-17T20:10:41+00:00",
-      "score": 4,
-      "matched": [
-        "openai",
-        "microsoft"
       ]
     }
   ],
