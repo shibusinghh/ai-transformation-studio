@@ -1,6 +1,176 @@
 {
-  "updated": "2026-09-22T10:11:11.644085+00:00",
+  "updated": "2026-09-23T10:11:46.660136+00:00",
   "items": [
+    {
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-22T23:21:49+00:00",
+      "score": 2,
+      "matched": [
+        "hiring"
+      ]
+    },
+    {
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "source": "Ars Technica",
+      "published": "2026-09-22T21:25:18+00:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "source": "The Verge AI",
+      "published": "2026-09-22T20:17:17-04:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "consulting"
+      ]
+    },
+    {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "source": "Ars Technica",
+      "published": "2026-09-22T19:45:47+00:00",
+      "score": 2,
+      "matched": [
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+      "source": "Ars Technica",
+      "published": "2026-09-22T19:28:23+00:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-22T18:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "source": "The Verge AI",
+      "published": "2026-09-22T16:52:40-04:00",
+      "score": 6,
+      "matched": [
+        "agentic",
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-22T16:30:07+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Rabbit Is Back, This Time With an AI Agent App",
+      "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+      "source": "Wired AI",
+      "published": "2026-09-22T16:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-22T15:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "source": "The Verge AI",
+      "published": "2026-09-22T12:34:08-04:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "openai",
+        "google"
+      ]
+    },
+    {
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "source": "The Verge AI",
+      "published": "2026-09-22T12:30:00-04:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+      "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-22T12:23:05+00:00",
+      "score": 3,
+      "matched": [
+        "anthropic",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Don’t be fooled by this summer of AI hype",
+      "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-22T11:04:51+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "claude",
+        "openai"
+      ]
+    },
+    {
+      "title": "I Built AI Clones of My Coworkers. Things Got Weird",
+      "link": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
+      "source": "Wired AI",
+      "published": "2026-09-22T10:30:00+00:00",
+      "score": 2,
+      "matched": [
+        "future of work"
+      ]
+    },
+    {
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "source": "The Verge AI",
+      "published": "2026-09-22T07:53:58-04:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
     {
       "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
       "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
@@ -44,57 +214,6 @@
       ]
     },
     {
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-21T15:00:00+00:00",
-      "score": 2,
-      "matched": [
-        "benchmark"
-      ]
-    },
-    {
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-21T14:39:22+00:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-21T14:30:00+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
-      "link": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
-      "source": "Ars Technica",
-      "published": "2026-09-21T13:00:11+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
-      "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
-      "source": "Wired AI",
-      "published": "2026-09-21T13:00:00+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
       "title": "UN says AI safeguards can’t wait for certainty",
       "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
       "source": "The Verge AI",
@@ -105,59 +224,6 @@
         "ai agents",
         "openai",
         "agents"
-      ]
-    },
-    {
-      "title": "Amazon blocks Meta’s Muse AI agent",
-      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "source": "The Verge AI",
-      "published": "2026-09-21T05:21:47-04:00",
-      "score": 4,
-      "matched": [
-        "ai agent"
-      ]
-    },
-    {
-      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-      "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-      "source": "Ars Technica",
-      "published": "2026-09-20T11:07:00+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-19T20:39:13+00:00",
-      "score": 4,
-      "matched": [
-        "workforce"
-      ]
-    },
-    {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-19T17:30:00+00:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "source": "The Verge AI",
-      "published": "2026-09-19T11:25:03-04:00",
-      "score": 8,
-      "matched": [
-        "openai",
-        "gemini",
-        "google"
       ]
     }
   ],
