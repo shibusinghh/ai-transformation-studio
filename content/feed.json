@@ -1,6 +1,169 @@
 {
-  "updated": "2026-09-23T10:11:46.660136+00:00",
+  "updated": "2026-09-24T10:20:29.085902+00:00",
   "items": [
+    {
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "source": "The Verge AI",
+      "published": "2026-09-24T05:04:18-04:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-24T01:13:32+00:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-24T00:46:17+00:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Anthropic says its biology lab has already found something big",
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-23T22:17:39+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
+      "link": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
+      "source": "Ars Technica",
+      "published": "2026-09-23T21:46:36+00:00",
+      "score": 2,
+      "matched": [
+        "employees"
+      ]
+    },
+    {
+      "title": "Meta is making a standalone Muse AI gadget",
+      "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "source": "The Verge AI",
+      "published": "2026-09-23T20:15:20-04:00",
+      "score": 2,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "source": "The Verge AI",
+      "published": "2026-09-23T19:19:42-04:00",
+      "score": 3,
+      "matched": [
+        "ai agent",
+        "agents"
+      ]
+    },
+    {
+      "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
+      "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
+      "source": "Wired AI",
+      "published": "2026-09-23T18:30:00+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-23T17:00:00+00:00",
+      "score": 6,
+      "matched": [
+        "agentic",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "source": "The Verge AI",
+      "published": "2026-09-23T15:00:00-04:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "YouTube will let you build your own algorithm with AI",
+      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-23T14:30:00+00:00",
+      "score": 2,
+      "matched": [
+        "gemini"
+      ]
+    },
+    {
+      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "source": "The Verge AI",
+      "published": "2026-09-23T14:00:00-04:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-23T12:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "enterprise",
+        "microsoft",
+        "google"
+      ]
+    },
+    {
+      "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
+      "link": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
+      "source": "Wired AI",
+      "published": "2026-09-23T10:15:00+00:00",
+      "score": 4,
+      "matched": [
+        "jobs",
+        "employees",
+        "automation"
+      ]
+    },
+    {
+      "title": "The AI Hype Index: AI loves cheating",
+      "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-23T09:00:00+00:00",
+      "score": 5,
+      "matched": [
+        "anthropic",
+        "openai",
+        "agents"
+      ]
+    },
     {
       "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
       "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
@@ -23,17 +186,6 @@
       ]
     },
     {
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "source": "The Verge AI",
-      "published": "2026-09-22T20:17:17-04:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "consulting"
-      ]
-    },
-    {
       "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
       "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
       "source": "Ars Technica",
@@ -41,17 +193,6 @@
       "score": 2,
       "matched": [
         "microsoft"
-      ]
-    },
-    {
-      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
-      "source": "Ars Technica",
-      "published": "2026-09-22T19:28:23+00:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "chatgpt"
       ]
     },
     {
@@ -65,27 +206,6 @@
       ]
     },
     {
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "source": "The Verge AI",
-      "published": "2026-09-22T16:52:40-04:00",
-      "score": 6,
-      "matched": [
-        "agentic",
-        "ai agent"
-      ]
-    },
-    {
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-22T16:30:07+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "Rabbit Is Back, This Time With an AI Agent App",
       "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
       "source": "Wired AI",
@@ -93,50 +213,6 @@
       "score": 4,
       "matched": [
         "ai agent"
-      ]
-    },
-    {
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-22T15:00:00+00:00",
-      "score": 2,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "source": "The Verge AI",
-      "published": "2026-09-22T12:34:08-04:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "openai",
-        "google"
-      ]
-    },
-    {
-      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-      "source": "The Verge AI",
-      "published": "2026-09-22T12:30:00-04:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
-      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-      "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-22T12:23:05+00:00",
-      "score": 3,
-      "matched": [
-        "anthropic",
-        "microsoft"
       ]
     },
     {
@@ -149,81 +225,6 @@
         "anthropic",
         "claude",
         "openai"
-      ]
-    },
-    {
-      "title": "I Built AI Clones of My Coworkers. Things Got Weird",
-      "link": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
-      "source": "Wired AI",
-      "published": "2026-09-22T10:30:00+00:00",
-      "score": 2,
-      "matched": [
-        "future of work"
-      ]
-    },
-    {
-      "title": "Meta patches Muse exploit that let attackers control the AI agent",
-      "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-      "source": "The Verge AI",
-      "published": "2026-09-22T07:53:58-04:00",
-      "score": 4,
-      "matched": [
-        "ai agent"
-      ]
-    },
-    {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-21T20:15:58+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-21T19:19:21+00:00",
-      "score": 4,
-      "matched": [
-        "ai agent",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-21T17:55:18+00:00",
-      "score": 4,
-      "matched": [
-        "ai agent"
-      ]
-    },
-    {
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "source": "Ars Technica",
-      "published": "2026-09-21T16:57:26+00:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "UN says AI safeguards can’t wait for certainty",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "source": "The Verge AI",
-      "published": "2026-09-21T06:18:06-04:00",
-      "score": 7,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "agents"
       ]
     }
   ],
