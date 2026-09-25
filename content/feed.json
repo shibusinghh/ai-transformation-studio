@@ -1,14 +1,162 @@
 {
-  "updated": "2026-09-24T10:20:29.085902+00:00",
+  "updated": "2026-09-25T10:23:53.511389+00:00",
   "items": [
     {
-      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-      "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-      "source": "The Verge AI",
-      "published": "2026-09-24T05:04:18-04:00",
+      "title": "I Think I Found an AI Agent Worth the Risk",
+      "link": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+      "source": "Wired AI",
+      "published": "2026-09-24T19:36:35+00:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-24T17:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Google's first Suncatcher orbital data center test launches October 1",
+      "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+      "source": "Ars Technica",
+      "published": "2026-09-24T16:16:34+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+      "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+      "source": "Ars Technica",
+      "published": "2026-09-24T16:01:16+00:00",
+      "score": 8,
+      "matched": [
+        "ai agent",
+        "openai"
+      ]
+    },
+    {
+      "title": "Google tests letting Gemini call businesses for you",
+      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-24T16:00:00+00:00",
       "score": 6,
       "matched": [
         "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+      "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+      "source": "Wired AI",
+      "published": "2026-09-24T16:00:00+00:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "source": "The Verge AI",
+      "published": "2026-09-24T15:59:26-04:00",
+      "score": 7,
+      "matched": [
+        "gemini",
+        "enterprise",
+        "google"
+      ]
+    },
+    {
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-24T14:31:00+00:00",
+      "score": 2,
+      "matched": [
+        "agents"
+      ]
+    },
+    {
+      "title": "Muse sure looks a lot like OpenClaw",
+      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "source": "The Verge AI",
+      "published": "2026-09-24T13:10:38-04:00",
+      "score": 2,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
+      "link": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+      "source": "The Verge AI",
+      "published": "2026-09-24T13:00:00-04:00",
+      "score": 2,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-24T12:54:19+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "source": "The Verge AI",
+      "published": "2026-09-24T12:04:31-04:00",
+      "score": 5,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+      "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+      "source": "Wired AI",
+      "published": "2026-09-24T10:46:56+00:00",
+      "score": 8,
+      "matched": [
+        "ai agent",
+        "openai"
+      ]
+    },
+    {
+      "title": "Why can’t we just keep rogue AIs off the internet?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+      "source": "The Verge AI",
+      "published": "2026-09-24T10:30:00-04:00",
+      "score": 5,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Google is sending an AI satellite into space next week",
+      "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+      "source": "The Verge AI",
+      "published": "2026-09-24T10:15:17-04:00",
+      "score": 2,
+      "matched": [
         "google"
       ]
     },
@@ -54,27 +202,6 @@
       ]
     },
     {
-      "title": "Meta is making a standalone Muse AI gadget",
-      "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-      "source": "The Verge AI",
-      "published": "2026-09-23T20:15:20-04:00",
-      "score": 2,
-      "matched": [
-        "ai agent"
-      ]
-    },
-    {
-      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "source": "The Verge AI",
-      "published": "2026-09-23T19:19:42-04:00",
-      "score": 3,
-      "matched": [
-        "ai agent",
-        "agents"
-      ]
-    },
-    {
       "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
       "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
       "source": "Wired AI",
@@ -84,60 +211,6 @@
         "ai agent",
         "ai agents",
         "agents"
-      ]
-    },
-    {
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-23T17:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "agentic",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-      "source": "The Verge AI",
-      "published": "2026-09-23T15:00:00-04:00",
-      "score": 4,
-      "matched": [
-        "ai agent"
-      ]
-    },
-    {
-      "title": "YouTube will let you build your own algorithm with AI",
-      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-23T14:30:00+00:00",
-      "score": 2,
-      "matched": [
-        "gemini"
-      ]
-    },
-    {
-      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-      "source": "The Verge AI",
-      "published": "2026-09-23T14:00:00-04:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
-      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-      "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "enterprise",
-        "microsoft",
-        "google"
       ]
     },
     {
@@ -162,69 +235,6 @@
         "anthropic",
         "openai",
         "agents"
-      ]
-    },
-    {
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-22T23:21:49+00:00",
-      "score": 2,
-      "matched": [
-        "hiring"
-      ]
-    },
-    {
-      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-      "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "source": "Ars Technica",
-      "published": "2026-09-22T21:25:18+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "openai"
-      ]
-    },
-    {
-      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-      "source": "Ars Technica",
-      "published": "2026-09-22T19:45:47+00:00",
-      "score": 2,
-      "matched": [
-        "microsoft"
-      ]
-    },
-    {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-22T18:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Rabbit Is Back, This Time With an AI Agent App",
-      "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
-      "source": "Wired AI",
-      "published": "2026-09-22T16:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "ai agent"
-      ]
-    },
-    {
-      "title": "Don’t be fooled by this summer of AI hype",
-      "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "source": "MIT Tech Review",
-      "published": "2026-09-22T11:04:51+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "claude",
-        "openai"
       ]
     }
   ],
