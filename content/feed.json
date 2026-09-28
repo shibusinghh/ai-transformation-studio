@@ -1,6 +1,87 @@
 {
-  "updated": "2026-09-27T10:39:40.187676+00:00",
+  "updated": "2026-09-28T11:52:19.034229+00:00",
   "items": [
+    {
+      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+      "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+      "source": "Wired AI",
+      "published": "2026-09-28T11:32:19+00:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+      "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+      "source": "Wired AI",
+      "published": "2026-09-28T10:00:00+00:00",
+      "score": 14,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "workforce",
+        "agents"
+      ]
+    },
+    {
+      "title": "Who’s liable when AI agents go rogue?",
+      "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-28T08:06:22+00:00",
+      "score": 12,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-27T20:34:28+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-27T19:57:30+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-27T16:30:00+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "source": "The Verge AI",
+      "published": "2026-09-27T13:21:07-04:00",
+      "score": 14,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
     {
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
       "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
@@ -45,16 +126,6 @@
       "matched": [
         "anthropic",
         "claude"
-      ]
-    },
-    {
-      "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
-      "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-      "source": "Ars Technica",
-      "published": "2026-09-25T19:38:59+00:00",
-      "score": 2,
-      "matched": [
-        "google"
       ]
     },
     {
@@ -141,17 +212,6 @@
       ]
     },
     {
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-25T14:15:00+00:00",
-      "score": 8,
-      "matched": [
-        "layoff",
-        "layoffs"
-      ]
-    },
-    {
       "title": "One company is at the center of a wave of rogue AI attacks",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
       "source": "The Verge AI",
@@ -219,29 +279,6 @@
         "gemini",
         "enterprise",
         "google"
-      ]
-    },
-    {
-      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
-      "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
-      "source": "Wired AI",
-      "published": "2026-09-24T10:46:56+00:00",
-      "score": 8,
-      "matched": [
-        "ai agent",
-        "openai"
-      ]
-    },
-    {
-      "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-      "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
-      "source": "Wired AI",
-      "published": "2026-09-23T18:30:00+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
       ]
     }
   ],
