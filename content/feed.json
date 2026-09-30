@@ -1,6 +1,172 @@
 {
-  "updated": "2026-09-29T11:28:42.281619+00:00",
+  "updated": "2026-09-30T11:16:38.083451+00:00",
   "items": [
+    {
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T22:20:59+00:00",
+      "score": 6,
+      "matched": [
+        "ai agent",
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T20:15:47+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+      "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+      "source": "Wired AI",
+      "published": "2026-09-29T19:05:00+00:00",
+      "score": 5,
+      "matched": [
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T18:35:00+00:00",
+      "score": 14,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T17:45:51+00:00",
+      "score": 8,
+      "matched": [
+        "openai",
+        "microsoft",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T17:17:15+00:00",
+      "score": 8,
+      "matched": [
+        "agentic",
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+      "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+      "source": "Wired AI",
+      "published": "2026-09-29T17:15:00+00:00",
+      "score": 14,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T17:15:00+00:00",
+      "score": 8,
+      "matched": [
+        "openai",
+        "automation",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+      "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+      "source": "Ars Technica",
+      "published": "2026-09-29T14:10:00+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+      "source": "The Verge AI",
+      "published": "2026-09-29T13:35:03-04:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "openai",
+        "employees",
+        "google"
+      ]
+    },
+    {
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "source": "The Verge AI",
+      "published": "2026-09-29T13:15:00-04:00",
+      "score": 6,
+      "matched": [
+        "agentic",
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T12:45:05+00:00",
+      "score": 14,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents"
+      ]
+    },
+    {
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T12:30:00+00:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "OpenAI DevDay 2026: The biggest news and announcements",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+      "source": "The Verge AI",
+      "published": "2026-09-29T12:00:00-04:00",
+      "score": 6,
+      "matched": [
+        "ai agent",
+        "openai"
+      ]
+    },
     {
       "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
       "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
@@ -9,6 +175,28 @@
       "score": 4,
       "matched": [
         "openai"
+      ]
+    },
+    {
+      "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "source": "The Verge AI",
+      "published": "2026-09-29T10:08:21-04:00",
+      "score": 6,
+      "matched": [
+        "ai agent",
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "source": "The Verge AI",
+      "published": "2026-09-29T07:48:27-04:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
       ]
     },
     {
@@ -42,65 +230,6 @@
       ]
     },
     {
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-28T19:33:57+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-28T18:31:23+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-28T18:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-28T17:29:50+00:00",
-      "score": 11,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "gemini",
-        "agents",
-        "google"
-      ]
-    },
-    {
-      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-28T17:09:02+00:00",
-      "score": 8,
-      "matched": [
-        "openai",
-        "ai act"
-      ]
-    },
-    {
       "title": "When can we say AI made a scientific discovery?",
       "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
       "source": "MIT Tech Review",
@@ -110,71 +239,6 @@
         "anthropic",
         "claude",
         "agents"
-      ]
-    },
-    {
-      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-      "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
-      "source": "Ars Technica",
-      "published": "2026-09-28T16:43:18+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-28T15:30:00+00:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "OpenAI’s AI agents need to catch up",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "source": "The Verge AI",
-      "published": "2026-09-28T14:45:00-04:00",
-      "score": 14,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-28T13:38:48+00:00",
-      "score": 4,
-      "matched": [
-        "ai agent"
-      ]
-    },
-    {
-      "title": "Florida seeks a ban on ChatGPT acting like a person",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-      "source": "The Verge AI",
-      "published": "2026-09-28T13:00:23-04:00",
-      "score": 4,
-      "matched": [
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "OpenAI keeps bulldozing mathematicians",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-      "source": "The Verge AI",
-      "published": "2026-09-28T13:00:00-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
       ]
     },
     {
@@ -215,18 +279,6 @@
       ]
     },
     {
-      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-      "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-      "source": "The Verge AI",
-      "published": "2026-09-28T09:36:06-04:00",
-      "score": 6,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
       "title": "Who’s liable when AI agents go rogue?",
       "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
       "source": "MIT Tech Review",
@@ -237,50 +289,6 @@
         "ai agents",
         "openai",
         "agents"
-      ]
-    },
-    {
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-27T20:34:28+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-      "source": "The Verge AI",
-      "published": "2026-09-27T13:21:07-04:00",
-      "score": 14,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-      "source": "Ars Technica",
-      "published": "2026-09-25T21:36:20+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
-      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-      "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
-      "source": "Wired AI",
-      "published": "2026-09-25T16:58:20+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
       ]
     }
   ],
