@@ -1,6 +1,118 @@
 {
-  "updated": "2026-10-01T11:44:08.860969+00:00",
+  "updated": "2026-10-02T11:13:59.116895+00:00",
   "items": [
+    {
+      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "source": "Wired AI",
+      "published": "2026-10-02T09:45:00+00:00",
+      "score": 7,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
+      "source": "Wired AI",
+      "published": "2026-10-01T19:58:31+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-01T19:21:53+00:00",
+      "score": 4,
+      "matched": [
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-01T18:14:42+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "source": "The Verge AI",
+      "published": "2026-10-01T15:47:51-04:00",
+      "score": 4,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-01T15:12:00+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-01T14:00:00+00:00",
+      "score": 6,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "source": "The Verge AI",
+      "published": "2026-10-01T13:12:21-04:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-01T12:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "source": "The Verge AI",
+      "published": "2026-10-01T10:36:50-04:00",
+      "score": 6,
+      "matched": [
+        "ai agent",
+        "openai"
+      ]
+    },
     {
       "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
       "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
@@ -70,6 +182,16 @@
       ]
     },
     {
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-30T16:24:23+00:00",
+      "score": 2,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
       "title": "DoorDash launches an AI agent you can text to order food",
       "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
       "source": "TechCrunch AI",
@@ -80,23 +202,11 @@
       ]
     },
     {
-      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-30T14:27:11+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "OpenAI delays IPO over AI safety concerns",
-      "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
-      "source": "Ars Technica",
-      "published": "2026-09-30T14:06:15+00:00",
-      "score": 4,
+      "title": "The AI Tamagotchis are coming",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "source": "The Verge AI",
+      "published": "2026-09-30T14:07:38-04:00",
+      "score": 2,
       "matched": [
         "openai"
       ]
@@ -134,70 +244,12 @@
       ]
     },
     {
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-29T22:20:59+00:00",
-      "score": 6,
-      "matched": [
-        "ai agent",
-        "openai"
-      ]
-    },
-    {
-      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-      "source": "The Verge AI",
-      "published": "2026-09-29T20:19:13-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-29T20:15:47+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "agents",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-29T19:52:37+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
       "title": "OpenAI Gets Sued Over the Hugging Face Hack",
       "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
       "source": "Wired AI",
       "published": "2026-09-29T19:05:00+00:00",
       "score": 5,
       "matched": [
-        "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-29T18:35:00+00:00",
-      "score": 14,
-      "matched": [
-        "ai agent",
-        "ai agents",
         "openai",
         "agents"
       ]
@@ -222,65 +274,6 @@
         "ai agent",
         "ai agents",
         "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
-      "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
-      "source": "Wired AI",
-      "published": "2026-09-29T10:36:22+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "When can we say AI made a scientific discovery?",
-      "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "source": "MIT Tech Review",
-      "published": "2026-09-28T17:03:16+00:00",
-      "score": 5,
-      "matched": [
-        "anthropic",
-        "claude",
-        "agents"
-      ]
-    },
-    {
-      "title": "The Download: rogue agent liability and the AI Hype Index",
-      "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-      "source": "MIT Tech Review",
-      "published": "2026-09-28T12:10:00+00:00",
-      "score": 7,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-      "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-      "source": "Wired AI",
-      "published": "2026-09-28T11:32:19+00:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-      "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-      "source": "Wired AI",
-      "published": "2026-09-28T10:00:00+00:00",
-      "score": 14,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "workforce",
         "agents"
       ]
     }
