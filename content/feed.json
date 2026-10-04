@@ -1,6 +1,48 @@
 {
-  "updated": "2026-10-03T10:31:05.840864+00:00",
+  "updated": "2026-10-04T11:12:23.430781+00:00",
   "items": [
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-03T16:30:01+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "All the AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-03T14:00:00+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "source": "Wired AI",
+      "published": "2026-10-03T12:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "source": "The Verge AI",
+      "published": "2026-10-03T10:31:56-04:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
     {
       "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
       "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
@@ -169,98 +211,10 @@
       ]
     },
     {
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-01T16:44:35+00:00",
-      "score": 2,
-      "matched": [
-        "ai agent"
-      ]
-    },
-    {
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "source": "The Verge AI",
-      "published": "2026-10-01T15:47:51-04:00",
-      "score": 4,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-01T15:12:00+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-01T14:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-      "source": "The Verge AI",
-      "published": "2026-10-01T13:12:21-04:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "The Battle to Be Your Personal AI Agent Is Here",
-      "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
-      "source": "Wired AI",
-      "published": "2026-09-30T19:30:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai agent",
-        "openai"
-      ]
-    },
-    {
       "title": "The Download: OpenAI’s chief research officer explains its hacking response",
       "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
       "source": "MIT Tech Review",
       "published": "2026-09-30T12:10:00+00:00",
-      "score": 5,
-      "matched": [
-        "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "source": "MIT Tech Review",
-      "published": "2026-09-30T10:40:30+00:00",
-      "score": 5,
-      "matched": [
-        "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
-      "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-      "source": "Wired AI",
-      "published": "2026-09-29T19:05:00+00:00",
       "score": 5,
       "matched": [
         "openai",
