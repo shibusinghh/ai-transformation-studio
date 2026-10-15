@@ -1,6 +1,145 @@
 {
-  "updated": "2026-10-14T10:26:09.646742+00:00",
+  "updated": "2026-10-15T10:10:20.047538+00:00",
   "items": [
+    {
+      "title": "Figma announces new features to define how agents work on its platform",
+      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T04:30:00+00:00",
+      "score": 2,
+      "matched": [
+        "agents"
+      ]
+    },
+    {
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "source": "The Verge AI",
+      "published": "2026-10-14T18:53:31-04:00",
+      "score": 6,
+      "matched": [
+        "mckinsey",
+        "consulting"
+      ]
+    },
+    {
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-14T18:00:00+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "source": "The Verge AI",
+      "published": "2026-10-14T17:11:28-04:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+      "source": "Ars Technica",
+      "published": "2026-10-14T16:41:49+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "The AI race is back on",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "source": "The Verge AI",
+      "published": "2026-10-14T15:06:03-04:00",
+      "score": 5,
+      "matched": [
+        "anthropic",
+        "openai",
+        "google"
+      ]
+    },
+    {
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-14T15:00:00+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "source": "Ars Technica",
+      "published": "2026-10-14T12:55:06+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "source": "The Verge AI",
+      "published": "2026-10-14T12:43:24-04:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "source": "The Verge AI",
+      "published": "2026-10-14T12:05:21-04:00",
+      "score": 2,
+      "matched": [
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Square’s new kiosk lets you talk to AI for help with your order",
+      "link": "https://www.theverge.com/tech/1009086/square-kiosk",
+      "source": "The Verge AI",
+      "published": "2026-10-14T12:00:00-04:00",
+      "score": 2,
+      "matched": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Android is using AI to suss out scammers in Google Messages",
+      "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+      "source": "The Verge AI",
+      "published": "2026-10-14T12:00:00-04:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "source": "Ars Technica",
+      "published": "2026-10-14T11:00:30+00:00",
+      "score": 6,
+      "matched": [
+        "openai",
+        "google"
+      ]
+    },
     {
       "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
       "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
@@ -48,113 +187,6 @@
       ]
     },
     {
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-13T17:18:25+00:00",
-      "score": 2,
-      "matched": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Google wants to host your personal vibe-coded apps in the Play Store",
-      "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
-      "source": "Ars Technica",
-      "published": "2026-10-13T17:00:39+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-      "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-13T17:00:00+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-      "source": "The Verge AI",
-      "published": "2026-10-13T16:45:25-04:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-      "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-13T16:30:00+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-      "link": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
-      "source": "Ars Technica",
-      "published": "2026-10-13T16:00:02+00:00",
-      "score": 4,
-      "matched": [
-        "gemini"
-      ]
-    },
-    {
-      "title": "Shopify opens its catalog up to more AI agents",
-      "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-      "source": "The Verge AI",
-      "published": "2026-10-13T15:42:42-04:00",
-      "score": 12,
-      "matched": [
-        "agentic",
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Google makes it easier to launch your vibe-coded apps",
-      "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-      "source": "The Verge AI",
-      "published": "2026-10-13T13:00:00-04:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-      "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-13T13:00:00+00:00",
-      "score": 12,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "framework",
-        "agents"
-      ]
-    },
-    {
-      "title": "Google finally releases Gemini 4 Argon",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-      "source": "The Verge AI",
-      "published": "2026-10-13T12:00:00-04:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
       "title": "The Download: open model trade-offs and geothermal power’s promise",
       "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
       "source": "MIT Tech Review",
@@ -165,17 +197,6 @@
       ]
     },
     {
-      "title": "Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game",
-      "link": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
-      "source": "The Verge AI",
-      "published": "2026-10-13T11:12:59-04:00",
-      "score": 4,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
       "title": "Open models have real benefits. Do they outweigh the risks?",
       "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
       "source": "MIT Tech Review",
@@ -183,48 +204,6 @@
       "score": 2,
       "matched": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "source": "Ars Technica",
-      "published": "2026-10-12T18:21:36+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-12T15:45:00+00:00",
-      "score": 2,
-      "matched": [
-        "ai act"
-      ]
-    },
-    {
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-12T15:31:19+00:00",
-      "score": 4,
-      "matched": [
-        "regulation",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "I Made Terrible Games With Google’s AI Playground",
-      "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-      "source": "Wired AI",
-      "published": "2026-10-11T11:30:00+00:00",
-      "score": 2,
-      "matched": [
-        "google"
       ]
     }
   ],
