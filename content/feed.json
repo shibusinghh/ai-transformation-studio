@@ -1,6 +1,81 @@
 {
-  "updated": "2026-10-16T10:01:22.772564+00:00",
+  "updated": "2026-10-17T09:34:46.163357+00:00",
   "items": [
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-16T21:22:28+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "source": "Ars Technica",
+      "published": "2026-10-16T20:59:01+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-16T17:52:24+00:00",
+      "score": 5,
+      "matched": [
+        "ai agent",
+        "agents"
+      ]
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-16T16:30:00+00:00",
+      "score": 2,
+      "matched": [
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-16T12:55:09+00:00",
+      "score": 9,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "future of work",
+        "agents"
+      ]
+    },
+    {
+      "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
+      "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
+      "source": "Ars Technica",
+      "published": "2026-10-16T12:00:05+00:00",
+      "score": 2,
+      "matched": [
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Googlebook review: Android on a laptop is still Android",
+      "link": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
+      "source": "Ars Technica",
+      "published": "2026-10-16T10:00:32+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
     {
       "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
       "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
@@ -32,17 +107,6 @@
       "matched": [
         "openai",
         "google"
-      ]
-    },
-    {
-      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-      "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-      "source": "Ars Technica",
-      "published": "2026-10-15T15:43:24+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "openai"
       ]
     },
     {
@@ -88,51 +152,6 @@
       "score": 2,
       "matched": [
         "agents"
-      ]
-    },
-    {
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-14T18:00:00+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-14T15:00:00+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-      "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
-      "source": "Wired AI",
-      "published": "2026-10-13T23:17:59+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-      "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-      "source": "Wired AI",
-      "published": "2026-10-13T19:35:29+00:00",
-      "score": 8,
-      "matched": [
-        "anthropic",
-        "openai"
       ]
     }
   ],
