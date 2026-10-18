@@ -1,15 +1,41 @@
 {
-  "updated": "2026-10-17T09:34:46.163357+00:00",
+  "updated": "2026-10-18T09:46:35.563123+00:00",
   "items": [
     {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
       "source": "TechCrunch AI",
-      "published": "2026-10-16T21:22:28+00:00",
-      "score": 6,
+      "published": "2026-10-17T20:21:19+00:00",
+      "score": 8,
+      "matched": [
+        "workforce",
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-17T18:48:08+00:00",
+      "score": 10,
       "matched": [
         "anthropic",
+        "claude",
         "openai"
+      ]
+    },
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "The Verge AI",
+      "published": "2026-10-17T09:00:00-04:00",
+      "score": 13,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents",
+        "google"
       ]
     },
     {
@@ -130,28 +156,6 @@
       "matched": [
         "gemini",
         "google"
-      ]
-    },
-    {
-      "title": "Friends don&#8217;t let friends feed their data to AI agents",
-      "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-      "source": "The Verge AI",
-      "published": "2026-10-15T12:21:45-04:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Figma announces new features to define how agents work on its platform",
-      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-15T04:30:00+00:00",
-      "score": 2,
-      "matched": [
-        "agents"
       ]
     }
   ],
