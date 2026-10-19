@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-18T09:46:35.563123+00:00",
+  "updated": "2026-10-19T11:03:16.278350+00:00",
   "items": [
+    {
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-19T09:08:05+00:00",
+      "score": 9,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "claude",
+        "agents"
+      ]
+    },
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-18T20:37:40+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-18T16:30:00+00:00",
+      "score": 6,
+      "matched": [
+        "workforce",
+        "jobs",
+        "employees"
+      ]
+    },
+    {
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "source": "Ars Technica",
+      "published": "2026-10-18T16:25:19+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "source": "Wired AI",
+      "published": "2026-10-18T10:30:00+00:00",
+      "score": 2,
+      "matched": [
+        "ai agent"
+      ]
+    },
     {
       "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
       "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
@@ -145,17 +200,6 @@
         "ai agent",
         "ai agents",
         "agents"
-      ]
-    },
-    {
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-15T14:29:33+00:00",
-      "score": 4,
-      "matched": [
-        "gemini",
-        "google"
       ]
     }
   ],
