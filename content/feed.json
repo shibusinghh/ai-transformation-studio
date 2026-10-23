@@ -1,6 +1,203 @@
 {
-  "updated": "2026-10-22T10:25:04.978983+00:00",
+  "updated": "2026-10-23T10:22:00.453514+00:00",
   "items": [
+    {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-23T00:45:37+00:00",
+      "score": 11,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents",
+        "jobs"
+      ]
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T22:08:24+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Designing an AI serving harness built to last",
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-22T21:17:29+00:00",
+      "score": 4,
+      "matched": [
+        "enterprise ai",
+        "benchmark",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+      "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+      "source": "Ars Technica",
+      "published": "2026-10-22T21:07:09+00:00",
+      "score": 5,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T19:07:09+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T19:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "The Foundations of Scalable AI",
+      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-22T18:48:04+00:00",
+      "score": 5,
+      "matched": [
+        "agentic",
+        "operating model",
+        "governance"
+      ]
+    },
+    {
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T18:43:53+00:00",
+      "score": 2,
+      "matched": [
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "source": "The Verge AI",
+      "published": "2026-10-22T17:51:25-04:00",
+      "score": 4,
+      "matched": [
+        "openai",
+        "microsoft",
+        "google"
+      ]
+    },
+    {
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T16:47:17+00:00",
+      "score": 6,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T16:00:00+00:00",
+      "score": 5,
+      "matched": [
+        "enterprise",
+        "employees",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T15:03:58+00:00",
+      "score": 6,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Discord now formats Markdown previews right",
+      "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "source": "The Verge AI",
+      "published": "2026-10-22T14:58:19-04:00",
+      "score": 5,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "source": "The Verge AI",
+      "published": "2026-10-22T14:15:00-04:00",
+      "score": 5,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "source": "The Verge AI",
+      "published": "2026-10-22T14:00:00-04:00",
+      "score": 2,
+      "matched": [
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T13:53:26+00:00",
+      "score": 10,
+      "matched": [
+        "anthropic",
+        "claude",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "source": "The Verge AI",
+      "published": "2026-10-22T11:50:30-04:00",
+      "score": 8,
+      "matched": [
+        "anthropic",
+        "openai"
+      ]
+    },
     {
       "title": "Making the case for context-aware AI",
       "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
@@ -9,16 +206,6 @@
       "score": 3,
       "matched": [
         "enterprise ai",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
-      "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
-      "source": "Ars Technica",
-      "published": "2026-10-21T21:48:52+00:00",
-      "score": 2,
-      "matched": [
         "enterprise"
       ]
     },
@@ -35,17 +222,6 @@
       ]
     },
     {
-      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-      "source": "Ars Technica",
-      "published": "2026-10-21T18:51:42+00:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "google"
-      ]
-    },
-    {
       "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
       "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
       "source": "TechCrunch AI",
@@ -54,31 +230,6 @@
       "matched": [
         "openai",
         "google"
-      ]
-    },
-    {
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "source": "The Verge AI",
-      "published": "2026-10-21T15:53:20-04:00",
-      "score": 14,
-      "matched": [
-        "ai agent",
-        "anthropic",
-        "claude",
-        "openai"
-      ]
-    },
-    {
-      "title": "Walmart is inviting AI agents to shop for you",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "source": "The Verge AI",
-      "published": "2026-10-21T15:30:00-04:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
       ]
     },
     {
@@ -91,153 +242,6 @@
         "agentic",
         "anthropic",
         "claude"
-      ]
-    },
-    {
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-21T14:00:00+00:00",
-      "score": 3,
-      "matched": [
-        "productivity",
-        "employees"
-      ]
-    },
-    {
-      "title": "Conversational Gemini navigation comes to Apple CarPlay",
-      "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-      "source": "The Verge AI",
-      "published": "2026-10-21T11:00:00-04:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "rollout",
-        "google"
-      ]
-    },
-    {
-      "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
-      "link": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
-      "source": "Wired AI",
-      "published": "2026-10-21T10:30:00+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "source": "The Verge AI",
-      "published": "2026-10-21T09:57:43-04:00",
-      "score": 11,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "openai",
-        "agents"
-      ]
-    },
-    {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T23:01:23+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T22:24:02+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T21:25:22+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
-      "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
-      "source": "Ars Technica",
-      "published": "2026-10-20T21:14:33+00:00",
-      "score": 2,
-      "matched": [
-        "microsoft"
-      ]
-    },
-    {
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T20:35:10+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-      "source": "The Verge AI",
-      "published": "2026-10-20T19:04:19-04:00",
-      "score": 2,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T18:38:24+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "ChatGPT now lets you lock your chats",
-      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T18:36:53+00:00",
-      "score": 2,
-      "matched": [
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "source": "The Verge AI",
-      "published": "2026-10-20T18:11:34-04:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T17:55:12+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
       ]
     }
   ],
