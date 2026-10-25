@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-24T09:42:39.568659+00:00",
+  "updated": "2026-10-25T09:59:18.805589+00:00",
   "items": [
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-24T19:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-24T15:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-24T14:00:00+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
     {
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
       "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
