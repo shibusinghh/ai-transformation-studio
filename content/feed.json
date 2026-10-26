@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-25T09:59:18.805589+00:00",
+  "updated": "2026-10-26T11:21:59.865598+00:00",
   "items": [
+    {
+      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+      "link": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+      "source": "Wired AI",
+      "published": "2026-10-26T09:30:00+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Google’s AI search changes upended online publishing",
+      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "source": "The Verge AI",
+      "published": "2026-10-25T08:00:00-04:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -175,18 +197,6 @@
       ]
     },
     {
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "source": "The Verge AI",
-      "published": "2026-10-22T17:51:25-04:00",
-      "score": 4,
-      "matched": [
-        "openai",
-        "microsoft",
-        "google"
-      ]
-    },
-    {
       "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
       "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
       "source": "TechCrunch AI",
@@ -221,41 +231,6 @@
         "ai agent",
         "ai agents",
         "agents"
-      ]
-    },
-    {
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-22T13:53:26+00:00",
-      "score": 10,
-      "matched": [
-        "anthropic",
-        "claude",
-        "agents"
-      ]
-    },
-    {
-      "title": "Making the case for context-aware AI",
-      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "source": "MIT Tech Review",
-      "published": "2026-10-22T10:00:00+00:00",
-      "score": 3,
-      "matched": [
-        "enterprise ai",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
-      "link": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-      "source": "Wired AI",
-      "published": "2026-10-21T14:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "agentic",
-        "anthropic",
-        "claude"
       ]
     }
   ],
