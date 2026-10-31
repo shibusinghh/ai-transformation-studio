@@ -1,6 +1,166 @@
 {
-  "updated": "2026-10-30T11:30:24.785193+00:00",
+  "updated": "2026-10-31T11:01:47.787720+00:00",
   "items": [
+    {
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "source": "Wired AI",
+      "published": "2026-10-31T10:30:00+00:00",
+      "score": 5,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "source": "Wired AI",
+      "published": "2026-10-31T10:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-30T21:52:03+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-30T21:26:59+00:00",
+      "score": 2,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "source": "Wired AI",
+      "published": "2026-10-30T21:19:26+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "source": "Ars Technica",
+      "published": "2026-10-30T21:09:54+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "source": "Ars Technica",
+      "published": "2026-10-30T19:30:52+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-30T17:47:12+00:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-30T17:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "source": "The Verge AI",
+      "published": "2026-10-30T16:48:43-04:00",
+      "score": 2,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "The Verge AI",
+      "published": "2026-10-30T16:26:10-04:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "openai",
+        "microsoft",
+        "google"
+      ]
+    },
+    {
+      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "source": "The Verge AI",
+      "published": "2026-10-30T14:21:38-04:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-30T13:54:25+00:00",
+      "score": 10,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents"
+      ]
+    },
+    {
+      "title": "Silicon Valley wants you to invest in miracles",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "source": "The Verge AI",
+      "published": "2026-10-30T09:11:05-04:00",
+      "score": 2,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "source": "The Verge AI",
+      "published": "2026-10-30T09:01:14-04:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
     {
       "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
       "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
@@ -34,47 +194,6 @@
       ]
     },
     {
-      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-      "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-      "source": "Ars Technica",
-      "published": "2026-10-29T16:24:55+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "source": "The Verge AI",
-      "published": "2026-10-29T14:45:31-04:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-29T14:35:26+00:00",
-      "score": 4,
-      "matched": [
-        "ai agent"
-      ]
-    },
-    {
-      "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
-      "link": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
-      "source": "Ars Technica",
-      "published": "2026-10-29T12:58:34+00:00",
-      "score": 2,
-      "matched": [
-        "agents"
-      ]
-    },
-    {
       "title": "The Download: AI agent tracking and climate feedback loops",
       "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
       "source": "MIT Tech Review",
@@ -86,19 +205,6 @@
         "ai governance",
         "agents",
         "governance"
-      ]
-    },
-    {
-      "title": "Microsoft’s AI future has fewer jobs",
-      "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-      "source": "The Verge AI",
-      "published": "2026-10-29T12:00:00-04:00",
-      "score": 7,
-      "matched": [
-        "workforce",
-        "jobs",
-        "employees",
-        "microsoft"
       ]
     },
     {
@@ -115,67 +221,6 @@
       ]
     },
     {
-      "title": "Anthropic is asking Wall Street to believe in AGI",
-      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "source": "The Verge AI",
-      "published": "2026-10-29T10:00:00-04:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic’s business plan: Build God or die trying",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-      "source": "The Verge AI",
-      "published": "2026-10-29T09:30:00-04:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-28T21:58:32+00:00",
-      "score": 2,
-      "matched": [
-        "microsoft"
-      ]
-    },
-    {
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-28T21:48:37+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-28T21:34:30+00:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "microsoft"
-      ]
-    },
-    {
-      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-28T21:25:30+00:00",
-      "score": 2,
-      "matched": [
-        "microsoft"
-      ]
-    },
-    {
       "title": "Creating AI value with enterprise context",
       "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
       "source": "MIT Tech Review",
@@ -184,27 +229,6 @@
       "matched": [
         "enterprise",
         "automation"
-      ]
-    },
-    {
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-28T19:19:58+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-      "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-      "source": "Ars Technica",
-      "published": "2026-10-28T18:47:27+00:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
       ]
     },
     {
@@ -217,37 +241,6 @@
         "ai agent",
         "ai agents",
         "agents"
-      ]
-    },
-    {
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "source": "Ars Technica",
-      "published": "2026-10-28T17:46:32+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-      "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-      "source": "Wired AI",
-      "published": "2026-10-27T19:39:04+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
-      "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-      "source": "Wired AI",
-      "published": "2026-10-27T15:10:26+00:00",
-      "score": 5,
-      "matched": [
-        "openai",
-        "chatgpt"
       ]
     },
     {
