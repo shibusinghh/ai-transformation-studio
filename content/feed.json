@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-07T11:51:03.026922+00:00",
+  "updated": "2026-11-08T12:04:02.464063+00:00",
   "items": [
+    {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source": "The Verge AI",
+      "published": "2026-11-07T07:30:00-05:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
     {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
@@ -65,16 +75,6 @@
       ]
     },
     {
-      "title": "Protesters break into Microsoft data center site in Amsterdam",
-      "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-      "source": "The Verge AI",
-      "published": "2026-11-06T06:55:19-05:00",
-      "score": 2,
-      "matched": [
-        "microsoft"
-      ]
-    },
-    {
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
       "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
       "source": "TechCrunch AI",
@@ -116,16 +116,6 @@
       ]
     },
     {
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "source": "The Verge AI",
-      "published": "2026-11-05T19:37:56-05:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
       "title": "OpenAI released a new cybersecurity model. Is that enough?",
       "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
       "source": "TechCrunch AI",
@@ -163,18 +153,6 @@
       "source": "TechCrunch AI",
       "published": "2026-11-05T16:16:45+00:00",
       "score": 5,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-05T14:42:00+00:00",
-      "score": 10,
       "matched": [
         "ai agent",
         "ai agents",
@@ -223,18 +201,6 @@
         "agentic",
         "ai agent",
         "enterprise"
-      ]
-    },
-    {
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-03T13:10:00+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
       ]
     }
   ],
