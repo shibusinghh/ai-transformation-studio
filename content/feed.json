@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-08T12:04:02.464063+00:00",
+  "updated": "2026-11-09T14:10:06.552710+00:00",
   "items": [
+    {
+      "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+      "link": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+      "source": "Wired AI",
+      "published": "2026-11-09T08:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Apple is racing to make Siri more agentic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "source": "The Verge AI",
+      "published": "2026-11-08T14:18:19-05:00",
+      "score": 8,
+      "matched": [
+        "agentic",
+        "ai agent",
+        "openai"
+      ]
+    },
     {
       "title": "Why a new report on Anthropic automating AI development is alarming researchers",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
@@ -123,84 +145,6 @@
       "score": 4,
       "matched": [
         "openai"
-      ]
-    },
-    {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-05T18:02:27+00:00",
-      "score": 7,
-      "matched": [
-        "anthropic",
-        "openai",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-05T18:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "claude"
-      ]
-    },
-    {
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-05T16:16:45+00:00",
-      "score": 5,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
-      ]
-    },
-    {
-      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-      "link": "https://www.wired.com/story/aina-smart-ring/",
-      "source": "Wired AI",
-      "published": "2026-11-05T14:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "ai agent",
-        "agents"
-      ]
-    },
-    {
-      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
-      "source": "Wired AI",
-      "published": "2026-11-05T11:45:00+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic",
-        "openai"
-      ]
-    },
-    {
-      "title": "The Download: blended meat, restored sight, and the agentic web",
-      "link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-04T13:10:00+00:00",
-      "score": 4,
-      "matched": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Securing the agentic enterprise with data lineage",
-      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-04T13:00:00+00:00",
-      "score": 8,
-      "matched": [
-        "agentic",
-        "ai agent",
-        "enterprise"
       ]
     }
   ],
