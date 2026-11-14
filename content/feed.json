@@ -1,6 +1,74 @@
 {
-  "updated": "2026-11-13T13:18:51.529719+00:00",
+  "updated": "2026-11-14T12:23:06.137254+00:00",
   "items": [
+    {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-13T19:37:57+00:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+      "source": "Wired AI",
+      "published": "2026-11-13T19:08:57+00:00",
+      "score": 2,
+      "matched": [
+        "microsoft"
+      ]
+    },
+    {
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T17:25:45+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-13T16:00:12+00:00",
+      "score": 13,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "agents",
+        "rollout",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge AI",
+      "published": "2026-11-13T15:45:10-05:00",
+      "score": 12,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "openai",
+        "agents",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+      "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T15:26:53+00:00",
+      "score": 2,
+      "matched": [
+        "microsoft"
+      ]
+    },
     {
       "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
       "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
@@ -10,6 +78,19 @@
       "matched": [
         "openai",
         "google"
+      ]
+    },
+    {
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "source": "The Verge AI",
+      "published": "2026-11-13T09:00:00-05:00",
+      "score": 9,
+      "matched": [
+        "ai agent",
+        "anthropic",
+        "claude",
+        "agents"
       ]
     },
     {
@@ -42,17 +123,6 @@
       "score": 4,
       "matched": [
         "ai agent"
-      ]
-    },
-    {
-      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-      "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T18:57:45+00:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
       ]
     },
     {
@@ -89,17 +159,6 @@
       ]
     },
     {
-      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-      "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T14:50:17+00:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
       "title": "No, AI agents did not discover a previously unknown Maya site",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
       "source": "The Verge AI",
@@ -110,17 +169,6 @@
         "ai agents",
         "agents",
         "google"
-      ]
-    },
-    {
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "source": "The Verge AI",
-      "published": "2026-11-12T12:00:00-05:00",
-      "score": 3,
-      "matched": [
-        "gemini",
-        "chatgpt"
       ]
     }
   ],
