@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-14T12:23:06.137254+00:00",
+  "updated": "2026-11-15T12:53:21.159859+00:00",
   "items": [
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-14T17:30:00+00:00",
+      "score": 2,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge AI",
+      "published": "2026-11-14T10:00:00-05:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
     {
       "title": "AI agent startup LangChain hits $3B valuation",
       "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
@@ -105,17 +125,6 @@
       ]
     },
     {
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T19:23:03+00:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
       "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
       "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
       "source": "TechCrunch AI",
@@ -123,28 +132,6 @@
       "score": 4,
       "matched": [
         "ai agent"
-      ]
-    },
-    {
-      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-      "link": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
-      "source": "Wired AI",
-      "published": "2026-11-12T18:05:41+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T17:17:58+00:00",
-      "score": 10,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
       ]
     },
     {
