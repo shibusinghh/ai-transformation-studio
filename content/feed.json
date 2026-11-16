@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T12:53:21.159859+00:00",
+  "updated": "2026-11-16T13:53:24.734942+00:00",
   "items": [
     {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -97,64 +97,6 @@
       "score": 3,
       "matched": [
         "openai",
-        "google"
-      ]
-    },
-    {
-      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "source": "The Verge AI",
-      "published": "2026-11-13T09:00:00-05:00",
-      "score": 9,
-      "matched": [
-        "ai agent",
-        "anthropic",
-        "claude",
-        "agents"
-      ]
-    },
-    {
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T19:27:45+00:00",
-      "score": 4,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T19:11:00+00:00",
-      "score": 4,
-      "matched": [
-        "ai agent"
-      ]
-    },
-    {
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "source": "The Verge AI",
-      "published": "2026-11-12T16:55:32-05:00",
-      "score": 6,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "No, AI agents did not discover a previously unknown Maya site",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "source": "The Verge AI",
-      "published": "2026-11-12T14:42:40-05:00",
-      "score": 11,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents",
         "google"
       ]
     }
