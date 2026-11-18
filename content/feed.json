@@ -1,6 +1,136 @@
 {
-  "updated": "2026-11-17T14:45:15.885790+00:00",
+  "updated": "2026-11-18T14:25:31.763790+00:00",
   "items": [
+    {
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-18T12:00:00+00:00",
+      "score": 12,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "source": "Ars Technica",
+      "published": "2026-11-18T00:27:29+00:00",
+      "score": 5,
+      "matched": [
+        "copilot",
+        "agents"
+      ]
+    },
+    {
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T22:29:05+00:00",
+      "score": 6,
+      "matched": [
+        "anthropic",
+        "google"
+      ]
+    },
+    {
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T21:34:50+00:00",
+      "score": 2,
+      "matched": [
+        "google"
+      ]
+    },
+    {
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T19:02:20+00:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T18:48:23+00:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "link": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "source": "Ars Technica",
+      "published": "2026-11-17T18:13:34+00:00",
+      "score": 4,
+      "matched": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T18:04:16+00:00",
+      "score": 2,
+      "matched": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T17:32:25+00:00",
+      "score": 6,
+      "matched": [
+        "claude",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "source": "Ars Technica",
+      "published": "2026-11-17T16:50:10+00:00",
+      "score": 6,
+      "matched": [
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T16:32:55+00:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "source": "The Verge AI",
+      "published": "2026-11-17T16:00:55-05:00",
+      "score": 4,
+      "matched": [
+        "ai agent",
+        "openai"
+      ]
+    },
     {
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
       "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
@@ -9,6 +139,18 @@
       "score": 2,
       "matched": [
         "ai agent"
+      ]
+    },
+    {
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "source": "The Verge AI",
+      "published": "2026-11-17T13:58:01-05:00",
+      "score": 8,
+      "matched": [
+        "ai agent",
+        "gemini",
+        "google"
       ]
     },
     {
@@ -43,47 +185,6 @@
       ]
     },
     {
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T20:07:13+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T18:11:10+00:00",
-      "score": 2,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T17:02:43+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T17:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "openai",
-        "chatgpt"
-      ]
-    },
-    {
       "title": "Building trustworthy AI by fencing it in, not predicting it",
       "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
       "source": "MIT Tech Review",
@@ -110,47 +211,6 @@
       ]
     },
     {
-      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-      "source": "The Verge AI",
-      "published": "2026-11-16T15:41:28-05:00",
-      "score": 2,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-      "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T14:48:13+00:00",
-      "score": 2,
-      "matched": [
-        "google"
-      ]
-    },
-    {
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-      "source": "The Verge AI",
-      "published": "2026-11-16T14:23:45-05:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-      "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-      "source": "The Verge AI",
-      "published": "2026-11-16T13:43:35-05:00",
-      "score": 3,
-      "matched": [
-        "employees",
-        "hiring"
-      ]
-    },
-    {
       "title": "Building AI that can work across the enterprise",
       "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
       "source": "MIT Tech Review",
@@ -162,27 +222,6 @@
         "enterprise",
         "agents",
         "governance"
-      ]
-    },
-    {
-      "title": "Google Maps can now create trip itineraries for you",
-      "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-      "source": "The Verge AI",
-      "published": "2026-11-16T09:00:00-05:00",
-      "score": 4,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
-      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-      "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
-      "source": "Wired AI",
-      "published": "2026-11-13T19:08:57+00:00",
-      "score": 2,
-      "matched": [
-        "microsoft"
       ]
     }
   ],
