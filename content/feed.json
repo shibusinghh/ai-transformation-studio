@@ -1,6 +1,100 @@
 {
-  "updated": "2026-11-24T16:07:30.096476+00:00",
+  "updated": "2026-11-25T15:53:53.573567+00:00",
   "items": [
+    {
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-25T14:10:18+00:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "source": "The Verge AI",
+      "published": "2026-11-25T09:12:33-05:00",
+      "score": 2,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "source": "The Verge AI",
+      "published": "2026-11-25T08:00:00-05:00",
+      "score": 3,
+      "matched": [
+        "claude",
+        "agents"
+      ]
+    },
+    {
+      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+      "source": "Ars Technica",
+      "published": "2026-11-24T22:36:28+00:00",
+      "score": 2,
+      "matched": [
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Even the best AI agents struggle with everyday life",
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-24T21:33:29+00:00",
+      "score": 11,
+      "matched": [
+        "ai agent",
+        "ai agents",
+        "benchmark",
+        "agents"
+      ]
+    },
+    {
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-24T21:32:38+00:00",
+      "score": 4,
+      "matched": [
+        "ai agent"
+      ]
+    },
+    {
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-24T18:30:42+00:00",
+      "score": 4,
+      "matched": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+      "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+      "source": "Wired AI",
+      "published": "2026-11-24T17:44:53+00:00",
+      "score": 2,
+      "matched": [
+        "employees"
+      ]
+    },
+    {
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-24T17:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "ai agent"
+      ]
+    },
     {
       "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
       "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
@@ -11,20 +105,6 @@
         "ai agent",
         "ai agents",
         "anthropic",
-        "agents"
-      ]
-    },
-    {
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-24T15:15:16+00:00",
-      "score": 9,
-      "matched": [
-        "agentic",
-        "ai agent",
-        "ai agents",
-        "enterprise",
         "agents"
       ]
     },
@@ -78,27 +158,6 @@
       ]
     },
     {
-      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-      "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-23T20:38:53+00:00",
-      "score": 2,
-      "matched": [
-        "employees"
-      ]
-    },
-    {
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-23T19:14:46+00:00",
-      "score": 4,
-      "matched": [
-        "gemini",
-        "google"
-      ]
-    },
-    {
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
       "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
       "source": "MIT Tech Review",
@@ -106,29 +165,6 @@
       "score": 4,
       "matched": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "source": "The Verge AI",
-      "published": "2026-11-23T15:00:00-05:00",
-      "score": 6,
-      "matched": [
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
-      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
-      "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
-      "source": "Ars Technica",
-      "published": "2026-11-23T12:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "ai agent",
-        "ai agents",
-        "agents"
       ]
     },
     {
@@ -140,36 +176,6 @@
       "matched": [
         "microsoft",
         "google"
-      ]
-    },
-    {
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-23T01:25:53+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-22T21:14:07+00:00",
-      "score": 4,
-      "matched": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Banks Have Had It Up to Here With Your AI Agent",
-      "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-      "source": "Wired AI",
-      "published": "2026-11-22T11:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "ai agent"
       ]
     }
   ],
