@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-26T15:34:53.693344+00:00",
+  "updated": "2026-11-27T15:26:24.835407+00:00",
   "items": [
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-26T16:00:00+00:00",
+      "score": 2,
+      "matched": [
+        "anthropic"
+      ]
+    },
     {
       "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
       "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
@@ -177,27 +187,6 @@
       "score": 2,
       "matched": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-23T17:36:08+00:00",
-      "score": 4,
-      "matched": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-      "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-23T11:00:00+00:00",
-      "score": 2,
-      "matched": [
-        "microsoft",
-        "google"
       ]
     }
   ],
